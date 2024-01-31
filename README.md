@@ -1,12 +1,11 @@
-This is the NCHS Nav project!
+# NCHS Nav 
 
-We're trying to create an app which helps people navigate and find routes throughout the school in the fastest way possible.
-
+A progressive web app to help you find your way around school.  
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Development
 First, install the project's packages: 
 ```bash
 npm i
