@@ -1,5 +1,6 @@
 # NCHS Nav 
 
+[![NCHS Nav logo](https://github.com/NCHS-Software-Engineering-2023-2024/NCHSNav/raw/update-readme/public/nchsnav.svg)]
 A progressive web app to help you find your way around school.  
 
 
