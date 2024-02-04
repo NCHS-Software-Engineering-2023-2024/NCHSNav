@@ -13,8 +13,15 @@ function SchoolMap({ data }) {
           latitude: 41.7674,
           zoom: 17
         }}
-        style={{width: 1800, height: 960}}
-        mapStyle="mapbox://styles/mapbox/streets-v9"
+        width="100%"
+        height="100%"
+        style={{
+          position: 'absolute',
+          top: 0,
+          left: 0
+          }}
+        mapStyle="mapbox://styles/ejscamehorn/cls6whfn702cy01p1gmy2geqo"
+
       >
         <Source type="geojson" data={data}>
           <Layer
