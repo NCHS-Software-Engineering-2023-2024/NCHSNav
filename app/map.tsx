@@ -1,9 +1,12 @@
+// client (browser) interacts with SchoolMap this can't 
+// be a react server function.
 "use client";
 
+// react mapbox gl library
 import 'mapbox-gl/dist/mapbox-gl.css';
 import Map, {Source, Layer} from "react-map-gl"
 
-function SchoolMap({ data }) {
+export default function SchoolMap({ data }) {
   return (
     <main className="h-max w-full">
       <Map
@@ -36,5 +39,3 @@ function SchoolMap({ data }) {
     </main>
   )
 }
-
-export default SchoolMap;
