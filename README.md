@@ -8,17 +8,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, install the project's packages: 
 ```bash
 npm i
-```
-
-ENV instructions  
-1. Once you have a cloned repo, make a copy of the file under the app folder called `env. example`
-2. name this copy `env. local`
-3. To make your API key, go to Mapbox.com
-4. Make an account(choose for personal purposes)
-5. Scroll down under "Access Tokens" and copy the key under "Default public tokens"  
-
-
-
+```  
+  
+Next, set up the local environment:  
+1. Copy `.env.example` to a new file titled `.env.local`  
+2. To make your API key, sign in to a [mapbox account.](https://account.mapbox.com/auth/signin/)  
+4. Once logged in paste your "Default public token" to your `.env.local`  
+  
 To run the development server:
 ```bash
 npm run dev
