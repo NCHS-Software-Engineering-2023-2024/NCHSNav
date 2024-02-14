@@ -15,6 +15,16 @@ const floorplan: any = {
   }
 }
 
+
+const floorplan_transparent: any = {
+  id: "floor_plan",
+  type: "line",
+  paint: {
+    'fill-color': 'black',
+    'fill-opacity': 0
+  }
+}
+
 const mapAttr: any = {
   mapboxAccessToken: process.env.NEXT_PUBLIC_MAPBOX_ACCESS_TOKEN,
   initialViewState: {
@@ -39,6 +49,9 @@ export default function SchoolMap({ data , data2 }) {
     <NavigationControl />
     <Source type="geojson" data={data}>
       <Layer {...floorplan} />
+
+      <Source type="geojson" data={data2}>
+      <Layer {...floorplan_transparent} />
     </Source>
   </Map>;
 }
