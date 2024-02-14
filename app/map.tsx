@@ -32,7 +32,7 @@ const mapAttr: any = {
     }
 }
 
-export default function SchoolMap({ data }) {
+export default function SchoolMap({ data , data2 }) {
   return <Map {...mapAttr}  >
     <GeolocateControl />
     <ScaleControl />
