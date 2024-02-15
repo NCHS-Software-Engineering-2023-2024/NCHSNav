@@ -4,7 +4,8 @@
 
 // react mapbox gl library
 import 'mapbox-gl/dist/mapbox-gl.css';
-import Map, {Source, Layer, GeolocateControl, ScaleControl, NavigationControl } from "react-map-gl"
+import Map, {Source, Layer, GeolocateControl, ScaleControl, NavigationControl, ViewStateChangeEvent } from "react-map-gl"
+import { useState } from 'react';
 
 const floorplan: any = {
   id: "floor_plan",
@@ -12,16 +13,6 @@ const floorplan: any = {
   paint: {
     'fill-color': 'black',
     'fill-opacity': 0.9
-  }
-}
-
-
-const floorplan_transparent: any = {
-  id: "floor_plan",
-  type: "line",
-  paint: {
-    'fill-color': 'black',
-    'fill-opacity': 0
   }
 }
 
@@ -42,16 +33,19 @@ const mapAttr: any = {
     }
 }
 
-export default function SchoolMap({ data , data2 }) {
-  return <Map {...mapAttr}  >
+export default function SchoolMap( { data , data2 } : { data: any, data2: any } ) {
+  const [zoom, setZoom] = useState(mapAttr.initialViewState.zoom);
+
+  const handleZoomChange = (event: ViewStateChangeEvent) => {
+    setZoom(event.viewState.zoom)
+    console.log("zoom changed to", event.viewState.zoom)
+  };
+  return <Map {...mapAttr} onZoomEnd={handleZoomChange}>
     <GeolocateControl />
     <ScaleControl />
     <NavigationControl />
-    <Source type="geojson" data={data}>
+    <Source type="geojson" data={zoom > 17.5 ? data2 : data}>
       <Layer {...floorplan} />
-
-      <Source type="geojson" data={data2}>
-      <Layer {...floorplan_transparent} />
     </Source>
   </Map>;
 }
