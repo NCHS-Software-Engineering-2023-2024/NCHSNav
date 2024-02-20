@@ -35,18 +35,36 @@ const mapAttr: any = {
 
 export default function SchoolMap( { data , data2 } : { data: any, data2: any } ) {
   const [zoom, setZoom] = useState(mapAttr.initialViewState.zoom);
+  const [selectedButton, setSelectedButton] = useState(1); // Initially selected button is 1
+  const handleButtonClick = (buttonNumber: number) => {
+    setSelectedButton(buttonNumber);
+  };
+
 
   const handleZoomChange = (event: ViewStateChangeEvent) => {
     setZoom(event.viewState.zoom)
     console.log("zoom changed to", event.viewState.zoom)
   };
-  return <Map {...mapAttr} onZoomEnd={handleZoomChange}>
+  return (
+
+    <div>
+
+
+  <Map {...mapAttr} onZoomEnd={handleZoomChange}>
     <GeolocateControl />
     <ScaleControl />
     <NavigationControl />
-    <Source type="geojson" data={zoom > 17.5 ? data2 : data}>
+    { /** <Source type="geojson" data={zoom > 17.5 ? data2 : data}> */}
+    <Source type="geojson" data={selectedButton === 1 ? data : data2}>
+
       <Layer {...floorplan} />
     </Source>
-  </Map>;
+  </Map>
+  <div className="absolute bottom-4 right-4 flex space-x-2">
+        <button className="w-10 h-10 bg-blue-500 text-white rounded-full flex items-center justify-center" onClick={() => handleButtonClick(1)}>1</button>
+        <button className="w-10 h-10 bg-blue-500 text-white rounded-full flex items-center justify-center" onClick={() => handleButtonClick(2)}>2</button>
+        <button className="w-10 h-10 bg-blue-500 text-white rounded-full flex items-center justify-center" onClick={() => handleButtonClick(1)}>3</button>
+      </div>
+  </div>);
 }
 
