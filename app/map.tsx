@@ -6,6 +6,7 @@
 import 'mapbox-gl/dist/mapbox-gl.css';
 import Map, {Source, Layer, GeolocateControl, ScaleControl, NavigationControl, ViewStateChangeEvent } from "react-map-gl"
 import { useState } from 'react';
+import Link from 'next/link';
 
 const floorplan: any = {
   id: "floor_plan",
@@ -72,6 +73,10 @@ export default function SchoolMap( { data , data2 } : { data: any, data2: any } 
   <div>className="absolute top-4 left-4"</div>
   <div style={{ position: 'absolute', top: '20px', left: '50%', transform: 'translateX(-50%)', zIndex: 1 }}>
   <input type="text" placeholder="Search Classroom" value={classroom} onChange={handleInputChange} className="p-2 rounded-lg border border-gray-300 focus:outline-none" />
+  <Link href="/api/auth/signin" className="p-2 rounded-lg border border-gray-300 focus:outline-none">Sign in </Link>
+
+
+
   </div>
   <div className="absolute bottom-4 right-4 flex space-x-2">
         <button className="w-10 h-10 bg-blue-500 text-white rounded-full flex items-center justify-center" onClick={() => handleButtonClick(1)}>1</button>
