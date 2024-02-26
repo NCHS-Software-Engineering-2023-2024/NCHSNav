@@ -74,6 +74,7 @@ export default function SchoolMap( { data , data2 } : { data: any, data2: any } 
   <div style={{ position: 'absolute', top: '20px', left: '50%', transform: 'translateX(-50%)', zIndex: 1 }}>
   <input type="text" placeholder="Search Classroom" value={classroom} onChange={handleInputChange} className="p-2 rounded-lg border border-gray-300 focus:outline-none" />
   <Link href="/api/auth/signin" className="p-2 rounded-lg border border-gray-300 focus:outline-none">Sign in </Link>
+  
 
 
 
