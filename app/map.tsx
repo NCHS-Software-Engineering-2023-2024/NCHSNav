@@ -34,8 +34,9 @@ const mapAttr: any = {
     }
 }
 
-export default function SchoolMap( { data , data2 } : { data: any, data2: any } ) {
+export default function SchoolMap( { data[] } : { data: any[] } ) {
   const [zoom, setZoom] = useState(mapAttr.initialViewState.zoom);
+  const [layerSrc, setLayerSrc] = useState(0);
   const [selectedButton, setSelectedButton] = useState(1); // Initially selected button is 1
   const [classroom, setClassroom] = useState("");
   const handleButtonClick = (buttonNumber: number) => {
@@ -66,7 +67,6 @@ export default function SchoolMap( { data , data2 } : { data: any, data2: any } 
     <NavigationControl />
     { /** <Source type="geojson" data={zoom > 17.5 ? data2 : data}> */}
     <Source type="geojson" data={selectedButton === 1 ? data : data2}>
-
       <Layer {...floorplan} />
     </Source>
   </Map>
