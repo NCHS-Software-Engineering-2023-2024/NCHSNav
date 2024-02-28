@@ -9,8 +9,10 @@ import fs from 'fs';
 import SchoolMap from './map';
 
 // server gets geojson of nchs floorplan from file
-const filePath = "mapping-src/nchs floorplan georeferenced 4326.geojson"
+const filePath = "mapping-src/NCHS Map Floor 1 No Labels.geojson"
+const filePath2 = "mapping-src/nchs floorplan georeferenced 4326.geojson"
 const geojson: any = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+const geojson2: any = JSON.parse(fs.readFileSync(filePath2, 'utf-8'));
 
 export default function Home() {
   return (
@@ -18,6 +20,7 @@ export default function Home() {
       {/* render mapbox with the geojson on top */}
       <SchoolMap
         data={geojson}
+        data2={geojson2}
       />
     </main>
   );
