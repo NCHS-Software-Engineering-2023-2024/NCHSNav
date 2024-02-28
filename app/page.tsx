@@ -15,7 +15,6 @@ const geojson: any = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
 export default function Home() {
   return (
     <main>
-      hello world!
       {/* render mapbox with the geojson on top */}
       <SchoolMap
         data={geojson}
