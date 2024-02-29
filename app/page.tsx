@@ -9,19 +9,22 @@ import fs from 'fs';
 import SchoolMap from './map';
 
 // server gets geojson of nchs floorplan from file
+const prefix: string = "mapping-src/geojson/";
 const filePaths: string[] = [
-  "mapping-src/NCHS Map Floor 1 No Labels.geojson",
-  "mapping-src/NCHS Map Floor 1 Labels.geojson"
+  "0_labels.geojson",
+  "0_labels.geojson",
+  "1_labels.geojson",
+  "1_nolabels.geojson",
+  "2_labels.geojson",
+  "2_labels.geojson",
+  "3_labels.geojson",
+  "3_labels.geojson"
 ];
-//const filePath = "mapping-src/NCHS Map Floor 1 No Labels.geojson"
-//const filePath2 = "mapping-src/nchs floorplan georeferenced 4326.geojson"
 
 const geojsonArray: any[] = [];
-
-
 const readAndParseGeoJSON = (filePath: string): void => {
   try {
-    const geojson: any = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+    const geojson: any = JSON.parse(fs.readFileSync(prefix+filePath, 'utf-8'));
     geojsonArray.push(geojson);
   } catch (error) {
     console.error(`Error reading or parsing ${filePath}: ${error.message}`);
@@ -34,16 +37,13 @@ filePaths.forEach((filePath: string) => {
 });
 
 
-//const geojson: any = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-//const geojson2: any = JSON.parse(fs.readFileSync(filePath2, 'utf-8'));
 
 export default function Home() {
   return (
     <main>
       {/* render mapbox with the geojson on top */}
       <SchoolMap
-        data={geojson}
-        data2={geojson2}
+        data={geojsonArray}
       />
     </main>
   );
