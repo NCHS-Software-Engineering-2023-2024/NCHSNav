@@ -26,7 +26,7 @@ const readAndParseGeoJSON = (filePath: string): void => {
   try {
     const geojson: any = JSON.parse(fs.readFileSync(prefix+filePath, 'utf-8'));
     geojsonArray.push(geojson);
-  } catch (error) {
+  } catch (error: any) {
     console.error(`Error reading or parsing ${filePath}: ${error.message}`);
   }
 };
