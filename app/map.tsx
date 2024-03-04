@@ -41,13 +41,15 @@ export default function SchoolMap( { data } : { data: any[] } ) {
   const [classroom, setClassroom] = useState("");
   const handleButtonClick = (buttonNumber: number) => {
     setSelectedButton(buttonNumber);
-    setLayerSrc(zoom > 17.5 ? selectedButton : 1 + selectedButton )
+    console.log(buttonNumber)
+    handleLayerChange(zoom > 17.5 ? buttonNumber : 1 + buttonNumber )
   };
 
 
   const handleZoomChange = (event: ViewStateChangeEvent) => {
     setZoom(event.viewState.zoom)
-    setLayerSrc(zoom > 17.5 ? selectedButton : 1 + selectedButton )
+    console.log(event.viewState.zoom)
+    handleLayerChange(zoom < 17.5 ? selectedButton : 1 + selectedButton )
   };
 
 
@@ -57,6 +59,11 @@ export default function SchoolMap( { data } : { data: any[] } ) {
 
   const handleSearch = () => {
     console.log("Searching for classrom:",classroom);
+  }
+  
+  const handleLayerChange = (layerNumber: number) => {
+    console.log("changing layer to",layerNumber);
+    setLayerSrc(layerNumber)
   }
 
   return (
@@ -80,9 +87,9 @@ export default function SchoolMap( { data } : { data: any[] } ) {
   </div>
   <div className="absolute bottom-4 right-4 flex space-x-2">
         <button className="w-10 h-10 bg-blue-500 text-white rounded-full flex items-center justify-center" onClick={() => handleButtonClick(0)}>B</button>
-        <button className="w-10 h-10 bg-blue-500 text-white rounded-full flex items-center justify-center" onClick={() => handleButtonClick(1)}>1</button>
-        <button className="w-10 h-10 bg-blue-500 text-white rounded-full flex items-center justify-center" onClick={() => handleButtonClick(2)}>2</button>
-        <button className="w-10 h-10 bg-blue-500 text-white rounded-full flex items-center justify-center" onClick={() => handleButtonClick(3)}>3</button>
+        <button className="w-10 h-10 bg-blue-500 text-white rounded-full flex items-center justify-center" onClick={() => handleButtonClick(2)}>1</button>
+        <button className="w-10 h-10 bg-blue-500 text-white rounded-full flex items-center justify-center" onClick={() => handleButtonClick(4)}>2</button>
+        <button className="w-10 h-10 bg-blue-500 text-white rounded-full flex items-center justify-center" onClick={() => handleButtonClick(6)}>3</button>
       </div>
   </div>);
 }
