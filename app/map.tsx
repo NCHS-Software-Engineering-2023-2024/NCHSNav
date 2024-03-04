@@ -42,7 +42,7 @@ export default function SchoolMap( { data } : { data: any[] } ) {
   const handleButtonClick = (buttonNumber: number) => {
     setSelectedButton(buttonNumber);
     console.log(buttonNumber)
-    handleLayerChange(zoom > 17.5 ? buttonNumber : 1 + buttonNumber )
+    handleLayerChange(zoom < 17.5 ? buttonNumber : 1 + buttonNumber )
   };
 
 
