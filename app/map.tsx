@@ -36,20 +36,20 @@ const mapAttr: any = {
 
 export default function SchoolMap( { data } : { data: any[] } ) {
   const [zoom, setZoom] = useState(mapAttr.initialViewState.zoom);
-  const [layerSrc, setLayerSrc] = useState(1);
-  const [selectedButton, setSelectedButton] = useState(1); // Initially selected button is 1
+  const [layerSrc, setLayerSrc] = useState(2);
+  const [selectedButton, setSelectedButton] = useState(2); // Initially selected button is 1
   const [classroom, setClassroom] = useState("");
   const handleButtonClick = (buttonNumber: number) => {
     setSelectedButton(buttonNumber);
     console.log(buttonNumber)
-    handleLayerChange(zoom < 17.5 ? buttonNumber : 1 + buttonNumber )
+    handleLayerChange(zoom > 17.5 ? buttonNumber : 1 + buttonNumber )
   };
 
 
   const handleZoomChange = (event: ViewStateChangeEvent) => {
     setZoom(event.viewState.zoom)
     console.log(event.viewState.zoom)
-    handleLayerChange(zoom < 17.5 ? selectedButton : 1 + selectedButton )
+    handleLayerChange(zoom > 17.5 ? selectedButton : 1 + selectedButton )
   };
 
 
