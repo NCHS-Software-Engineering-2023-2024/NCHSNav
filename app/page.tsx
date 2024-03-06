@@ -12,19 +12,19 @@ import SchoolMap from './map';
 const prefix: string = "mapping-src/geojson/";
 const filePaths: string[] = [
   "0_labels.geojson",
-  "0_labels.geojson",
+  "0_nolabels.geojson",
   "1_labels.geojson",
   "1_nolabels.geojson",
   "2_labels.geojson",
-  "2_labels.geojson",
+  "2_nolabels.geojson",
   "3_labels.geojson",
-  "3_labels.geojson"
+  "3_nolabels.geojson"
 ];
 
 const geojsonArray: any[] = [];
 const readAndParseGeoJSON = (filePath: string): void => {
   try {
-    const geojson: any = JSON.parse(fs.readFileSync(prefix+filePath, 'utf-8'));
+    const geojson: any = JSON.parse(fs.readFileSync(prefix + filePath, 'utf-8'));
     geojsonArray.push(geojson);
   } catch (error: any) {
     console.error(`Error reading or parsing ${filePath}: ${error.message}`);
