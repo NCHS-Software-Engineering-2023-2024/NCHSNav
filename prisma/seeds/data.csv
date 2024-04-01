@@ -1,4 +1,5 @@
 ﻿period,id,section,class_name,teacher_lastname,teacher_firstname,teacher_email,room
+
 01,936011,10,Study Hall,Nussbaum,Andrew,ajnussbaum@naperville203.org,Cafe
 01,936011,11,Study Hall,Newcomb,Sara,snewcomb@naperville203.org,Cafe
 01,936011,12,Study Hall,Zwickert,Letitia,lzwickert@naperville203.org,Cafe
