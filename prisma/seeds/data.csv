@@ -1,0 +1,2078 @@
+﻿period,id,section,class_name,teacher_lastname,teacher_firstname,teacher_email,room
+01,936011,10,Study Hall,Nussbaum,Andrew,ajnussbaum@naperville203.org,Cafe
+01,936011,11,Study Hall,Newcomb,Sara,snewcomb@naperville203.org,Cafe
+01,936011,12,Study Hall,Zwickert,Letitia,lzwickert@naperville203.org,Cafe
+01,936012,10,Study Hall,Estes,Brandon,bestes@naperville203.org,Cafe
+01,936012,11,Study Hall,Griffith,Crystal,cgriffith@naperville203.org,Cafe
+01,946411,1,Supported Study Hall,Cunningham,Stacy,scunningham@naperville203.org,104
+01,946411,2,Supported Study Hall,Johnson,Susan,sajohnson@naperville203.org,239
+01,946412,1,Supported Study Hall,Cunningham,Stacy,scunningham@naperville203.org,104
+01,946412,2,Supported Study Hall,Johnson,Susan,sajohnson@naperville203.org,236
+01,95001A,1,SAT Preparation,Drury,Kathryn,KDrury@Naperville203.org,247
+01,967211,11,Teacher Assistant,Mielcarz,Kelly,kmielcarz@naperville203.org,84
+01,967211,12,Teacher Assistant,Padgett,Gregory,gspadgett@naperville203.org,77
+01,967211,14,Teacher Assistant,Keller,Melissa,mkeller@naperville203.org,88
+01,967212,11,Teacher Assistant,Mielcarz,Kelly,kmielcarz@naperville203.org,84
+01,967212,13,Teacher Assistant,Keller,Melissa,mkeller@naperville203.org,88
+01,98569C,1,Multilingual ALOP,Perez,Martha,mperez1@naperville203.org,272
+01,98569D,1,Multilingual ALOP,Perez,Martha,mperez1@naperville203.org,272
+01,A1301C,1,Design Concepts,Rehs,Shannon,srehs@naperville203.org,134
+01,A16011,1,Drawing 1,Cirone,Daniela,dcirone@naperville203.org,75
+01,A16012,1,Drawing 1,Mory,Zachary,ZMory@Naperville203.org,54
+01,A19012,1,Drawing 2,Hodge,Christopher,chodge@naperville203.org,75
+01,A20012,1,Drawing 3,Hodge,Christopher,chodge@naperville203.org,75
+01,A21012,1,Drawing 4,Hodge,Christopher,chodge@naperville203.org,75
+01,A3201D,1,Intro to Printmaking,Hill,Rachel,RHill@Naperville203.org,134
+01,A37011,1,Ceramics 1,Padgett,Gregory,gspadgett@naperville203.org,77
+01,A37012,1,Ceramics 1,Padgett,Gregory,gspadgett@naperville203.org,77
+01,A43011,1,Jewelry Metals 1,Figueroa,Danielle,dfigueroa@naperville203.org,78
+01,A43012,1,Jewelry Metals 1,Figueroa,Danielle,dfigueroa@naperville203.org,78
+01,A50011,1,Photography 1 (Traditional),Murphy,Amy,amurphy@naperville203.org,76
+01,A50012,1,Photography 1 (Traditional),Murphy,Amy,amurphy@naperville203.org,76
+01,A910A1,1,AP Art History,Matas,Janell,jmatas@naperville203.org,NNHS - 153
+01,B10011,1,Introduction to Business,Epstein,Nikole,nepstein@naperville203.org,48
+01,B10012,1,Introduction to Business,Epstein,Nikole,nepstein@naperville203.org,48
+01,B120BC,1,Tech Edge,Betthauser,Jennifer,JBetthauser@Naperville203.org,123
+01,B120BD,1,Tech Edge,Betthauser,Jennifer,JBetthauser@Naperville203.org,123
+01,B260C1,1,Honors College Accounting,Hicks,Aislinn,ahicks@naperville203.org,40
+01,B260C2,1,Honors College Accounting,Hicks,Aislinn,ahicks@naperville203.org,40
+01,B370W1,1,Business INCubatoredu,Neubauer,Bradley,bneubauer@naperville203.org,245
+01,B370W2,1,Business INCubatoredu,Neubauer,Bradley,bneubauer@naperville203.org,245
+01,B48012,1,Game Design,Miller,Derek,djmiller@naperville203.org,46
+01,B560A1,1,AP Computer Science A,Hayes,Kevin,khayes@naperville203.org,52
+01,B560A2,1,AP Computer Science A,Hayes,Kevin,khayes@naperville203.org,52
+01,B7001C,1,Consumer Economics,Rorer,Terri,trorer@naperville203.org,119
+01,B7001D,1,Consumer Economics,Donovan,Meghan,MDonovan@Naperville203.org,119
+01,B700N1,1,Blended Consumer Economics,Barry,Kathleen,kbarry@naperville203.org,39
+01,B700N2,1,Blended Consumer Economics,Barry,Kathleen,kbarry@naperville203.org,48
+01,C12011,1,English 1,Roth,Luke,lwroth@naperville203.org,204
+01,C12012,1,English 1,Roth,Luke,lwroth@naperville203.org,204
+01,C1201C,1,English 1,Nierman,Brian,bnierman@naperville203.org,262
+01,C1201D,1,English 1,Nierman,Brian,bnierman@naperville203.org,262
+01,C12061,1,English 1,Sprovieri,Alyssa,asprovieri@naperville203.org,128
+01,C12062,1,English 1,Sprovieri,Alyssa,asprovieri@naperville203.org,128
+01,C120H1,1,Honors English 1,Granatelli,Maxyne,mgranatelli@naperville203.org,214
+01,C120H1,2,Honors English 1,Hindi,Mthal,MHindi@Naperville203.org,205
+01,C120H2,1,Honors English 1,Granatelli,Maxyne,mgranatelli@naperville203.org,214
+01,C120H2,2,Honors English 1,Hindi,Mthal,MHindi@Naperville203.org,205
+01,C17011,1,English 2,Baldwin,Barry,bbaldwin@naperville203.org,203
+01,C17012,1,English 2,Baldwin,Barry,bbaldwin@naperville203.org,203
+01,C1701C,1,English 2,Nierman,Brian,bnierman@naperville203.org,262
+01,C1701D,1,English 2,Nierman,Brian,bnierman@naperville203.org,262
+01,C17021,1,English 2,Simon,Jennifer,jsimon@naperville203.org,207
+01,C17022,1,English 2,Simon,Jennifer,jsimon@naperville203.org,207
+01,C17061,1,English 2,Sprovieri,Alyssa,asprovieri@naperville203.org,128
+01,C17062,1,English 2,Sprovieri,Alyssa,asprovieri@naperville203.org,128
+01,C170H1,1,Honors English 2,Doman,Michael,mdoman@naperville203.org,201
+01,C170H2,1,Honors English 2,Doman,Michael,mdoman@naperville203.org,201
+01,C19011,1,English 2 : Journalism,Weiss,Nicole,nweiss@naperville203.org,216
+01,C19012,1,English 2 : Journalism,Weiss,Nicole,nweiss@naperville203.org,216
+01,C190H1,1,Honors English 2 : Journalism,Carlson,Keith,kcarlson@naperville203.org,218
+01,C190H2,1,Honors English 2 : Journalism,Carlson,Keith,kcarlson@naperville203.org,218
+01,C2001C,1,Speech Communication,Hitzeman,Helena,hhitzeman@naperville203.org,246
+01,C2009D,1,EL Speech and Communication,Evans,Kimberly,KEvans@Naperville203.org,250
+01,C2019C,1,EL Writing and Communication,Evans,Kimberly,KEvans@Naperville203.org,250
+01,C25011,1,English 3,Reilly,Marybeth,mreilly@naperville203.org,226
+01,C25012,1,English 3,Reilly,Marybeth,mreilly@naperville203.org,226
+01,C2501C,1,English 3,Nierman,Brian,bnierman@naperville203.org,262
+01,C2501D,1,English 3,Nierman,Brian,bnierman@naperville203.org,262
+01,C250H1,1,Honors English 3,Albiniak,Sarah,salbiniak@naperville203.org,200
+01,C250H2,1,Honors English 3,Albiniak,Sarah,salbiniak@naperville203.org,200
+01,C280A1,1,AP Language & Composition,Polykandriotis,Taryen,tpolykandriotis@naperville203.org,202
+01,C280A2,1,AP Language & Composition,Polykandriotis,Taryen,tpolykandriotis@naperville203.org,202
+01,C37021,1,Senior Rhetoric,Freed,Adam,afreed@naperville203.org,225
+01,C370N1,1,Blended Senior Rhetoric,Winebrenner,Meghan,MWinebrenner@Naperville203.org,206
+01,C390N2,1,Blended Creative Writing,Konrad,Michelle,mkonrad@naperville203.org,239
+01,C390ND,1,Blended Creative Writing,Kandl,Sarah,skandl@naperville203.org,259
+01,C460NC,1,Blended Literary Themes,Wilkerson,Mary,mwilkerson@naperville203.org,260
+01,C480T1,1,Blended AP Literature & Compos,Heatherly,Taylor,theatherly@naperville203.org,240
+01,C480T2,1,Blended AP Literature & Compos,Heatherly,Taylor,theatherly@naperville203.org,240
+01,C57022,1,Film as Literature,Freed,Adam,afreed@naperville203.org,225
+01,C60031,1,Academic Reading,O'Shea,Marc,moshea@naperville203.org,241
+01,C60032,1,Academic Reading,O'Shea,Marc,moshea@naperville203.org,241
+01,C71071,1,Language Arts,Nikkel,Breanne,bnikkel@naperville203.org,71
+01,C71072,1,Language Arts,Nikkel,Breanne,bnikkel@naperville203.org,71
+01,C7505D,1,Reading Enrichment,Wilkerson,Mary,mwilkerson@naperville203.org,260
+01,E1001C,1,Acting,Kandl,Sarah,skandl@naperville203.org,259
+01,F22012,1,Culinary Arts & Nutrition 1,Cosgrove,Megan,mcosgrove@naperville203.org,89E
+01,F26011,1,Culinary Arts & Nutrition 2,Cosgrove,Megan,mcosgrove@naperville203.org,89E
+01,F30012,1,Senior Foods,Page,Lindsey,Lpage@naperville203.org,89A
+01,F460B1,1,Early Childhood Education 1,Keller,Melissa,mkeller@naperville203.org,88
+01,F500B2,1,Early Childhood Education 2,Keller,Melissa,mkeller@naperville203.org,88
+01,F66011,1,Intro to Health Occupations,Haiser,Amanda,ahaiser@naperville203.org,87
+01,F700D2,1,Health Occupations,Haiser,Amanda,ahaiser@naperville203.org,87
+01,H10011,1,Health,Pilapil,Christian,cpilapil@naperville203.org,30
+01,H10012,1,Health,Bice,Megan,mbice@naperville203.org,31
+01,H10062,1,Health,Ondrus,Steven,sondrus@naperville203.org,126
+01,H50011,1,Advanced Health,Bice,Megan,mbice@naperville203.org,31
+01,J11011,1,Plant Science,Ingram,Dawn,dingram@naperville203.org,66
+01,J15012,1,Floral and Landscape Design,Rauen,Sean,srauen@naperville203.org,66
+01,J17012,1,Aquaculture & Urban Food Prod,Rauen,Sean,srauen@naperville203.org,66
+01,J20011,1,Companion Animal Science 1,Rauen,Sean,srauen@naperville203.org,65
+01,J20012,1,Companion Animal Science 1,Hernandez,Adrian,ALHernandez@Naperville203.org,65
+01,J30011,1,Graphics 1,Dunn,Brian,bdunn@naperville203.org,41
+01,J30012,1,Graphics 1,Dunn,Brian,bdunn@naperville203.org,41
+01,J32012,1,Graphics 2,Dunn,Brian,bdunn@naperville203.org,41
+01,J34012,1,Graphics 3,Dunn,Brian,bdunn@naperville203.org,41
+01,J420D1,1,Electronics,Thompson,Brett,bthompson@naperville203.org,51
+01,J420D2,1,Electronics,Thompson,Brett,bthompson@naperville203.org,51
+01,J490G1,1,Blended PLTW Cybersecurity,Kischuk,Daniel,dkischuk@naperville203.org,NNHS - 138
+01,J490G2,1,Blended PLTW Cybersecurity,Kischuk,Daniel,dkischuk@naperville203.org,NNHS - 138
+01,J55011,1,Geometry in Construction,King,Wright,wking@naperville203.org,45
+01,J55012,1,Geometry in Construction,King,Wright,wking@naperville203.org,45
+01,J87011,1,CTE Internship,Thompson,Brett,bthompson@naperville203.org,179
+01,J87012,1,CTE Internship,Thompson,Brett,bthompson@naperville203.org,179
+01,J92041,1,Cooperative Work Training,Jansen,Jennifer,jjansen@naperville203.org,32
+01,J92042,1,Cooperative Work Training,Jansen,Jennifer,jjansen@naperville203.org,32
+01,J985N1,1,Blended STEM Capstone,Brady,Seth,sbrady@naperville203.org,224
+01,M19011,1,Algebra 1,Tolcher,Kelly,ktolcher@naperville203.org,309
+01,M19012,1,Algebra 1,Tolcher,Kelly,ktolcher@naperville203.org,309
+01,M1901C,1,Algebra 1,Murphy,Megan,mmurphy@naperville203.org,207
+01,M1901D,1,Algebra 1,Murphy,Megan,mmurphy@naperville203.org,207
+01,M2301C,1,Algebra Essentials,Rohl,Nicholas,NRohl@Naperville203.org,268
+01,M26011,1,Math Intervention,Miller,Scott,smiller@naperville203.org,342
+01,M26012,1,Math Intervention,Miller,Scott,smiller@naperville203.org,342
+01,M28011,1,Algebra 1 w/Geometry,Gebbie,Thomas,tgebbie@naperville203.org,343
+01,M28012,1,Algebra 1 w/Geometry,Gebbie,Thomas,tgebbie@naperville203.org,343
+01,M29051,1,Algebra & Geometry Application,Gafrick,Fred,fgafrick@naperville203.org,33
+01,M29052,1,Algebra & Geometry Application,Gafrick,Fred,fgafrick@naperville203.org,33
+01,M34011,1,Geometry,Yang,Sharon,SJYang@Naperville203.org,303
+01,M34012,1,Geometry,Yang,Sharon,SJYang@Naperville203.org,303
+01,M3401C,1,Geometry,Ambrose,Margaret,MAmbrose@Naperville203.org,203
+01,M3401D,1,Geometry,Ambrose,Margaret,MAmbrose@Naperville203.org,203
+01,M34021,1,Geometry,Sladkey,David,dsladkey@naperville203.org,307
+01,M34022,1,Geometry,Sladkey,David,dsladkey@naperville203.org,307
+01,M34061,1,Geometry,Ondrus,Steven,sondrus@naperville203.org,126
+01,M34062,1,Geometry,Ondrus,Steven,sondrus@naperville203.org,126
+01,M340H1,1,Honors Geometry,O'Leary,Kari,koleary@naperville203.org,339
+01,M340H2,1,Honors Geometry,O'Leary,Kari,koleary@naperville203.org,339
+01,M340HC,1,Honors Geometry,Straka,Nicholas,nstraka@naperville203.org,205
+01,M340HD,1,Honors Geometry,Straka,Nicholas,nstraka@naperville203.org,205
+01,M43011,1,Algebra 2,Free,Leslie,lfree@naperville203.org,308
+01,M43011,2,Algebra 2,Vinton,Stephanie,svinton@naperville203.org,306
+01,M43012,1,Algebra 2,Free,Leslie,lfree@naperville203.org,308
+01,M43012,2,Algebra 2,Vinton,Stephanie,svinton@naperville203.org,306
+01,M4301C,1,Algebra 2,Kim,Jong Ho,jhkim@naperville203.org,208
+01,M4301C,2,Algebra 2,Vinton,Stephanie,svinton@naperville203.org,209
+01,M4301D,1,Algebra 2,Kim,Jong Ho,jhkim@naperville203.org,208
+01,M4301D,2,Algebra 2,Kedziora,Kimberly,kkedziora@naperville203.org,209
+01,M43021,1,Algebra 2,Azzolin,Kelly,KAzzolin@Naperville203.org,305
+01,M43022,1,Algebra 2,Azzolin,Kelly,KAzzolin@Naperville203.org,305
+01,M43061,1,Algebra 2,Ondrus,Steven,sondrus@naperville203.org,126
+01,M43062,1,Algebra 2,Ondrus,Steven,sondrus@naperville203.org,126
+01,M430H1,1,Honors Algebra 2,Winiecki,Adam,awiniecki@naperville203.org,302
+01,M430H2,1,Honors Algebra 2,Winiecki,Adam,awiniecki@naperville203.org,302
+01,M53011,1,Precalculus,Danbom,Jeff,jdanbom@naperville203.org,304
+01,M53011,2,Precalculus,Lynch,Megan,mmlynch@naperville203.org,340
+01,M53012,1,Precalculus,Danbom,Jeff,jdanbom@naperville203.org,304
+01,M53012,2,Precalculus,Lynch,Megan,mmlynch@naperville203.org,340
+01,M530H1,1,Honors Precalculus,Rakes,Marissa,mrakes@naperville203.org,341
+01,M530H2,1,Honors Precalculus,Rakes,Marissa,mrakes@naperville203.org,341
+01,M660E1,1,Differential Equations,Straka,Nicholas,nstraka@naperville203.org,335
+01,M660E2,1,Differential Equations,Straka,Nicholas,nstraka@naperville203.org,335
+01,M90071,2,Math,Schaefer,Jennifer,JSchaefer@Naperville203.org,59
+01,M90072,2,Math,Schaefer,Jennifer,JSchaefer@Naperville203.org,59
+01,N58011,1,Intermediate  Mixed Choir,Mielcarz,Kelly,kmielcarz@naperville203.org,84
+01,N58012,1,Intermediate  Mixed Choir,Mielcarz,Kelly,kmielcarz@naperville203.org,84
+01,P10011,11,PE 1,Hagenbaumer,Kristina,khagenbaumer@naperville203.org,Main Gym
+01,P10011,12,PE 1,Lafferty,Crystal,clafferty@naperville203.org,Main Gym
+01,P10011,13,PE 1,Lago,Nick,nlago@naperville203.org,Main Gym
+01,P10012,11,PE 1,Cauley,Sarah,scauley@naperville203.org,Main Gym
+01,P10012,12,PE 1,Lafferty,Crystal,clafferty@naperville203.org,Main Gym
+01,P10012,13,PE 1,Lago,Nick,nlago@naperville203.org,Main Gym
+01,P20011,1,PE 2,Klimczak,Caila,cklimczak@naperville203.org,Main Gym
+01,P20012,1,PE 2,Hilgert,Alexis,AHilgert@Naperville203.org,Main Gym
+01,P40111,1,Competitive Team Sports,Kramer,Peter,pkramer@naperville203.org,Main Gym
+01,P40112,1,Competitive Team Sports,Kramer,Peter,pkramer@naperville203.org,Main Gym
+01,P40211,1,Studio Fitness Mind & Body,Anderson,Kristen,kcanderson@naperville203.org,Main Gym
+01,P40212,1,Studio Fitness Mind & Body,Anderson,Kristen,kcanderson@naperville203.org,Main Gym
+01,P42011,1,Adventure 1,Salentine,William,wsalentine@naperville203.org,Main Gym
+01,P42512,1,Adventure 2,Salentine,William,wsalentine@naperville203.org,Main Gym
+01,P44011,1,Strength & Performance,Leaf,Anthony,aleaf@naperville203.org,Weight Rm
+01,P44012,1,Strength & Performance,Fitzenreider,Noah,nfitzenreider@naperville203.org,Weight Rm
+01,P47012,1,Senior Wellness,Pilapil,Christian,cpilapil@naperville203.org,Main Gym
+01,P50011,1,PE Fitness,Yanke,Jeffrey,jyanke@naperville203.org,Main Gym
+01,P61011,1,PE Leader Training,Adams,Kyle,kadams@naperville203.org,Main Gym
+01,P61012,1,PE Leader Training,Adams,Kyle,kadams@naperville203.org,Main Gym
+01,P62011,11,PE Leader,Hagenbaumer,Kristina,khagenbaumer@naperville203.org,Main Gym
+01,P62011,12,PE Leader,Lafferty,Crystal,clafferty@naperville203.org,Main Gym
+01,P62011,13,PE Leader,Lago,Nick,nlago@naperville203.org,Main Gym
+01,P62011,18,PE Leader,Klimczak,Caila,cklimczak@naperville203.org,Main Gym
+01,P63011,1,Sports Medicine 1,Florence,Mark,mflorence@naperville203.org,"Training  "
+01,P63512,1,Sports Medicine 2,Florence,Mark,mflorence@naperville203.org,"Training  "
+01,P89011,1,Wellness Study Hall,Newcomb,Sara,snewcomb@naperville203.org,Cafe
+01,P89012,1,Wellness Study Hall,Griffith,Crystal,cgriffith@naperville203.org,Cafe
+01,S15011,1,Earth Science,Jarvis,Michael,mjarvis@naperville203.org,330
+01,S15012,1,Earth Science,Jarvis,Michael,mjarvis@naperville203.org,330
+01,S220T1,1,Blended AP Environmental Scien,Lundquist,Paige,plundquist@naperville203.org,325
+01,S220T2,1,Blended AP Environmental Scien,Lundquist,Paige,plundquist@naperville203.org,334
+01,S25051,1,Principles of Bio & Chem,Novak,Eric,enovak@naperville203.org,325
+01,S25052,1,Principles of Bio & Chem,Novak,Eric,enovak@naperville203.org,325
+01,S31011,1,Biology,Bennett,Linda,lbennett@naperville203.org,314
+01,S31012,1,Biology,Bennett,Linda,lbennett@naperville203.org,314
+01,S31021,1,Biology,Smith,Kimberly,KSmith2@Naperville203.org,315
+01,S31022,1,Biology,Smith,Kimberly,KSmith2@Naperville203.org,315
+01,S34061,1,Biology,Ondrus,Steven,sondrus@naperville203.org,126
+01,S370H1,1,Honors Biology,Hastings,Amy,ahastings@naperville203.org,317
+01,S370H2,1,Honors Biology,Hastings,Amy,ahastings@naperville203.org,317
+01,S440W1,1,Anatomy & Physiology,Gresk,Matthew,mgresk@naperville203.org,322
+01,S440W2,1,Anatomy & Physiology,Gresk,Matthew,mgresk@naperville203.org,318
+01,S50011,1,Chemistry,Frye,Lindsey,LFrye@naperville203.org,323
+01,S50011,2,Chemistry,Sanoshy,Thomas,tsanoshy@naperville203.org,324
+01,S50012,1,Chemistry,Frye,Lindsey,LFrye@naperville203.org,323
+01,S50012,2,Chemistry,Sanoshy,Thomas,tsanoshy@naperville203.org,322
+01,S5001C,1,Chemistry,Cole,John,jcole@naperville203.org,270
+01,S5001D,1,Chemistry,Cole,John,jcole@naperville203.org,270
+01,S50021,1,Chemistry,Barker,Jacquelyn,jbarker@naperville203.org,319
+01,S50022,1,Chemistry,Barker,Jacquelyn,jbarker@naperville203.org,319
+01,S500H1,1,Honors Chemistry,Forde,Michael,mforde@naperville203.org,320
+01,S500H2,1,Honors Chemistry,Forde,Michael,mforde@naperville203.org,320
+01,S59011,1,Physics,Collier,Flint,fcollier@naperville203.org,333
+01,S59011,2,Physics,Banas,Timothy,tbanas@naperville203.org,331
+01,S59012,1,Physics,Williams,Michael,MJWilliams1@Naperville203.org,333
+01,S59012,2,Physics,Banas,Timothy,tbanas@naperville203.org,331
+01,S600A1,1,AP Physics 1,Dille,Nathanael,ndille@naperville203.org,326
+01,S600A2,1,AP Physics 1,Dille,Nathanael,ndille@naperville203.org,326
+01,S630A1,1,AP Physics 2,Damianides,Andreas,ADamianides@Naperville203.org,328
+01,S630A2,1,AP Physics 2,Damianides,Andreas,ADamianides@Naperville203.org,328
+01,S94051,1,Earth Science,Ghiotto,Christina,cghiotto@naperville203.org,35
+01,S94052,1,Earth Science,Ghiotto,Christina,cghiotto@naperville203.org,35
+01,S94061,1,Earth Science,Ondrus,Steven,sondrus@naperville203.org,126
+01,S94062,1,Earth Science,Ondrus,Steven,sondrus@naperville203.org,126
+01,T10011,1,World Cultures,Braun,Sarah,sbraun@naperville203.org,217
+01,T10012,1,World Cultures,Brady,Seth,sbrady@naperville203.org,224
+01,T10021,1,World Cultures,Gabrielli,Georganne,ggabrielli@naperville203.org,235
+01,T10022,1,World Cultures,Gabrielli,Georganne,ggabrielli@naperville203.org,235
+01,T150A1,1,AP Human Geography,Smith,Randall,rsmith@naperville203.org,223
+01,T150A2,1,AP Human Geography,Smith,Randall,rsmith@naperville203.org,223
+01,T23011,1,World History,Gillespie,Samantha,sgillespie@naperville203.org,237
+01,T23012,1,World History,Gillespie,Samantha,sgillespie@naperville203.org,237
+01,T26012,1,20th Century History,Bochenski,Michael,mbochenski@naperville203.org,217
+01,T280A1,1,AP World Hist,Hanley,Lynne,lhanley@naperville203.org,234
+01,T280A2,1,AP World Hist,Hanley,Lynne,lhanley@naperville203.org,234
+01,T30011,1,American Government,Mohn,Donna,dmohn@naperville203.org,215
+01,T30011,2,American Government,Borge,Michael,MBorge@Naperville203.org,231
+01,T3001C,1,American Government,Hantak,Ryan,rhantak@naperville203.org,181
+01,T3001C,2,American Government,Scott,Allan,ascott@naperville203.org,180
+01,T3001D,1,American Government,Hantak,Ryan,rhantak@naperville203.org,181
+01,T30061,1,American Government,Ondrus,Steven,sondrus@naperville203.org,126
+01,T360A1,1,AP US Govt & Politics,Zieman,Matthew,mzieman@naperville203.org,228
+01,T360A2,1,AP US Govt & Politics,Zieman,Matthew,mzieman@naperville203.org,228
+01,T40011,1,US History,Stack,Steven,sstack@naperville203.org,213
+01,T40012,1,US History,Stack,Steven,sstack@naperville203.org,213
+01,T4001C,1,US History,McGrath,Thomas,tmcgrath@naperville203.org,183
+01,T4001C,2,US History,Ketchmark,Bradley,BKetchmark@Naperville203.org,182
+01,T4001D,1,US History,McGrath,Thomas,tmcgrath@naperville203.org,183
+01,T4001D,2,US History,Ketchmark,Bradley,BKetchmark@Naperville203.org,182
+01,T40021,1,US History,Lugiai,Robert,rlugiai@naperville203.org,227
+01,T40022,1,US History,Braun,Sarah,sbraun@naperville203.org,231
+01,T460A1,1,AP US History,Ulreich,Michael,mulreich@naperville203.org,222
+01,T460A2,1,AP US History,Ulreich,Michael,mulreich@naperville203.org,222
+01,T770A1,1,AP Psychology,Tilt,Cindy,ctilt@naperville203.org,220
+01,T770A2,1,AP Psychology,Zwickert,Letitia,lzwickert@naperville203.org,220
+01,T79012,1,Comparative Religions,Wilson,Michael,mtwilson@naperville203.org,221
+01,T81011,1,Cultural Anthropology,Holmberg,Todd,tholmberg@naperville203.org,229
+01,T81012,1,Cultural Anthropology,Holmberg,Todd,tholmberg@naperville203.org,229
+01,T96051,1,Social Topics,Prousa,Nicole,NProusa@Naperville203.org,34
+01,T96052,1,Social Topics,Prousa,Nicole,NProusa@Naperville203.org,34
+01,T970NC,1,Blended Capstone Research Prep,Brady,Seth,sbrady@naperville203.org,185
+01,T970ND,1,Blended Capstone Research Prep,Brady,Seth,sbrady@naperville203.org,185
+01,T985N1,1,Blended Humanities CapstoneIGS,Brady,Seth,sbrady@naperville203.org,224
+01,W12011,1,American Sign Language 2,Sargent,Sara,SSargent@Naperville203.org,100
+01,W12012,1,American Sign Language 2,Sargent,Sara,SSargent@Naperville203.org,100
+01,W22011,1,Chinese-Mandarin 2,Kralovic,Michael,mkralovic@naperville203.org,103
+01,W22012,1,Chinese-Mandarin 2,Kralovic,Michael,mkralovic@naperville203.org,103
+01,W250T1,1,Blended AP Chinese Lang & Cult,Chiu,Piling,pchiu@naperville203.org,NNHS - 178
+01,W250T2,1,Blended AP Chinese Lang & Cult,Chiu,Piling,pchiu@naperville203.org,NNHS - 178
+01,W32011,1,French 2,Whitt,Jeremy,jwhitt@naperville203.org,109
+01,W32012,1,French 2,Whitt,Jeremy,jwhitt@naperville203.org,109
+01,W43011,1,German 3,Schultz,Andrew,ajschultz@naperville203.org,110
+01,W43012,1,German 3,Schultz,Andrew,ajschultz@naperville203.org,110
+01,W81011,1,Spanish 1,Davis,David,ddavis@naperville203.org,101
+01,W81012,1,Spanish 1,Davis,David,ddavis@naperville203.org,101
+01,W8101C,1,Bridge to Spanish 2,Kaisling,Eric,ekaisling@naperville203.org,176
+01,W82011,1,Spanish 2,Franta,Jennie,jfranta@naperville203.org,102
+01,W82011,2,Spanish 2,Ortiz,Michael,mortiz@naperville203.org,B19
+01,W82012,1,Spanish 2,Franta,Jennie,jfranta@naperville203.org,102
+01,W82012,2,Spanish 2,Ortiz,Michael,mortiz@naperville203.org,B19
+01,W83011,1,Spanish 3,Kaisling,Eric,ekaisling@naperville203.org,B15
+01,W83012,1,Spanish 3,Kaisling,Eric,ekaisling@naperville203.org,B15
+01,W840W1,1,Spanish 4,Warren,Mary,mwarren@naperville203.org,105
+01,W840W2,1,Spanish 4,Warren,Mary,mwarren@naperville203.org,105
+02,936011,20,Study Hall,Ondrus,Steven,sondrus@naperville203.org,Cafe
+02,936011,21,Study Hall,Ortiz,Michael,mortiz@naperville203.org,Cafe
+02,936011,22,Study Hall,Kandl,Sarah,skandl@naperville203.org,200
+02,936012,20,Study Hall,Dunn,Brian,bdunn@naperville203.org,Cafe
+02,936012,21,Study Hall,Smith,Kimberly,KSmith2@Naperville203.org,Cafe
+02,936012,22,Study Hall,Kaisling,Eric,ekaisling@naperville203.org,103
+02,936012,23,Study Hall,Straka,Nicholas,nstraka@naperville203.org,341
+02,936012,24,Study Hall,Bennett,Linda,lbennett@naperville203.org,334
+02,946311,1,Enriched Studies,O'Shea,Marc,moshea@naperville203.org,241
+02,946311,2,Enriched Studies,Tuggle,Kelyn,ktuggle@naperville203.org,236
+02,946312,1,Enriched Studies,O'Shea,Marc,moshea@naperville203.org,241
+02,946312,2,Enriched Studies,Tuggle,Kelyn,ktuggle@naperville203.org,236
+02,946411,3,Supported Study Hall,Porter,Robert,rporter@naperville203.org,309
+02,946411,4,Supported Study Hall,Gabrielli,Georganne,ggabrielli@naperville203.org,235
+02,946412,3,Supported Study Hall,Danbom,Jeff,jdanbom@naperville203.org,308
+02,946412,4,Supported Study Hall,Mohn,Donna,dmohn@naperville203.org,215
+02,95001B,1,SAT Preparation,Drury,Kathryn,KDrury@Naperville203.org,247
+02,962041,1,Literacy Workshop,Moriarty,Brandon,bmoriarty@naperville203.org,212 B
+02,962041,2,Literacy Workshop,Pucylowski,Adam,apucylowski@naperville203.org,212 C
+02,962041,3,Literacy Workshop,Hemmens,Daniel,dhemmens@naperville203.org,212 G
+02,962042,1,Literacy Workshop,Moriarty,Brandon,bmoriarty@naperville203.org,212 B
+02,962042,2,Literacy Workshop,Pucylowski,Adam,apucylowski@naperville203.org,212 C
+02,962042,3,Literacy Workshop,Hemmens,Daniel,dhemmens@naperville203.org,212 G
+02,967211,21,Teacher Assistant,Mielcarz,Kelly,kmielcarz@naperville203.org,84
+02,967211,23,Teacher Assistant,Hastings,Amy,ahastings@naperville203.org,334
+02,967211,25,Teacher Assistant,Lynch,Megan,mmlynch@naperville203.org,340
+02,967212,21,Teacher Assistant,Mielcarz,Kelly,kmielcarz@naperville203.org,84
+02,967212,22,Teacher Assistant,Twietmeyer,Grace,gtwietmeyer@naperville203.org,45
+02,967212,23,Teacher Assistant,Hastings,Amy,ahastings@naperville203.org,317
+02,967212,24,Teacher Assistant,Keller,Melissa,mkeller@naperville203.org,88
+02,967212,26,Teacher Assistant,Ghiotto,Christina,cghiotto@naperville203.org,70
+02,967212,28,Teacher Assistant,Gross,Jesse,jgross@naperville203.org,82
+02,98569C,1,Multilingual ALOP,Perez,Martha,mperez1@naperville203.org,272
+02,98569D,1,Multilingual ALOP,Perez,Martha,mperez1@naperville203.org,272
+02,A1301C,1,Design Concepts,Rehs,Shannon,srehs@naperville203.org,134
+02,A16011,2,Drawing 1,Murphy,Amy,amurphy@naperville203.org,75
+02,A16012,2,Drawing 1,Cirone,Daniela,dcirone@naperville203.org,75
+02,A20012,3,Drawing 3,Cirone,Daniela,dcirone@naperville203.org,75
+02,A3201D,1,Intro to Printmaking,Hill,Rachel,RHill@Naperville203.org,134
+02,A37011,2,Ceramics 1,Padgett,Gregory,gspadgett@naperville203.org,77
+02,A37012,2,Ceramics 1,Padgett,Gregory,gspadgett@naperville203.org,77
+02,A43011,2,Jewelry Metals 1,Figueroa,Danielle,dfigueroa@naperville203.org,78
+02,A43012,2,Jewelry Metals 1,Figueroa,Danielle,dfigueroa@naperville203.org,78
+02,A46012,1,Jewelry/Metals 4,Figueroa,Danielle,dfigueroa@naperville203.org,78
+02,A50011,2,Photography 1 (Traditional),Hodge,Christopher,chodge@naperville203.org,76
+02,B120BC,1,Tech Edge,Betthauser,Jennifer,JBetthauser@Naperville203.org,123
+02,B120BD,1,Tech Edge,Betthauser,Jennifer,JBetthauser@Naperville203.org,123
+02,B260C1,2,Honors College Accounting,Hicks,Aislinn,ahicks@naperville203.org,40
+02,B260C2,2,Honors College Accounting,Hicks,Aislinn,ahicks@naperville203.org,40
+02,B30011,1,Marketing,Bell,Christine,clbell@naperville203.org,39
+02,B340N2,1,Blended Advertising,Bell,Christine,clbell@naperville203.org,39
+02,B370W1,2,Business INCubatoredu,Neubauer,Bradley,bneubauer@naperville203.org,245
+02,B370W2,2,Business INCubatoredu,Neubauer,Bradley,bneubauer@naperville203.org,245
+02,B44011,1,Computer Programming 1,Miller,Derek,djmiller@naperville203.org,46
+02,B560A1,2,AP Computer Science A,Hayes,Kevin,khayes@naperville203.org,52
+02,B560A2,2,AP Computer Science A,Hayes,Kevin,khayes@naperville203.org,52
+02,B7001C,1,Consumer Economics,Rorer,Terri,trorer@naperville203.org,119
+02,B7001D,1,Consumer Economics,Donovan,Meghan,MDonovan@Naperville203.org,119
+02,C12011,2,English 1,Wilkerson,Mary,mwilkerson@naperville203.org,209
+02,C12012,2,English 1,Wilkerson,Mary,mwilkerson@naperville203.org,209
+02,C1201C,1,English 1,Nierman,Brian,bnierman@naperville203.org,262
+02,C1201D,1,English 1,Nierman,Brian,bnierman@naperville203.org,262
+02,C12021,1,English 1,Hindi,Mthal,MHindi@Naperville203.org,205
+02,C12022,1,English 1,Hindi,Mthal,MHindi@Naperville203.org,205
+02,C120H1,3,Honors English 1,Figi,Nicole,nfigi@naperville203.org,208
+02,C120H2,3,Honors English 1,Figi,Nicole,nfigi@naperville203.org,208
+02,C17011,2,English 2,Baldwin,Barry,bbaldwin@naperville203.org,203
+02,C17011,3,English 2,Winebrenner,Meghan,MWinebrenner@Naperville203.org,206
+02,C17012,2,English 2,Baldwin,Barry,bbaldwin@naperville203.org,203
+02,C17012,3,English 2,Freese,Marissa,mfreese@naperville203.org,206
+02,C1701C,1,English 2,Nierman,Brian,bnierman@naperville203.org,262
+02,C1701D,1,English 2,Nierman,Brian,bnierman@naperville203.org,262
+02,C170H1,2,Honors English 2,Doman,Michael,mdoman@naperville203.org,202
+02,C170H2,2,Honors English 2,Doman,Michael,mdoman@naperville203.org,202
+02,C17551,1,English 2 Essentials,Howley,Gina,GHowley@Naperville203.org,32
+02,C17552,1,English 2 Essentials,Howley,Gina,GHowley@Naperville203.org,32
+02,C2001C,1,Speech Communication,Hitzeman,Helena,hhitzeman@naperville203.org,246
+02,C2009D,1,EL Speech and Communication,Evans,Kimberly,KEvans@Naperville203.org,250
+02,C2019C,1,EL Writing and Communication,Evans,Kimberly,KEvans@Naperville203.org,250
+02,C25011,2,English 3,Granatelli,Maxyne,mgranatelli@naperville203.org,214
+02,C25012,2,English 3,Granatelli,Maxyne,mgranatelli@naperville203.org,214
+02,C2501C,1,English 3,Nierman,Brian,bnierman@naperville203.org,262
+02,C2501D,1,English 3,Nierman,Brian,bnierman@naperville203.org,262
+02,C25021,1,English 3,Freed,Adam,afreed@naperville203.org,225
+02,C25022,1,English 3,Freed,Adam,afreed@naperville203.org,225
+02,C25551,1,English 3 Essentials,Contois,Amy,acontois@naperville203.org,33
+02,C25552,1,English 3 Essentials,Contois,Amy,acontois@naperville203.org,33
+02,C280T1,1,Blended AP Lang & Comp,Weiss,Nicole,nweiss@naperville203.org,216
+02,C280T2,1,Blended AP Lang & Comp,Weiss,Nicole,nweiss@naperville203.org,216
+02,C35051,1,Writing Styles & Forms Essn,Contois,Amy,acontois@naperville203.org,33
+02,C35051,2,Writing Styles & Forms Essn,Howley,Gina,GHowley@Naperville203.org,32
+02,C37011,1,Senior Rhetoric,Konrad,Michelle,mkonrad@naperville203.org,239
+02,C370G1,1,Blended Honors Senior Rhetoric,Blaskovitz,Jennifer,jblaskovitz@naperville203.org,201
+02,C370N1,2,Blended Senior Rhetoric,Heatherly,Taylor,theatherly@naperville203.org,240
+02,C390N1,1,Blended Creative Writing,Carlson,Keith,kcarlson@naperville203.org,218
+02,C390N2,2,Blended Creative Writing,Rigik,Emily,erigik@naperville203.org,238
+02,C390ND,1,Blended Creative Writing,Kandl,Sarah,skandl@naperville203.org,259
+02,C410W2,1,English Literature,Blaskovitz,Jennifer,jblaskovitz@naperville203.org,201
+02,C45012,1,World Literature,Heatherly,Taylor,theatherly@naperville203.org,240
+02,C455N2,1,Blended African American Lit,Carlson,Keith,kcarlson@naperville203.org,218
+02,C460NC,1,Blended Literary Themes,Wilkerson,Mary,mwilkerson@naperville203.org,260
+02,C47052,1,Literary Themes Essentials,Contois,Amy,acontois@naperville203.org,33
+02,C47052,2,Literary Themes Essentials,Howley,Gina,GHowley@Naperville203.org,32
+02,C480A1,1,AP Literature & Composition,McGrath,Thomas,tmcgrath@naperville203.org,204
+02,C480A2,1,AP Literature & Composition,McGrath,Thomas,tmcgrath@naperville203.org,204
+02,C56011,1,Mass Media,Rigik,Emily,erigik@naperville203.org,238
+02,C7505D,1,Reading Enrichment,Wilkerson,Mary,mwilkerson@naperville203.org,260
+02,D10011,2,Driver Ed,Leaf,Anthony,aleaf@naperville203.org,B16
+02,E1001C,1,Acting,Kandl,Sarah,skandl@naperville203.org,259
+02,F22012,2,Culinary Arts & Nutrition 1,Cosgrove,Megan,mcosgrove@naperville203.org,89E
+02,F30011,1,Senior Foods,Page,Lindsey,Lpage@naperville203.org,89A
+02,F30012,2,Senior Foods,Page,Lindsey,Lpage@naperville203.org,89A
+02,F34011,1,Interior Design,Rorer,Terri,trorer@naperville203.org,86
+02,F460B1,2,Early Childhood Education 1,Keller,Melissa,mkeller@naperville203.org,88
+02,F500B2,2,Early Childhood Education 2,Keller,Melissa,mkeller@naperville203.org,88
+02,F580D1,1,Intro to Teaching 1,Andrees,Lynn,landrees@naperville203.org,48
+02,F620D2,1,Intro to Teaching 2,Andrees,Lynn,landrees@naperville203.org,86
+02,F66011,2,Intro to Health Occupations,Haiser,Amanda,ahaiser@naperville203.org,87
+02,F700D2,1,Health Occupations,Haiser,Amanda,ahaiser@naperville203.org,87
+02,H10011,2,Health,Nudera,Jeffrey,jnudera@naperville203.org,30
+02,H10012,2,Health,Bice,Megan,mbice@naperville203.org,31
+02,H10012,3,Health,Nudera,Jeffrey,jnudera@naperville203.org,30
+02,J20011,2,Companion Animal Science 1,Rauen,Sean,srauen@naperville203.org,65
+02,J20012,2,Companion Animal Science 1,Hernandez,Adrian,ALHernandez@Naperville203.org,65
+02,J72011,1,Automotive 2 Mechanics,Feid,Christopher,cfeid@naperville203.org,50
+02,J72012,1,Automotive 2 Mechanics,Feid,Christopher,cfeid@naperville203.org,50
+02,J87011,1,CTE Internship,Thompson,Brett,bthompson@naperville203.org,179
+02,J87012,1,CTE Internship,Thompson,Brett,bthompson@naperville203.org,179
+02,M19011,2,Algebra 1,Lynch,Megan,mmlynch@naperville203.org,340
+02,M19012,2,Algebra 1,Lynch,Megan,mmlynch@naperville203.org,340
+02,M1901C,1,Algebra 1,Murphy,Megan,mmurphy@naperville203.org,207
+02,M1901D,1,Algebra 1,Murphy,Megan,mmurphy@naperville203.org,207
+02,M19021,1,Algebra 1,Danbom,Deborah,ddanbom@naperville203.org,305
+02,M19022,1,Algebra 1,Danbom,Deborah,ddanbom@naperville203.org,305
+02,M2301C,1,Algebra Essentials,Rohl,Nicholas,NRohl@Naperville203.org,268
+02,M26012,2,Math Intervention,Heslinga,Heidi,hheslinga@naperville203.org,343
+02,M28011,2,Algebra 1 w/Geometry,Carlson,Timothy,trcarlson@naperville203.org,342
+02,M28012,2,Algebra 1 w/Geometry,Carlson,Timothy,trcarlson@naperville203.org,342
+02,M32011,1,Geometry in Construction,Twietmeyer,Grace,gtwietmeyer@naperville203.org,45
+02,M32012,1,Geometry in Construction,Twietmeyer,Grace,gtwietmeyer@naperville203.org,45
+02,M34011,2,Geometry,Becker,Alyssa,abecker@naperville203.org,335
+02,M34012,2,Geometry,Becker,Alyssa,abecker@naperville203.org,335
+02,M3401C,1,Geometry,Ambrose,Margaret,MAmbrose@Naperville203.org,203
+02,M3401D,1,Geometry,Ambrose,Margaret,MAmbrose@Naperville203.org,203
+02,M34021,2,Geometry,Sladkey,David,dsladkey@naperville203.org,307
+02,M34022,2,Geometry,Sladkey,David,dsladkey@naperville203.org,307
+02,M340H1,2,Honors Geometry,O'Leary,Kari,koleary@naperville203.org,339
+02,M340H2,2,Honors Geometry,O'Leary,Kari,koleary@naperville203.org,339
+02,M340HC,1,Honors Geometry,Straka,Nicholas,nstraka@naperville203.org,205
+02,M340HD,1,Honors Geometry,Straka,Nicholas,nstraka@naperville203.org,205
+02,M43011,3,Algebra 2,Dohm,Tina,tdohm@naperville203.org,300
+02,M43012,3,Algebra 2,Dohm,Tina,tdohm@naperville203.org,300
+02,M4301C,1,Algebra 2,Kim,Jong Ho,jhkim@naperville203.org,208
+02,M4301C,2,Algebra 2,Vinton,Stephanie,svinton@naperville203.org,209
+02,M4301D,1,Algebra 2,Kim,Jong Ho,jhkim@naperville203.org,208
+02,M4301D,2,Algebra 2,Kedziora,Kimberly,kkedziora@naperville203.org,209
+02,M430H1,2,Honors Algebra 2,Winiecki,Adam,awiniecki@naperville203.org,302
+02,M430H2,2,Honors Algebra 2,Winiecki,Adam,awiniecki@naperville203.org,302
+02,M45011,1,Quantitative Lit/Stats (TM002),Nussbaum,Andrew,ajnussbaum@naperville203.org,301
+02,M45012,1,Quantitative Lit/Stats (TM002),Nussbaum,Andrew,ajnussbaum@naperville203.org,301
+02,M52011,1,Business Precalculus,Azzolin,Kelly,KAzzolin@Naperville203.org,304
+02,M52012,1,Business Precalculus,Azzolin,Kelly,KAzzolin@Naperville203.org,304
+02,M53011,3,Precalculus,Vinton,Stephanie,svinton@naperville203.org,306
+02,M53012,3,Precalculus,Vinton,Stephanie,svinton@naperville203.org,306
+02,M680A1,1,AP Statistics,Gebbie,Lisa,lgebbie@naperville203.org,303
+02,M680A2,1,AP Statistics,Gebbie,Lisa,lgebbie@naperville203.org,303
+02,M83051,1,Math Applications,Prousa,Nicole,NProusa@Naperville203.org,34
+02,M83052,1,Math Applications,Prousa,Nicole,NProusa@Naperville203.org,34
+02,N12011,1,Intermediate  Band,Alstadt,David,dalstadt@naperville203.org,83
+02,N12012,1,Intermediate Band,Alstadt,David,dalstadt@naperville203.org,83
+02,N30011,1,Intro to Orchestra,Gross,Jesse,jgross@naperville203.org,82
+02,N30012,1,Intro to Orchestra,Gross,Jesse,jgross@naperville203.org,82
+02,N54011,1,Intro to Mixed Choir,Mielcarz,Kelly,kmielcarz@naperville203.org,84
+02,N54012,1,Intro to  Mixed Choir,Mielcarz,Kelly,kmielcarz@naperville203.org,84
+02,N980W1,1,Fine Arts Capstone,Alstadt,David,dalstadt@naperville203.org,83
+02,P10011,21,PE 1,Duncan,Neil,nduncan@naperville203.org,Main Gym
+02,P10011,22,PE 1,Lafferty,Crystal,clafferty@naperville203.org,Main Gym
+02,P10011,23,PE 1,Lago,Nick,nlago@naperville203.org,Main Gym
+02,P10012,21,PE 1,Adams,Kyle,kadams@naperville203.org,Main Gym
+02,P10012,22,PE 1,Lafferty,Crystal,clafferty@naperville203.org,Main Gym
+02,P10012,23,PE 1,Cauley,Sarah,scauley@naperville203.org,Main Gym
+02,P20011,2,PE 2,Klimczak,Caila,cklimczak@naperville203.org,Main Gym
+02,P20012,2,PE 2,Klimczak,Caila,cklimczak@naperville203.org,Main Gym
+02,P40111,2,Competitive Team Sports,Kramer,Peter,pkramer@naperville203.org,Main Gym
+02,P40112,2,Competitive Team Sports,Lago,Nick,nlago@naperville203.org,Main Gym
+02,P40211,2,Studio Fitness Mind & Body,Anderson,Kristen,kcanderson@naperville203.org,Main Gym
+02,P40212,2,Studio Fitness Mind & Body,Anderson,Kristen,kcanderson@naperville203.org,Main Gym
+02,P42011,2,Adventure 1,Salentine,William,wsalentine@naperville203.org,Main Gym
+02,P42512,2,Adventure 2,Salentine,William,wsalentine@naperville203.org,Main Gym
+02,P44011,2,Strength & Performance,Lutzenkirchen,Andrew,alutzenkirchen@naperville203.org,Weight Rm
+02,P44012,2,Strength & Performance,Bradley,Charles,chbradley@naperville203.org,Weight Rm
+02,P47012,2,Senior Wellness,Pilapil,Christian,cpilapil@naperville203.org,Main Gym
+02,P62011,20,PE Leader,Duncan,Neil,nduncan@naperville203.org,Main Gym
+02,P62011,22,PE Leader,Lafferty,Crystal,clafferty@naperville203.org,Main Gym
+02,P62011,23,PE Leader,Lago,Nick,nlago@naperville203.org,Main Gym
+02,P62011,28,PE Leader,Klimczak,Caila,cklimczak@naperville203.org,Main Gym
+02,P62012,29,PE Leader,Salentine,William,wsalentine@naperville203.org,Pool
+02,P63011,2,Sports Medicine 1,Florence,Mark,mflorence@naperville203.org,"Training  "
+02,P63512,2,Sports Medicine 2,Florence,Mark,mflorence@naperville203.org,"Training  "
+02,P86041,2,Adapted PE,Hagenbaumer,Kristina,khagenbaumer@naperville203.org,Aux Gym
+02,P86042,2,Adapted PE,Hagenbaumer,Kristina,khagenbaumer@naperville203.org,Aux Gym
+02,P87011,2,Adapted PE  Leaders,Hagenbaumer,Kristina,khagenbaumer@naperville203.org,Aux Gym
+02,P87012,2,Adapted PE  Leaders,Hagenbaumer,Kristina,khagenbaumer@naperville203.org,Aux Gym
+02,P89011,2,Wellness Study Hall,Ortiz,Michael,mortiz@naperville203.org,Cafe
+02,P89012,2,Wellness Study Hall,Smith,Kimberly,KSmith2@Naperville203.org,Cafe
+02,S220T1,2,Blended AP Environmental Scien,Jarvis,Michael,mjarvis@naperville203.org,330
+02,S220T2,2,Blended AP Environmental Scien,Jarvis,Michael,mjarvis@naperville203.org,330
+02,S31011,2,Biology,Marshall,William,WMarshall@Naperville203.org,318
+02,S31012,2,Biology,Marshall,William,WMarshall@Naperville203.org,314
+02,S31021,2,Biology,Nunez,Yazmin,YNunez@Naperville203.org,315
+02,S31022,2,Biology,Nunez,Yazmin,YNunez@Naperville203.org,315
+02,S370H1,2,Honors Biology,Hastings,Amy,ahastings@naperville203.org,317
+02,S370H2,2,Honors Biology,Hastings,Amy,ahastings@naperville203.org,317
+02,S440W1,2,Anatomy & Physiology,Summy,Chelsea,csummy@naperville203.org,322
+02,S440W2,2,Anatomy & Physiology,Summy,Chelsea,csummy@naperville203.org,318
+02,S460W1,1,Biotechnology,Griffith,Crystal,cgriffith@naperville203.org,313
+02,S460W2,1,Biotechnology,Griffith,Crystal,cgriffith@naperville203.org,313
+02,S50011,3,Chemistry,Frye,Lindsey,LFrye@naperville203.org,323
+02,S50011,4,Chemistry,Brotan,Megan,mbrotan@naperville203.org,325
+02,S50011,5,Chemistry,Kedziora,Kimberly,kkedziora@naperville203.org,324
+02,S50012,3,Chemistry,Frye,Lindsey,LFrye@naperville203.org,323
+02,S50012,4,Chemistry,Mateus,Tanner,TMateus@Naperville203.org,325
+02,S50012,5,Chemistry,Kedziora,Kimberly,kkedziora@naperville203.org,324
+02,S5001C,1,Chemistry,Cole,John,jcole@naperville203.org,270
+02,S5001D,1,Chemistry,Cole,John,jcole@naperville203.org,270
+02,S50021,2,Chemistry,Barker,Jacquelyn,jbarker@naperville203.org,319
+02,S50022,2,Chemistry,Barker,Jacquelyn,jbarker@naperville203.org,319
+02,S500H1,2,Honors Chemistry,Forde,Michael,mforde@naperville203.org,320
+02,S500H2,2,Honors Chemistry,Forde,Michael,mforde@naperville203.org,320
+02,S59011,3,Physics,Collier,Flint,fcollier@naperville203.org,333
+02,S59012,3,Physics,Williams,Michael,MJWilliams1@Naperville203.org,333
+02,S600A1,2,AP Physics 1,Damianides,Andreas,ADamianides@Naperville203.org,328
+02,S600A2,2,AP Physics 1,Damianides,Andreas,ADamianides@Naperville203.org,328
+02,S680A1,1,AP Physics C,Dille,Nathanael,ndille@naperville203.org,331
+02,S680A2,1,AP Physics C,Dille,Nathanael,ndille@naperville203.org,326
+02,S90071,1,Intro to Science 1,Ghiotto,Christina,cghiotto@naperville203.org,70
+02,S90072,1,Intro to Science 1,Ghiotto,Christina,cghiotto@naperville203.org,70
+02,T10011,2,World Cultures,Holmberg,Todd,tholmberg@naperville203.org,229
+02,T10012,2,World Cultures,Holmberg,Todd,tholmberg@naperville203.org,229
+02,T10021,2,World Cultures,Braun,Sarah,sbraun@naperville203.org,215
+02,T10022,2,World Cultures,Gabrielli,Georganne,ggabrielli@naperville203.org,235
+02,T150A1,2,AP Human Geography,Smith,Randall,rsmith@naperville203.org,223
+02,T150A2,2,AP Human Geography,Connell,Maria,MConnell@Naperville203.org,223
+02,T16051,1,Studies In World Cultures,Privett,Jake,JPrivett@Naperville203.org,35
+02,T16052,1,Studies In World Cultures,Rivera,Kelly,krivera@naperville203.org,35
+02,T23011,2,World History,Bochenski,Michael,mbochenski@naperville203.org,217
+02,T23012,2,World History,Wilder,Rochelle,RWilder@Naperville203.org,213
+02,T26012,2,20th Century History,Bochenski,Michael,mbochenski@naperville203.org,217
+02,T280A1,2,AP World Hist,Hanley,Lynne,lhanley@naperville203.org,234
+02,T280A2,2,AP World Hist,Hanley,Lynne,lhanley@naperville203.org,234
+02,T30011,3,American Government,Connell,Maria,MConnell@Naperville203.org,220
+02,T3001C,1,American Government,Hantak,Ryan,rhantak@naperville203.org,181
+02,T3001C,2,American Government,Scott,Allan,ascott@naperville203.org,180
+02,T3001D,1,American Government,Hantak,Ryan,rhantak@naperville203.org,181
+02,T360A1,2,AP US Govt & Politics,Zieman,Matthew,mzieman@naperville203.org,228
+02,T360A2,2,AP US Govt & Politics,Zieman,Matthew,mzieman@naperville203.org,228
+02,T40011,2,US History,Wilson,Michael,mtwilson@naperville203.org,221
+02,T40012,2,US History,Borge,Michael,MBorge@Naperville203.org,237
+02,T4001C,1,US History,McGrath,Thomas,tmcgrath@naperville203.org,183
+02,T4001C,2,US History,Ketchmark,Bradley,BKetchmark@Naperville203.org,182
+02,T4001D,1,US History,McGrath,Thomas,tmcgrath@naperville203.org,183
+02,T4001D,2,US History,Ketchmark,Bradley,BKetchmark@Naperville203.org,182
+02,T40021,2,US History,Lugiai,Robert,rlugiai@naperville203.org,227
+02,T40022,2,US History,Braun,Sarah,sbraun@naperville203.org,231
+02,T460A1,2,AP US History,Ulreich,Michael,mulreich@naperville203.org,222
+02,T460A2,2,AP US History,Ulreich,Michael,mulreich@naperville203.org,222
+02,T510W2,1,Military History,Albiniak,Michael,malbiniak@naperville203.org,219
+02,T520W1,1,Chicago History,Albiniak,Michael,malbiniak@naperville203.org,219
+02,T600N1,1,Blended Economics,Ashton,David,dashton@naperville203.org,224
+02,T600N2,1,Blended Economics,Ashton,David,dashton@naperville203.org,220
+02,T720N2,1,Blended Voices,Lugiai,Robert,rlugiai@naperville203.org,227
+02,T760N1,1,Blended Intro to Psychology,Zwickert,Letitia,lzwickert@naperville203.org,231
+02,T830W1,1,Humanities 1,Gillespie,Samantha,sgillespie@naperville203.org,237
+02,T970NC,1,Blended Capstone Research Prep,Brady,Seth,sbrady@naperville203.org,185
+02,T970ND,1,Blended Capstone Research Prep,Brady,Seth,sbrady@naperville203.org,185
+02,W31011,1,French 1,Vock,Angela,avock@naperville203.org,108
+02,W31012,1,French 1,Vock,Angela,avock@naperville203.org,108
+02,W32011,2,French 2,Whitt,Jeremy,jwhitt@naperville203.org,109
+02,W32012,2,French 2,Whitt,Jeremy,jwhitt@naperville203.org,109
+02,W41011,1,German 1,Schultz,Andrew,ajschultz@naperville203.org,110
+02,W41012,1,German 1,Schultz,Andrew,ajschultz@naperville203.org,110
+02,W62011,1,Latin 2,Cunningham,Stacy,scunningham@naperville203.org,100
+02,W62012,1,Latin 2,Cunningham,Stacy,scunningham@naperville203.org,100
+02,W81011,2,Spanish 1,Davis,David,ddavis@naperville203.org,101
+02,W81012,2,Spanish 1,Davis,David,ddavis@naperville203.org,101
+02,W8101C,1,Bridge to Spanish 2,Kaisling,Eric,ekaisling@naperville203.org,176
+02,W82011,3,Spanish 2,Franta,Jennie,jfranta@naperville203.org,102
+02,W82011,4,Spanish 2,Gasser,Kathleen,kgasser@naperville203.org,104
+02,W82012,3,Spanish 2,Franta,Jennie,jfranta@naperville203.org,102
+02,W82012,4,Spanish 2,Gasser,Kathleen,kgasser@naperville203.org,104
+02,W83011,2,Spanish 3,Watson,Barbara,bwatson@naperville203.org,B17
+02,W83012,2,Spanish 3,Watson,Barbara,bwatson@naperville203.org,B17
+02,W840W1,2,Spanish 4,Gamboa,Ignacio,igamboa@naperville203.org,105
+02,W840W2,2,Spanish 4,Gamboa,Ignacio,igamboa@naperville203.org,105
+03,936011,30,Study Hall,Summy,Chelsea,csummy@naperville203.org,Cafe
+03,936011,31,Study Hall,Epstein,Nikole,nepstein@naperville203.org,51
+03,936011,32,Study Hall,Rigik,Emily,erigik@naperville203.org,238
+03,936011,33,Study Hall,Zimmermann,Geoffrey,gzimmermann@naperville203.org,227
+03,936012,30,Study Hall,Yang,Sharon,SJYang@Naperville203.org,Cafe
+03,936012,31,Study Hall,Moriarty,Brandon,bmoriarty@naperville203.org,Cafe
+03,936012,32,Study Hall,Rorer,Terri,trorer@naperville203.org,66
+03,936012,33,Study Hall,Wilder,Rochelle,RWilder@Naperville203.org,235
+03,946311,3,Enriched Studies,O'Shea,Marc,moshea@naperville203.org,240
+03,946311,4,Enriched Studies,Tuggle,Kelyn,ktuggle@naperville203.org,236
+03,946312,3,Enriched Studies,O'Shea,Marc,moshea@naperville203.org,240
+03,946312,4,Enriched Studies,Tuggle,Kelyn,ktuggle@naperville203.org,236
+03,946411,5,Supported Study Hall,Cunningham,Stacy,scunningham@naperville203.org,102
+03,946411,6,Supported Study Hall,Figi,Nicole,nfigi@naperville203.org,208
+03,946412,5,Supported Study Hall,Cunningham,Stacy,scunningham@naperville203.org,102
+03,946412,6,Supported Study Hall,Figi,Nicole,nfigi@naperville203.org,208
+03,962041,4,Literacy Workshop,Woosley,Eric,EWoosley@Naperville203.org,212 C
+03,962041,5,Literacy Workshop,Yung,Emily,EYung@Naperville203.org,212 B
+03,962042,4,Literacy Workshop,Woosley,Eric,EWoosley@Naperville203.org,212 C
+03,962042,5,Literacy Workshop,Yung,Emily,EYung@Naperville203.org,212 B
+03,967211,34,Teacher Assistant,Keller,Melissa,mkeller@naperville203.org,88
+03,967211,37,Teacher Assistant,Rauen,Sean,srauen@naperville203.org,65
+03,A37011,3,Ceramics 1,Mancuso,Rebecca,rmancuso@naperville203.org,77
+03,A37012,3,Ceramics 1,Mancuso,Rebecca,rmancuso@naperville203.org,77
+03,A935A1,1,AP Studio Art 2D Design,Hodge,Christopher,chodge@naperville203.org,76
+03,A935A2,1,AP Studio Art 2D Design,Hodge,Christopher,chodge@naperville203.org,76
+03,A940A1,1,AP Studio Art 3D,Hodge,Christopher,chodge@naperville203.org,76
+03,A940A2,1,AP Studio Art 3D,Hodge,Christopher,chodge@naperville203.org,76
+03,A95011,1,Adapted Art & Design Leaders,Cirone,Daniela,dcirone@naperville203.org,75
+03,A95012,1,Adapted Art & Design Leaders,Cirone,Daniela,dcirone@naperville203.org,75
+03,A95071,1,Adapted Art & Design,Cirone,Daniela,dcirone@naperville203.org,75
+03,A95072,1,Adapted Art & Design,Cirone,Daniela,dcirone@naperville203.org,75
+03,B240B1,1,Accounting 1,Hicks,Aislinn,ahicks@naperville203.org,40
+03,B240B2,1,Accounting 1,Hicks,Aislinn,ahicks@naperville203.org,40
+03,B30011,2,Marketing,Bell,Christine,clbell@naperville203.org,39
+03,B340N2,2,Blended Advertising,Bell,Christine,clbell@naperville203.org,39
+03,B370W1,3,Business INCubatoredu,Barry,Kathleen,kbarry@naperville203.org,245
+03,B370W2,3,Business INCubatoredu,Barry,Kathleen,kbarry@naperville203.org,245
+03,B44011,2,Computer Programming 1,Miller,Derek,djmiller@naperville203.org,46
+03,B46012,1,Computer Programming 2,Miller,Derek,djmiller@naperville203.org,52
+03,B70021,1,Consumer Economics,Dunn,Brian,bdunn@naperville203.org,244
+03,B70022,1,Consumer Economics,Dunn,Brian,bdunn@naperville203.org,244
+03,C12011,3,English 1,Konrad,Michelle,mkonrad@naperville203.org,239
+03,C12012,3,English 1,Konrad,Michelle,mkonrad@naperville203.org,239
+03,C120H1,4,Honors English 1,Blaskovitz,Jennifer,jblaskovitz@naperville203.org,201
+03,C120H2,4,Honors English 1,Blaskovitz,Jennifer,jblaskovitz@naperville203.org,201
+03,C17021,2,English 2,Kandl,Sarah,skandl@naperville203.org,205
+03,C17022,2,English 2,Kandl,Sarah,skandl@naperville203.org,205
+03,C170H1,3,Honors English 2,Johnson,Susan,sajohnson@naperville203.org,241
+03,C170H2,3,Honors English 2,Johnson,Susan,sajohnson@naperville203.org,241
+03,C190H1,2,Honors English 2 : Journalism,Carlson,Keith,kcarlson@naperville203.org,218
+03,C190H2,2,Honors English 2 : Journalism,Carlson,Keith,kcarlson@naperville203.org,218
+03,C20011,1,Speech Communication,Baldwin,Barry,bbaldwin@naperville203.org,203
+03,C20012,1,Speech Communication,Baldwin,Barry,bbaldwin@naperville203.org,203
+03,C25011,3,English 3,McGrath,Thomas,tmcgrath@naperville203.org,204
+03,C25012,3,English 3,McGrath,Thomas,tmcgrath@naperville203.org,204
+03,C25021,2,English 3,Roth,Luke,lwroth@naperville203.org,206
+03,C25022,2,English 3,Roth,Luke,lwroth@naperville203.org,206
+03,C280A1,2,AP Language & Composition,Albiniak,Sarah,salbiniak@naperville203.org,200
+03,C280A2,2,AP Language & Composition,Albiniak,Sarah,salbiniak@naperville203.org,200
+03,C34011,1,Writing Styles & Forms,Wilkerson,Mary,mwilkerson@naperville203.org,209
+03,C34011,2,Writing Styles & Forms,Doman,Michael,mdoman@naperville203.org,231
+03,C37011,2,Senior Rhetoric,Polykandriotis,Taryen,tpolykandriotis@naperville203.org,202
+03,C370N1,3,Blended Senior Rhetoric,Simon,Jennifer,jsimon@naperville203.org,207
+03,C390N2,3,Blended Creative Writing,Simon,Jennifer,jsimon@naperville203.org,207
+03,C40012,1,20th Century Literature,Polykandriotis,Taryen,tpolykandriotis@naperville203.org,202
+03,C460N2,1,Blended Literary Themes,Wilkerson,Mary,mwilkerson@naperville203.org,209
+03,C480T1,2,Blended AP Literature & Compos,Reilly,Marybeth,mreilly@naperville203.org,226
+03,C480T2,2,Blended AP Literature & Compos,Reilly,Marybeth,mreilly@naperville203.org,226
+03,C57012,1,Film as Literature,Freese,Marissa,mfreese@naperville203.org,225
+03,C74051,1,Reading Essentials,Nikkel,Breanne,bnikkel@naperville203.org,32
+03,C74052,1,Reading Essentials,Nikkel,Breanne,bnikkel@naperville203.org,32
+03,D10011,3,Driver Ed,Leaf,Anthony,aleaf@naperville203.org,B16
+03,D10012,3,Driver Ed,Leaf,Anthony,aleaf@naperville203.org,B16
+03,F14011,1,Fashion Design,Rorer,Terri,trorer@naperville203.org,86
+03,F22011,1,Culinary Arts & Nutrition 1,Cosgrove,Megan,mcosgrove@naperville203.org,89E
+03,F30011,2,Senior Foods,Page,Lindsey,Lpage@naperville203.org,89A
+03,F30012,3,Senior Foods,Page,Lindsey,Lpage@naperville203.org,89A
+03,F300N2,1,Blended Senior Foods,Haiser,Amanda,ahaiser@naperville203.org,89E
+03,F460B1,3,Early Childhood Education 1,Keller,Melissa,mkeller@naperville203.org,88
+03,F500B2,3,Early Childhood Education 2,Keller,Melissa,mkeller@naperville203.org,88
+03,F580D1,2,Intro to Teaching 1,Andrees,Lynn,landrees@naperville203.org,48
+03,F620D2,1,Intro to Teaching 2,Andrees,Lynn,landrees@naperville203.org,86
+03,H10011,3,Health,Nudera,Jeffrey,jnudera@naperville203.org,30
+03,H10012,4,Health,Nudera,Jeffrey,jnudera@naperville203.org,30
+03,H100N1,1,Blended Health,Bice,Megan,mbice@naperville203.org,31
+03,H100N2,1,Blended Health,Bice,Megan,mbice@naperville203.org,31
+03,J23011,1,Veterinary Science,Rauen,Sean,srauen@naperville203.org,65
+03,J23012,1,Veterinary Science,Rauen,Sean,srauen@naperville203.org,65
+03,J74011,1,Automotive 3 Service,Feid,Christopher,cfeid@naperville203.org,50
+03,J74012,1,Automotive 3 Service,Feid,Christopher,cfeid@naperville203.org,50
+03,J96071,1,Vocational Education,Wasserman,Ashley,AWasserman@Naperville203.org,59
+03,J96072,2,Vocational Education,Wasserman,Ashley,AWasserman@Naperville203.org,59
+03,J985N1,2,Blended STEM Capstone,Brady,Seth,sbrady@naperville203.org,224
+03,M13051,1,Intro to Alg Applications,Schaefer,Jennifer,JSchaefer@Naperville203.org,34
+03,M13052,1,Intro to Alg Applications,Schaefer,Jennifer,JSchaefer@Naperville203.org,34
+03,M19021,2,Algebra 1,Danbom,Deborah,ddanbom@naperville203.org,305
+03,M19022,2,Algebra 1,Danbom,Deborah,ddanbom@naperville203.org,305
+03,M19062,1,Algebra 1,Sprovieri,Alyssa,asprovieri@naperville203.org,128
+03,M26011,2,Math Intervention,Carlson,Timothy,trcarlson@naperville203.org,342
+03,M26012,3,Math Intervention,Carlson,Timothy,trcarlson@naperville203.org,342
+03,M28011,3,Algebra 1 w/Geometry,Gebbie,Thomas,tgebbie@naperville203.org,343
+03,M28012,3,Algebra 1 w/Geometry,Gebbie,Thomas,tgebbie@naperville203.org,343
+03,M29051,2,Algebra & Geometry Application,Gafrick,Fred,fgafrick@naperville203.org,33
+03,M29052,2,Algebra & Geometry Application,Gafrick,Fred,fgafrick@naperville203.org,33
+03,M34021,3,Geometry,Miller,Scott,smiller@naperville203.org,307
+03,M34022,3,Geometry,Miller,Scott,smiller@naperville203.org,307
+03,M34061,3,Geometry,Sprovieri,Alyssa,asprovieri@naperville203.org,128
+03,M34062,3,Geometry,Sprovieri,Alyssa,asprovieri@naperville203.org,128
+03,M340H1,3,Honors Geometry,O'Leary,Kari,koleary@naperville203.org,339
+03,M340H2,3,Honors Geometry,O'Leary,Kari,koleary@naperville203.org,339
+03,M42021,1,Algebra 2 Model/Problem Solve,Tolcher,Kelly,ktolcher@naperville203.org,309
+03,M42022,1,Algebra 2 Model/Problem Solve,Tolcher,Kelly,ktolcher@naperville203.org,309
+03,M43011,4,Algebra 2,Free,Leslie,lfree@naperville203.org,308
+03,M43012,4,Algebra 2,Free,Leslie,lfree@naperville203.org,308
+03,M43061,3,Algebra 2,Sprovieri,Alyssa,asprovieri@naperville203.org,128
+03,M43062,3,Algebra 2,Sprovieri,Alyssa,asprovieri@naperville203.org,128
+03,M430H1,3,Honors Algebra 2,Gebbie,Lisa,lgebbie@naperville203.org,303
+03,M430H2,3,Honors Algebra 2,Gebbie,Lisa,lgebbie@naperville203.org,303
+03,M430N1,1,Blended Algebra 2,Dohm,Tina,tdohm@naperville203.org,300
+03,M430N2,1,Blended Algebra 2,Dohm,Tina,tdohm@naperville203.org,300
+03,M45011,2,Quantitative Lit/Stats (TM002),Becker,Alyssa,abecker@naperville203.org,335
+03,M45012,2,Quantitative Lit/Stats (TM002),Becker,Alyssa,abecker@naperville203.org,335
+03,M53011,4,Precalculus,Ulreich,Katherine,kulreich@naperville203.org,306
+03,M53012,4,Precalculus,Ulreich,Katherine,kulreich@naperville203.org,306
+03,M530H1,2,Honors Precalculus,Winiecki,Adam,awiniecki@naperville203.org,302
+03,M530H2,2,Honors Precalculus,Winiecki,Adam,awiniecki@naperville203.org,302
+03,M600A1,1,AP Calculus AB,Danbom,Jeff,jdanbom@naperville203.org,304
+03,M600A2,1,AP Calculus AB,Danbom,Jeff,jdanbom@naperville203.org,304
+03,M610A1,1,AP Calculus BC,Rakes,Marissa,mrakes@naperville203.org,341
+03,M610A2,1,AP Calculus BC,Rakes,Marissa,mrakes@naperville203.org,341
+03,M680A1,2,AP Statistics,Nussbaum,Andrew,ajnussbaum@naperville203.org,301
+03,M680A2,2,AP Statistics,Nussbaum,Andrew,ajnussbaum@naperville203.org,301
+03,N31011,1,Intermediate Orchestra,Gross,Jesse,jgross@naperville203.org,82
+03,N31012,1,Intermediate Orchestra,Gross,Jesse,jgross@naperville203.org,82
+03,N46011,1,Advanced Treble Choir,Mielcarz,Kelly,kmielcarz@naperville203.org,84
+03,N46012,1,Advanced Treble Choir,Mielcarz,Kelly,kmielcarz@naperville203.org,84
+03,N76011,1,Music Production 1,Estes,Brandon,bestes@naperville203.org,80
+03,N76012,1,Music Production 1,Estes,Brandon,bestes@naperville203.org,80
+03,N77011,1,Music Production 2,Estes,Brandon,bestes@naperville203.org,80
+03,N77012,1,Music Production 2,Estes,Brandon,bestes@naperville203.org,80
+03,P10011,31,PE 1,Adams,Kyle,kadams@naperville203.org,Main Gym
+03,P10011,32,PE 1,Duncan,Neil,nduncan@naperville203.org,Main Gym
+03,P10012,31,PE 1,Hagenbaumer,Kristina,khagenbaumer@naperville203.org,Main Gym
+03,P10012,32,PE 1,Lafferty,Crystal,clafferty@naperville203.org,Main Gym
+03,P20011,3,PE 2,Yanke,Jeffrey,jyanke@naperville203.org,Main Gym
+03,P20012,3,PE 2,Klimczak,Caila,cklimczak@naperville203.org,Main Gym
+03,P40111,3,Competitive Team Sports,Lutzenkirchen,Andrew,alutzenkirchen@naperville203.org,Main Gym
+03,P40211,3,Studio Fitness Mind & Body,Anderson,Kristen,kcanderson@naperville203.org,Main Gym
+03,P40212,3,Studio Fitness Mind & Body,Anderson,Kristen,kcanderson@naperville203.org,Main Gym
+03,P40412,3,Lifetime Activities & Fitness,Hilgert,Alexis,AHilgert@Naperville203.org,Main Gym
+03,P42011,3,Adventure 1,Salentine,William,wsalentine@naperville203.org,Main Gym
+03,P42512,3,Adventure 2,Salentine,William,wsalentine@naperville203.org,Main Gym
+03,P44011,3,Strength & Performance,Bradley,Charles,chbradley@naperville203.org,Weight Rm
+03,P44012,3,Strength & Performance,Fitzenreider,Noah,nfitzenreider@naperville203.org,Weight Rm
+03,P62011,30,PE Leader,Duncan,Neil,nduncan@naperville203.org,Main Gym
+03,P62011,34,PE Leader,Adams,Kyle,kadams@naperville203.org,Main Gym
+03,P62011,39,PE Leader,Yanke,Jeffrey,jyanke@naperville203.org,Main Gym
+03,P62012,39,PE Leader,Salentine,William,wsalentine@naperville203.org,Pool
+03,P63011,3,Sports Medicine 1,Florence,Mark,mflorence@naperville203.org,"Training  "
+03,P63512,3,Sports Medicine 2,Florence,Mark,mflorence@naperville203.org,"Training  "
+03,P89011,3,Wellness Study Hall,Epstein,Nikole,nepstein@naperville203.org,51
+03,P89012,3,Wellness Study Hall,Moriarty,Brandon,bmoriarty@naperville203.org,Cafe
+03,S15011,2,Earth Science,Bennett,Linda,lbennett@naperville203.org,330
+03,S15012,2,Earth Science,Bennett,Linda,lbennett@naperville203.org,330
+03,S190N1,1,Blended Astronomy,Norgaard,Jennifer,jnorgaard@naperville203.org,340
+03,S190N2,1,Blended Astronomy,Norgaard,Jennifer,jnorgaard@naperville203.org,334
+03,S23011,1,Veterinary Science,Rauen,Sean,srauen@naperville203.org,65
+03,S23012,1,Veterinary Science,Rauen,Sean,srauen@naperville203.org,65
+03,S31021,3,Biology,Nunez,Yazmin,YNunez@Naperville203.org,315
+03,S31022,3,Biology,Nunez,Yazmin,YNunez@Naperville203.org,315
+03,S34061,3,Biology,Sprovieri,Alyssa,asprovieri@naperville203.org,128
+03,S34062,3,Biology,Sprovieri,Alyssa,asprovieri@naperville203.org,128
+03,S370H1,3,Honors Biology,Hastings,Amy,ahastings@naperville203.org,317
+03,S370H1,4,Honors Biology,Lundquist,Paige,plundquist@naperville203.org,314
+03,S370H2,3,Honors Biology,Hastings,Amy,ahastings@naperville203.org,317
+03,S370H2,4,Honors Biology,Lundquist,Paige,plundquist@naperville203.org,314
+03,S440W1,3,Anatomy & Physiology,Gresk,Matthew,mgresk@naperville203.org,322
+03,S440W2,3,Anatomy & Physiology,Gresk,Matthew,mgresk@naperville203.org,318
+03,S460W1,2,Biotechnology,Griffith,Crystal,cgriffith@naperville203.org,313
+03,S50011,6,Chemistry,Barker,Jacquelyn,jbarker@naperville203.org,319
+03,S50011,7,Chemistry,Brotan,Megan,mbrotan@naperville203.org,325
+03,S50011,8,Chemistry,Frye,Lindsey,LFrye@naperville203.org,323
+03,S50012,6,Chemistry,Barker,Jacquelyn,jbarker@naperville203.org,319
+03,S50012,7,Chemistry,Mateus,Tanner,TMateus@Naperville203.org,325
+03,S50012,8,Chemistry,Frye,Lindsey,LFrye@naperville203.org,323
+03,S50021,3,Chemistry,Olandese,Daniel,dolandese@naperville203.org,324
+03,S50022,3,Chemistry,Olandese,Daniel,dolandese@naperville203.org,322
+03,S500H1,3,Honors Chemistry,Bentley,Jeromy,jbentley@naperville203.org,320
+03,S500H2,3,Honors Chemistry,Bentley,Jeromy,jbentley@naperville203.org,320
+03,S59011,4,Physics,Collier,Flint,fcollier@naperville203.org,333
+03,S59011,5,Physics,Sanoshy,Thomas,tsanoshy@naperville203.org,331
+03,S59012,4,Physics,Williams,Michael,MJWilliams1@Naperville203.org,333
+03,S59012,5,Physics,Sanoshy,Thomas,tsanoshy@naperville203.org,331
+03,S600A1,3,AP Physics 1,Banas,Timothy,tbanas@naperville203.org,328
+03,S600A2,3,AP Physics 1,Banas,Timothy,tbanas@naperville203.org,328
+03,S94061,2,Earth Science,Sprovieri,Alyssa,asprovieri@naperville203.org,128
+03,S94062,3,Earth Science,Sprovieri,Alyssa,asprovieri@naperville203.org,128
+03,T10011,3,World Cultures,Holmberg,Todd,tholmberg@naperville203.org,229
+03,T10012,3,World Cultures,Holmberg,Todd,tholmberg@naperville203.org,229
+03,T150A1,3,AP Human Geography,Smith,Randall,rsmith@naperville203.org,223
+03,T150A2,3,AP Human Geography,Smith,Randall,rsmith@naperville203.org,223
+03,T23011,3,World History,Bochenski,Michael,mbochenski@naperville203.org,217
+03,T23012,3,World History,Gillespie,Samantha,sgillespie@naperville203.org,237
+03,T26012,3,20th Century History,Bochenski,Michael,mbochenski@naperville203.org,217
+03,T30011,4,American Government,Connell,Maria,MConnell@Naperville203.org,221
+03,T30021,1,American Government,Mohn,Donna,dmohn@naperville203.org,215
+03,T30022,1,American Government,Mohn,Donna,dmohn@naperville203.org,215
+03,T360A1,3,AP US Govt & Politics,Zieman,Matthew,mzieman@naperville203.org,228
+03,T360A2,3,AP US Govt & Politics,Zieman,Matthew,mzieman@naperville203.org,228
+03,T40011,3,US History,Stack,Steven,sstack@naperville203.org,213
+03,T40012,3,US History,Stack,Steven,sstack@naperville203.org,213
+03,T460A1,3,AP US History,Ulreich,Michael,mulreich@naperville203.org,222
+03,T460A2,3,AP US History,Ulreich,Michael,mulreich@naperville203.org,222
+03,T510W2,2,Military History,Albiniak,Michael,malbiniak@naperville203.org,219
+03,T520W1,2,Chicago History,Albiniak,Michael,malbiniak@naperville203.org,219
+03,T590N2,1,Blended Peace & Conflict Study,Brady,Seth,sbrady@naperville203.org,224
+03,T600N1,2,Blended Economics,Ashton,David,dashton@naperville203.org,235
+03,T600N2,2,Blended Economics,Ashton,David,dashton@naperville203.org,227
+03,T620A2,1,AP Macro Economics,Borge,Michael,MBorge@Naperville203.org,234
+03,T630A1,1,AP Micro Economics,Borge,Michael,MBorge@Naperville203.org,234
+03,T74012,1,Sociology,Wilson,Michael,mtwilson@naperville203.org,221
+03,T76011,1,Intro to Psychology,Tilt,Cindy,ctilt@naperville203.org,220
+03,T76012,1,Intro to Psychology,Zwickert,Letitia,lzwickert@naperville203.org,220
+03,T830W1,2,Humanities 1,Gillespie,Samantha,sgillespie@naperville203.org,237
+03,T985N1,2,Blended Humanities CapstoneIGS,Brady,Seth,sbrady@naperville203.org,224
+03,W11011,1,American Sign Language 1,Sargent,Sara,SSargent@Naperville203.org,100
+03,W11012,1,American Sign Language 1,Sargent,Sara,SSargent@Naperville203.org,100
+03,W240G1,1,Blended Chinese Mandarin 4,Kralovic,Michael,mkralovic@naperville203.org,103
+03,W240G2,1,Blended Chinese Mandarin 4,Kralovic,Michael,mkralovic@naperville203.org,103
+03,W81011,3,Spanish 1,Watson,Barbara,bwatson@naperville203.org,B17
+03,W81012,3,Spanish 1,Watson,Barbara,bwatson@naperville203.org,B17
+03,W82011,5,Spanish 2,Davis,David,ddavis@naperville203.org,101
+03,W82011,6,Spanish 2,Warren,Mary,mwarren@naperville203.org,105
+03,W82012,5,Spanish 2,Davis,David,ddavis@naperville203.org,101
+03,W82012,6,Spanish 2,Warren,Mary,mwarren@naperville203.org,105
+03,W83011,3,Spanish 3,Kaisling,Eric,ekaisling@naperville203.org,B15
+03,W83012,3,Spanish 3,Kaisling,Eric,ekaisling@naperville203.org,B15
+03,W840G1,1,Blended Spanish 4,Ortiz,Michael,mortiz@naperville203.org,B19
+03,W840G2,1,Blended Spanish 4,Ortiz,Michael,mortiz@naperville203.org,B19
+03,W850E1,1,Spanish 5,Gasser,Kathleen,kgasser@naperville203.org,104
+03,W850E2,1,Spanish 5,Gasser,Kathleen,kgasser@naperville203.org,104
+03,W860A1,1,AP Spanish Language & Culture,Diaz,Ana Rosa,ardiaz@naperville203.org,108
+03,W860A2,1,AP Spanish Language & Culture,Diaz,Ana Rosa,ardiaz@naperville203.org,108
+03,W880G1,1,Blended Spanish for the Profes,Gamboa,Ignacio,igamboa@naperville203.org,109
+03,W885G2,1,Blended Spanish Film and Lit,Gamboa,Ignacio,igamboa@naperville203.org,109
+04,910011,4,Lunch,McFadden,Carrie,cmcfadden@naperville203.org,Cafe
+04,910012,4,Lunch,McFadden,Carrie,cmcfadden@naperville203.org,Cafe
+04,935011,4,Redhawk Recovery,Kandl,Sarah,skandl@naperville203.org,205
+04,935012,4,Redhawk Recovery,Kandl,Sarah,skandl@naperville203.org,205
+04,936011,40,Study Hall,Twietmeyer,Grace,gtwietmeyer@naperville203.org,302
+04,936011,41,Study Hall,Becker,Alyssa,abecker@naperville203.org,341
+04,936011,42,Study Hall,Reilly,Marybeth,mreilly@naperville203.org,225
+04,936012,40,Study Hall,Albiniak,Michael,malbiniak@naperville203.org,219
+04,936012,41,Study Hall,Tolcher,Kelly,ktolcher@naperville203.org,309
+04,936012,42,Study Hall,Diaz,Ana Rosa,ardiaz@naperville203.org,105
+04,937011,4,English Support,Granatelli,Maxyne,mgranatelli@naperville203.org,214
+04,937012,4,English Support,Granatelli,Maxyne,mgranatelli@naperville203.org,214
+04,939011,4,Math Support,Lynch,Megan,mmlynch@naperville203.org,307
+04,939012,4,Math Support,Lynch,Megan,mmlynch@naperville203.org,307
+04,941011,4,Science Support,Olandese,Daniel,dolandese@naperville203.org,323
+04,941012,4,Science Support,Olandese,Daniel,dolandese@naperville203.org,322
+04,943011,4,Social Studies Support,Zwickert,Letitia,lzwickert@naperville203.org,231
+04,943012,4,Social Studies Support,Stack,Steven,sstack@naperville203.org,213
+04,962041,6,Literacy Workshop,Manganello,Karyn,kmanganello@naperville203.org,212 C
+04,962041,7,Literacy Workshop,Novak,Eric,enovak@naperville203.org,212 B
+04,962041,8,Literacy Workshop,Stanley,Samantha,sstanley@naperville203.org,212 G
+04,962042,6,Literacy Workshop,Manganello,Karyn,kmanganello@naperville203.org,212 C
+04,962042,7,Literacy Workshop,Novak,Eric,enovak@naperville203.org,212 B
+04,962042,8,Literacy Workshop,Stanley,Samantha,sstanley@naperville203.org,212 G
+04,A16011,3,Drawing 1,Cirone,Daniela,dcirone@naperville203.org,75
+04,A16012,3,Drawing 1,Murphy,Amy,amurphy@naperville203.org,75
+04,A21011,1,Drawing 4,Cirone,Daniela,dcirone@naperville203.org,75
+04,A37011,4,Ceramics 1,Mancuso,Rebecca,rmancuso@naperville203.org,77
+04,A38012,1,Ceramics 2,Mancuso,Rebecca,rmancuso@naperville203.org,77
+04,A44011,1,Jewelry/Metals 2,Figueroa,Danielle,dfigueroa@naperville203.org,78
+04,A44012,1,Jewelry/Metals 2,Figueroa,Danielle,dfigueroa@naperville203.org,78
+04,A45011,1,Jewelry/Metals 3,Figueroa,Danielle,dfigueroa@naperville203.org,78
+04,A45012,1,Jewelry/Metals 3,Figueroa,Danielle,dfigueroa@naperville203.org,78
+04,A50012,2,Photography 1 (Traditional),Hodge,Christopher,chodge@naperville203.org,76
+04,A55511,1,Film and Video Arts 1,Padgett,Gregory,gspadgett@naperville203.org,54
+04,A55512,1,Film and Video Arts 1,Padgett,Gregory,gspadgett@naperville203.org,54
+04,B10011,2,Introduction to Business,Epstein,Nikole,nepstein@naperville203.org,48
+04,B12012,1,Tech Edge,Miller,Derek,djmiller@naperville203.org,46
+04,B30011,3,Marketing,Bell,Christine,clbell@naperville203.org,39
+04,B370W1,4,Business INCubatoredu,Barry,Kathleen,kbarry@naperville203.org,245
+04,B370W2,4,Business INCubatoredu,Barry,Kathleen,kbarry@naperville203.org,245
+04,B44012,1,Computer Programming 1,Epstein,Nikole,nepstein@naperville203.org,40
+04,B52011,1,Web Page Design,Miller,Derek,djmiller@naperville203.org,46
+04,B54012,1,Advanced Web Page Design,Miller,Derek,djmiller@naperville203.org,46
+04,B560A1,3,AP Computer Science A,Hayes,Kevin,khayes@naperville203.org,52
+04,B560A2,3,AP Computer Science A,Hayes,Kevin,khayes@naperville203.org,52
+04,B70021,2,Consumer Economics,Dunn,Brian,bdunn@naperville203.org,244
+04,B70022,2,Consumer Economics,Dunn,Brian,bdunn@naperville203.org,244
+04,C12011,4,English 1,Konrad,Michelle,mkonrad@naperville203.org,239
+04,C12012,4,English 1,Konrad,Michelle,mkonrad@naperville203.org,239
+04,C12021,2,English 1,Rigik,Emily,erigik@naperville203.org,238
+04,C12022,2,English 1,Rigik,Emily,erigik@naperville203.org,238
+04,C120H1,5,Honors English 1,Hindi,Mthal,MHindi@Naperville203.org,201
+04,C120H2,5,Honors English 1,Hindi,Mthal,MHindi@Naperville203.org,201
+04,C17011,4,English 2,Winebrenner,Meghan,MWinebrenner@Naperville203.org,236
+04,C17012,4,English 2,Freese,Marissa,mfreese@naperville203.org,225
+04,C17021,3,English 2,Simon,Jennifer,jsimon@naperville203.org,207
+04,C17022,3,English 2,Simon,Jennifer,jsimon@naperville203.org,207
+04,C170H1,4,Honors English 2,Johnson,Susan,sajohnson@naperville203.org,241
+04,C170H2,4,Honors English 2,Johnson,Susan,sajohnson@naperville203.org,241
+04,C25011,4,English 3,McGrath,Thomas,tmcgrath@naperville203.org,204
+04,C25012,4,English 3,McGrath,Thomas,tmcgrath@naperville203.org,204
+04,C25061,1,English 3,Sprovieri,Alyssa,asprovieri@naperville203.org,128
+04,C25062,1,English 3,Sprovieri,Alyssa,asprovieri@naperville203.org,128
+04,C250H1,2,Honors English 3,Albiniak,Sarah,salbiniak@naperville203.org,200
+04,C250H2,2,Honors English 3,Albiniak,Sarah,salbiniak@naperville203.org,200
+04,C34061,1,Writing Styles & Forms,Sprovieri,Alyssa,asprovieri@naperville203.org,128
+04,C370G1,2,Blended Honors Senior Rhetoric,Heatherly,Taylor,theatherly@naperville203.org,240
+04,C45012,2,World Literature,Heatherly,Taylor,theatherly@naperville203.org,240
+04,C46062,1,Literary Themes,Sprovieri,Alyssa,asprovieri@naperville203.org,128
+04,C505N1,1,Blended Advanced Media Lab,Weiss,Nicole,nweiss@naperville203.org,216
+04,C505N2,1,Blended Advanced Media Lab,Weiss,Nicole,nweiss@naperville203.org,216
+04,D10012,4,Driver Ed,Leaf,Anthony,aleaf@naperville203.org,B16
+04,F22011,2,Culinary Arts & Nutrition 1,Cosgrove,Megan,mcosgrove@naperville203.org,89E
+04,F22012,3,Culinary Arts & Nutrition 1,Rorer,Terri,trorer@naperville203.org,89E
+04,F26012,1,Culinary Arts & Nutrition 2,Cosgrove,Megan,mcosgrove@naperville203.org,89E
+04,F66011,3,Intro to Health Occupations,Haiser,Amanda,ahaiser@naperville203.org,87
+04,H10012,5,Health,Nudera,Jeffrey,jnudera@naperville203.org,30
+04,H100N1,2,Blended Health,Bice,Megan,mbice@naperville203.org,31
+04,J20012,3,Companion Animal Science 1,Hernandez,Adrian,ALHernandez@Naperville203.org,65
+04,J420D1,2,Electronics,Kischuk,Daniel,dkischuk@naperville203.org,51
+04,J420D2,2,Electronics,Kischuk,Daniel,dkischuk@naperville203.org,51
+04,J50011,1,Workshop Elements,King,Wright,wking@naperville203.org,45
+04,J50012,1,Workshop Elements,King,Wright,wking@naperville203.org,45
+04,J96052,1,Vocational Education,Prousa,Nicole,NProusa@Naperville203.org,34
+04,M19011,3,Algebra 1,O'Connor,Rachel,ROConnor@Naperville203.org,305
+04,M19012,3,Algebra 1,O'Connor,Rachel,ROConnor@Naperville203.org,305
+04,M34011,3,Geometry,Yang,Sharon,SJYang@Naperville203.org,303
+04,M34012,3,Geometry,Yang,Sharon,SJYang@Naperville203.org,302
+04,M43011,5,Algebra 2,Azzolin,Kelly,KAzzolin@Naperville203.org,300
+04,M43011,6,Algebra 2,Free,Leslie,lfree@naperville203.org,308
+04,M43012,5,Algebra 2,Azzolin,Kelly,KAzzolin@Naperville203.org,300
+04,M43012,6,Algebra 2,Free,Leslie,lfree@naperville203.org,308
+04,M53011,5,Precalculus,Ulreich,Katherine,kulreich@naperville203.org,306
+04,M53012,5,Precalculus,Ulreich,Katherine,kulreich@naperville203.org,306
+04,M600A1,2,AP Calculus AB,Cotrano,Amber,acotrano@naperville203.org,304
+04,M600A2,2,AP Calculus AB,Cotrano,Amber,acotrano@naperville203.org,304
+04,M610A1,2,AP Calculus BC,Gebbie,Thomas,tgebbie@naperville203.org,343
+04,M610A2,2,AP Calculus BC,Gebbie,Thomas,tgebbie@naperville203.org,343
+04,M640E1,1,Multivariable Calculus,Straka,Nicholas,nstraka@naperville203.org,335
+04,M640E2,1,Multivariable Calculus,Straka,Nicholas,nstraka@naperville203.org,335
+04,M680A1,3,AP Statistics,Nussbaum,Andrew,ajnussbaum@naperville203.org,301
+04,M680A2,3,AP Statistics,Nussbaum,Andrew,ajnussbaum@naperville203.org,301
+04,M84051,1,Consumer Math,Gafrick,Fred,fgafrick@naperville203.org,33
+04,M84052,1,Consumer Math,Gafrick,Fred,fgafrick@naperville203.org,33
+04,P10011,41,PE 1,Cauley,Sarah,scauley@naperville203.org,Main Gym
+04,P10011,42,PE 1,Pilapil,Christian,cpilapil@naperville203.org,Main Gym
+04,P10012,41,PE 1,Adams,Kyle,kadams@naperville203.org,Main Gym
+04,P10012,42,PE 1,Hagenbaumer,Kristina,khagenbaumer@naperville203.org,Main Gym
+04,P20011,4,PE 2,Yanke,Jeffrey,jyanke@naperville203.org,Main Gym
+04,P40111,4,Competitive Team Sports,Lutzenkirchen,Andrew,alutzenkirchen@naperville203.org,Main Gym
+04,P40112,4,Competitive Team Sports,Kramer,Peter,pkramer@naperville203.org,Main Gym
+04,P40311,4,Self Defense,Lafferty,Crystal,clafferty@naperville203.org,Main Gym
+04,P44012,4,Strength & Performance,Fitzenreider,Noah,nfitzenreider@naperville203.org,Weight Rm
+04,P61011,4,PE Leader Training,Adams,Kyle,kadams@naperville203.org,Main Gym
+04,P62011,44,PE Leader,Cauley,Sarah,scauley@naperville203.org,Main Gym
+04,P62011,45,PE Leader,Pilapil,Christian,cpilapil@naperville203.org,Main Gym
+04,P62011,49,PE Leader,Yanke,Jeffrey,jyanke@naperville203.org,Main Gym
+04,P86041,4,Adapted PE,Lago,Nick,nlago@naperville203.org,Aux Gym
+04,P86042,4,Adapted PE,Lago,Nick,nlago@naperville203.org,Aux Gym
+04,P87011,4,Adapted PE  Leaders,Lago,Nick,nlago@naperville203.org,Aux Gym
+04,P87012,4,Adapted PE  Leaders,Lago,Nick,nlago@naperville203.org,Aux Gym
+04,P89011,4,Wellness Study Hall,Reilly,Marybeth,mreilly@naperville203.org,225
+04,P89012,4,Wellness Study Hall,Diaz,Ana Rosa,ardiaz@naperville203.org,105
+04,S15011,3,Earth Science,Bennett,Linda,lbennett@naperville203.org,330
+04,S15012,3,Earth Science,Bennett,Linda,lbennett@naperville203.org,330
+04,S190N1,2,Blended Astronomy,Norgaard,Jennifer,jnorgaard@naperville203.org,340
+04,S190N2,2,Blended Astronomy,Norgaard,Jennifer,jnorgaard@naperville203.org,334
+04,S31011,3,Biology,Marshall,William,WMarshall@Naperville203.org,318
+04,S31012,3,Biology,Marshall,William,WMarshall@Naperville203.org,325
+04,S31021,4,Biology,Summy,Chelsea,csummy@naperville203.org,315
+04,S31022,4,Biology,Summy,Chelsea,csummy@naperville203.org,315
+04,S370H1,5,Honors Biology,Lundquist,Paige,plundquist@naperville203.org,314
+04,S370H2,5,Honors Biology,Lundquist,Paige,plundquist@naperville203.org,314
+04,S440W1,4,Anatomy & Physiology,Gresk,Matthew,mgresk@naperville203.org,322
+04,S440W2,4,Anatomy & Physiology,Gresk,Matthew,mgresk@naperville203.org,318
+04,S50011,9,Chemistry,Kedziora,Kimberly,kkedziora@naperville203.org,324
+04,S50012,9,Chemistry,Kedziora,Kimberly,kkedziora@naperville203.org,324
+04,S500H1,4,Honors Chemistry,Bentley,Jeromy,jbentley@naperville203.org,320
+04,S500H2,4,Honors Chemistry,Bentley,Jeromy,jbentley@naperville203.org,320
+04,S59011,6,Physics,Sanoshy,Thomas,tsanoshy@naperville203.org,331
+04,S59012,6,Physics,Sanoshy,Thomas,tsanoshy@naperville203.org,331
+04,S600A1,4,AP Physics 1,Banas,Timothy,tbanas@naperville203.org,328
+04,S600A2,4,AP Physics 1,Banas,Timothy,tbanas@naperville203.org,328
+04,S90071,2,Intro to Science 1,Ghiotto,Christina,cghiotto@naperville203.org,70
+04,S90072,2,Intro to Science 1,Ghiotto,Christina,cghiotto@naperville203.org,70
+04,T10021,3,World Cultures,Gabrielli,Georganne,ggabrielli@naperville203.org,235
+04,T10022,3,World Cultures,Gabrielli,Georganne,ggabrielli@naperville203.org,235
+04,T23011,4,World History,Bochenski,Michael,mbochenski@naperville203.org,217
+04,T23012,4,World History,Connell,Maria,MConnell@Naperville203.org,220
+04,T26012,4,20th Century History,Lugiai,Robert,rlugiai@naperville203.org,227
+04,T30011,5,American Government,Mohn,Donna,dmohn@naperville203.org,215
+04,T40011,4,US History,Stack,Steven,sstack@naperville203.org,213
+04,T40012,4,US History,Wilder,Rochelle,RWilder@Naperville203.org,215
+04,T40021,3,US History,Lugiai,Robert,rlugiai@naperville203.org,227
+04,T40022,3,US History,Braun,Sarah,sbraun@naperville203.org,231
+04,T590N2,2,Blended Peace & Conflict Study,Brady,Seth,sbrady@naperville203.org,224
+04,T620A2,2,AP Macro Economics,Borge,Michael,MBorge@Naperville203.org,234
+04,T630A1,2,AP Micro Economics,Borge,Michael,MBorge@Naperville203.org,234
+04,T74011,1,Sociology,Braun,Sarah,sbraun@naperville203.org,219
+04,T74012,2,Sociology,Wilson,Michael,mtwilson@naperville203.org,221
+04,T79011,1,Comparative Religions,Wilson,Michael,mtwilson@naperville203.org,221
+04,T90051,1,Citizenship,Prousa,Nicole,NProusa@Naperville203.org,34
+04,W11011,2,American Sign Language 1,Sargent,Sara,SSargent@Naperville203.org,100
+04,W11012,2,American Sign Language 1,Sargent,Sara,SSargent@Naperville203.org,100
+04,W33011,1,French 3,Vock,Angela,avock@naperville203.org,108
+04,W33012,1,French 3,Vock,Angela,avock@naperville203.org,108
+04,W360A1,1,AP French Language and Culture,Whitt,Jeremy,jwhitt@naperville203.org,109
+04,W360A2,1,AP French Language and Culture,Whitt,Jeremy,jwhitt@naperville203.org,109
+04,W440W1,1,German 4,Schultz,Andrew,ajschultz@naperville203.org,110
+04,W440W2,1,German 4,Schultz,Andrew,ajschultz@naperville203.org,110
+04,W82011,7,Spanish 2,Kaisling,Eric,ekaisling@naperville203.org,B15
+04,W82012,7,Spanish 2,Kaisling,Eric,ekaisling@naperville203.org,B15
+04,W83011,4,Spanish 3,Franta,Jennie,jfranta@naperville203.org,102
+04,W83012,4,Spanish 3,Franta,Jennie,jfranta@naperville203.org,102
+04,W840W1,3,Spanish 4,Ortiz,Michael,mortiz@naperville203.org,B19
+04,W840W2,3,Spanish 4,Ortiz,Michael,mortiz@naperville203.org,B19
+05,910011,5,Lunch,McFadden,Carrie,cmcfadden@naperville203.org,Cafe
+05,910012,5,Lunch,McFadden,Carrie,cmcfadden@naperville203.org,Cafe
+05,935011,5,Redhawk Recovery,Cunningham,Stacy,scunningham@naperville203.org,100
+05,935012,5,Redhawk Recovery,Cunningham,Stacy,scunningham@naperville203.org,100
+05,936011,50,Study Hall,Baldwin,Barry,bbaldwin@naperville203.org,203
+05,936011,51,Study Hall,Sladkey,David,dsladkey@naperville203.org,304
+05,936011,52,Study Hall,Brotan,Megan,mbrotan@naperville203.org,333
+05,936012,50,Study Hall,Leaf,Anthony,aleaf@naperville203.org,B16
+05,936012,51,Study Hall,Albiniak,Sarah,salbiniak@naperville203.org,200
+05,936012,52,Study Hall,Cirone,Daniela,dcirone@naperville203.org,48
+05,937011,5,English Support,Tuggle,Kelyn,ktuggle@naperville203.org,236
+05,937012,5,English Support,Tuggle,Kelyn,ktuggle@naperville203.org,236
+05,939011,5,Math Support,Gebbie,Lisa,lgebbie@naperville203.org,303
+05,939012,5,Math Support,Gebbie,Lisa,lgebbie@naperville203.org,303
+05,941011,5,Science Support,Frye,Lindsey,LFrye@naperville203.org,324
+05,941012,5,Science Support,Frye,Lindsey,LFrye@naperville203.org,322
+05,943011,5,Social Studies Support,Brady,Seth,sbrady@naperville203.org,224
+05,943012,5,Social Studies Support,Holmberg,Todd,tholmberg@naperville203.org,229
+05,962041,9,Literacy Workshop,Filer,Christine,CFiler@Naperville203.org,212 C
+05,962041,10,Literacy Workshop,Steger,Michael,msteger@naperville203.org,212 B
+05,962042,9,Literacy Workshop,Filer,Christine,CFiler@Naperville203.org,212 C
+05,962042,10,Literacy Workshop,Steger,Michael,msteger@naperville203.org,212 B
+05,967212,59,Teacher Assistant,Padgett,Gregory,gspadgett@naperville203.org,54
+05,A19012,2,Drawing 2,Hodge,Christopher,chodge@naperville203.org,75
+05,A20012,2,Drawing 3,Hodge,Christopher,chodge@naperville203.org,75
+05,A21012,2,Drawing 4,Hodge,Christopher,chodge@naperville203.org,75
+05,A38011,1,Ceramics 2,Mancuso,Rebecca,rmancuso@naperville203.org,77
+05,A39011,1,Ceramics 3,Mancuso,Rebecca,rmancuso@naperville203.org,77
+05,A39012,1,Ceramics 3,Mancuso,Rebecca,rmancuso@naperville203.org,77
+05,A40011,1,Ceramics 4,Mancuso,Rebecca,rmancuso@naperville203.org,77
+05,A40012,1,Ceramics 4,Mancuso,Rebecca,rmancuso@naperville203.org,77
+05,A51011,1,Photography 2 (Traditional),Hodge,Christopher,chodge@naperville203.org,76
+05,A51012,1,Photography 2 (Traditional),Murphy,Amy,amurphy@naperville203.org,76
+05,A52011,1,Photography 3,Hodge,Christopher,chodge@naperville203.org,76
+05,A52012,1,Photography 3,Murphy,Amy,amurphy@naperville203.org,76
+05,A53012,1,Photography 4,Murphy,Amy,amurphy@naperville203.org,76
+05,A54011,1,Photography 2 (Digital),Hodge,Christopher,chodge@naperville203.org,76
+05,A54012,1,Photography 2 (Digital),Murphy,Amy,amurphy@naperville203.org,76
+05,A56511,1,Film and Video Arts 2,Padgett,Gregory,gspadgett@naperville203.org,54
+05,A56512,1,Film and Video Arts 2,Padgett,Gregory,gspadgett@naperville203.org,54
+05,A567N1,1,Blended Film and Video Arts 3,Padgett,Gregory,gspadgett@naperville203.org,54
+05,A567N2,1,Blended Film and Video Arts 3,Padgett,Gregory,gspadgett@naperville203.org,54
+05,A569N1,1,Blended Film and Video Arts 4,Padgett,Gregory,gspadgett@naperville203.org,54
+05,A569N2,1,Blended Film and Video Arts 4,Padgett,Gregory,gspadgett@naperville203.org,54
+05,A57011,1,Digital Art 1,Murphy,Amy,amurphy@naperville203.org,75A
+05,A58011,1,Digital Art 2,Murphy,Amy,amurphy@naperville203.org,75A
+05,A63012,1,Sculpture 1,Mancuso,Rebecca,rmancuso@naperville203.org,77
+05,A64012,1,Sculpture 2,Mancuso,Rebecca,rmancuso@naperville203.org,77
+05,B10011,3,Introduction to Business,Epstein,Nikole,nepstein@naperville203.org,48
+05,B10012,2,Introduction to Business,Bell,Christine,clbell@naperville203.org,39
+05,B240B1,2,Accounting 1,Hicks,Aislinn,ahicks@naperville203.org,40
+05,B240B2,2,Accounting 1,Hicks,Aislinn,ahicks@naperville203.org,40
+05,B375G1,1,Blended Business ACCELeratored,Neubauer,Bradley,bneubauer@naperville203.org,245
+05,B375G2,1,Blended Business ACCELeratored,Neubauer,Bradley,bneubauer@naperville203.org,245
+05,B44011,3,Computer Programming 1,Hayes,Kevin,khayes@naperville203.org,52
+05,B46012,2,Computer Programming 2,Hayes,Kevin,khayes@naperville203.org,52
+05,B70011,1,Consumer Economics,Dunn,Brian,bdunn@naperville203.org,244
+05,B70012,1,Consumer Economics,Dunn,Brian,bdunn@naperville203.org,244
+05,B71052,1,Principles of Consumer Econ,Jansen,Jennifer,jjansen@naperville203.org,32
+05,C12011,5,English 1,Wilkerson,Mary,mwilkerson@naperville203.org,209
+05,C12012,5,English 1,Wilkerson,Mary,mwilkerson@naperville203.org,209
+05,C12021,3,English 1,Rigik,Emily,erigik@naperville203.org,238
+05,C12022,3,English 1,Rigik,Emily,erigik@naperville203.org,238
+05,C120H1,6,Honors English 1,Figi,Nicole,nfigi@naperville203.org,208
+05,C120H2,6,Honors English 1,Figi,Nicole,nfigi@naperville203.org,208
+05,C12551,1,English 1 Essentials,Yung,Emily,EYung@Naperville203.org,33
+05,C12552,1,English 1 Essentials,Yung,Emily,EYung@Naperville203.org,33
+05,C17021,4,English 2,Kandl,Sarah,skandl@naperville203.org,205
+05,C17022,4,English 2,Kandl,Sarah,skandl@naperville203.org,205
+05,C25011,5,English 3,Granatelli,Maxyne,mgranatelli@naperville203.org,214
+05,C25012,5,English 3,Granatelli,Maxyne,mgranatelli@naperville203.org,214
+05,C25021,3,English 3,Roth,Luke,lwroth@naperville203.org,206
+05,C25022,3,English 3,Roth,Luke,lwroth@naperville203.org,206
+05,C280A1,3,AP Language & Composition,Polykandriotis,Taryen,tpolykandriotis@naperville203.org,202
+05,C280A2,3,AP Language & Composition,Polykandriotis,Taryen,tpolykandriotis@naperville203.org,202
+05,C37021,2,Senior Rhetoric,Freed,Adam,afreed@naperville203.org,225
+05,C57022,2,Film as Literature,Freed,Adam,afreed@naperville203.org,225
+05,F100D2,1,Fashion Merchandising,Page,Lindsey,Lpage@naperville203.org,86
+05,F22012,4,Culinary Arts & Nutrition 1,Rorer,Terri,trorer@naperville203.org,89E
+05,F26012,2,Culinary Arts & Nutrition 2,Cosgrove,Megan,mcosgrove@naperville203.org,89E
+05,F66011,4,Intro to Health Occupations,Haiser,Amanda,ahaiser@naperville203.org,87
+05,H10011,4,Health,Nudera,Jeffrey,jnudera@naperville203.org,30
+05,H10012,6,Health,Pilapil,Christian,cpilapil@naperville203.org,30
+05,H18051,1,Health,Jansen,Jennifer,jjansen@naperville203.org,32
+05,J13011,1,Food Science: Cult. to Inn.,Rauen,Sean,srauen@naperville203.org,89E
+05,J22012,1,Companion Animal Science 2,Rauen,Sean,srauen@naperville203.org,65
+05,J450D1,1,Information Technology Sys 1,Kischuk,Daniel,dkischuk@naperville203.org,51
+05,J470D2,1,Information Technology Sys 2,Kischuk,Daniel,dkischuk@naperville203.org,51
+05,J70011,1,Automotive 1 Eng and Maint,Feid,Christopher,cfeid@naperville203.org,50
+05,J70012,1,Automotive 1 Eng and Maint,Feid,Christopher,cfeid@naperville203.org,50
+05,J985N2,1,Blended STEM Capstone,Brady,Seth,sbrady@naperville203.org,224
+05,M19011,4,Algebra 1,Tolcher,Kelly,ktolcher@naperville203.org,309
+05,M19012,4,Algebra 1,Tolcher,Kelly,ktolcher@naperville203.org,309
+05,M19021,3,Algebra 1,Danbom,Deborah,ddanbom@naperville203.org,305
+05,M19022,3,Algebra 1,Danbom,Deborah,ddanbom@naperville203.org,305
+05,M28011,4,Algebra 1 w/Geometry,Carlson,Timothy,trcarlson@naperville203.org,342
+05,M28012,4,Algebra 1 w/Geometry,Carlson,Timothy,trcarlson@naperville203.org,342
+05,M34011,4,Geometry,O'Leary,Kari,koleary@naperville203.org,339
+05,M34012,4,Geometry,O'Leary,Kari,koleary@naperville203.org,339
+05,M340H1,4,Honors Geometry,Twietmeyer,Grace,gtwietmeyer@naperville203.org,308
+05,M340H2,4,Honors Geometry,Twietmeyer,Grace,gtwietmeyer@naperville203.org,308
+05,M43011,7,Algebra 2,Azzolin,Kelly,KAzzolin@Naperville203.org,300
+05,M43011,8,Algebra 2,Yang,Sharon,SJYang@Naperville203.org,302
+05,M43012,7,Algebra 2,Azzolin,Kelly,KAzzolin@Naperville203.org,300
+05,M43012,8,Algebra 2,Yang,Sharon,SJYang@Naperville203.org,302
+05,M430H1,4,Honors Algebra 2,Straka,Nicholas,nstraka@naperville203.org,335
+05,M430H2,4,Honors Algebra 2,Straka,Nicholas,nstraka@naperville203.org,335
+05,M53011,6,Precalculus,Vinton,Stephanie,svinton@naperville203.org,306
+05,M53012,6,Precalculus,Vinton,Stephanie,svinton@naperville203.org,306
+05,M530H1,3,Honors Precalculus,Rakes,Marissa,mrakes@naperville203.org,341
+05,M530H2,3,Honors Precalculus,Rakes,Marissa,mrakes@naperville203.org,341
+05,P10011,51,PE 1,Hagenbaumer,Kristina,khagenbaumer@naperville203.org,Main Gym
+05,P10011,52,PE 1,Pilapil,Christian,cpilapil@naperville203.org,Main Gym
+05,P10012,51,PE 1,Cauley,Sarah,scauley@naperville203.org,Main Gym
+05,P10012,52,PE 1,Florence,Mark,mflorence@naperville203.org,Main Gym
+05,P20011,5,PE 2,Bradley,Charles,chbradley@naperville203.org,Main Gym
+05,P24011,5,PE 2 - Leadership,Klimczak,Caila,cklimczak@naperville203.org,Aux Gym
+05,P24012,5,PE 2 - Leadership,Klimczak,Caila,cklimczak@naperville203.org,Aux Gym
+05,P40111,5,Competitive Team Sports,Kramer,Peter,pkramer@naperville203.org,Main Gym
+05,P40411,5,Lifetime Activities & Fitness,Salentine,William,wsalentine@naperville203.org,Main Gym
+05,P40412,5,Lifetime Activities & Fitness,Hilgert,Alexis,AHilgert@Naperville203.org,Main Gym
+05,P44011,5,Strength & Performance,Fitzenreider,Noah,nfitzenreider@naperville203.org,Weight Rm
+05,P44012,5,Strength & Performance,Bradley,Charles,chbradley@naperville203.org,Weight Rm
+05,P62011,51,PE Leader,Hagenbaumer,Kristina,khagenbaumer@naperville203.org,Main Gym
+05,P62011,55,PE Leader,Pilapil,Christian,cpilapil@naperville203.org,Main Gym
+05,P62011,57,PE Leader,Bradley,Charles,chbradley@naperville203.org,Main Gym
+05,P62011,58,PE Leader,Klimczak,Caila,cklimczak@naperville203.org,Main Gym
+05,P89011,5,Wellness Study Hall,Brotan,Megan,mbrotan@naperville203.org,333
+05,P89012,5,Wellness Study Hall,Cirone,Daniela,dcirone@naperville203.org,48
+05,S12011,1,Food Science: Cult. to Inn.,Rauen,Sean,srauen@naperville203.org,89E
+05,S15021,1,Earth Science,Jarvis,Michael,mjarvis@naperville203.org,330
+05,S15022,1,Earth Science,Jarvis,Michael,mjarvis@naperville203.org,330
+05,S31011,4,Biology,Marshall,William,WMarshall@Naperville203.org,318
+05,S31012,4,Biology,Marshall,William,WMarshall@Naperville203.org,325
+05,S31021,5,Biology,Summy,Chelsea,csummy@naperville203.org,315
+05,S31022,5,Biology,Summy,Chelsea,csummy@naperville203.org,315
+05,S370H1,6,Honors Biology,Griffith,Crystal,cgriffith@naperville203.org,313
+05,S370H2,6,Honors Biology,Griffith,Crystal,cgriffith@naperville203.org,313
+05,S400A1,1,AP Biology,Hastings,Amy,ahastings@naperville203.org,317
+05,S400A2,1,AP Biology,Hastings,Amy,ahastings@naperville203.org,317
+05,S50011,10,Chemistry,Nunez,Yazmin,YNunez@Naperville203.org,323
+05,S50012,10,Chemistry,Nunez,Yazmin,YNunez@Naperville203.org,323
+05,S500H1,5,Honors Chemistry,Forde,Michael,mforde@naperville203.org,320
+05,S500H2,5,Honors Chemistry,Forde,Michael,mforde@naperville203.org,320
+05,S560A1,1,AP Chemistry,Barker,Jacquelyn,jbarker@naperville203.org,319
+05,S560A2,1,AP Chemistry,Barker,Jacquelyn,jbarker@naperville203.org,319
+05,S59011,7,Physics,Sanoshy,Thomas,tsanoshy@naperville203.org,331
+05,S59012,7,Physics,Sanoshy,Thomas,tsanoshy@naperville203.org,331
+05,S600A1,5,AP Physics 1,Banas,Timothy,tbanas@naperville203.org,328
+05,S600A2,5,AP Physics 1,Banas,Timothy,tbanas@naperville203.org,328
+05,S680A1,2,AP Physics C,Dille,Nathanael,ndille@naperville203.org,326
+05,S680A2,2,AP Physics C,Dille,Nathanael,ndille@naperville203.org,326
+05,T26012,5,20th Century History,Lugiai,Robert,rlugiai@naperville203.org,227
+05,T280A1,3,AP World Hist,Hanley,Lynne,lhanley@naperville203.org,234
+05,T280A2,3,AP World Hist,Hanley,Lynne,lhanley@naperville203.org,234
+05,T30021,2,American Government,Connell,Maria,MConnell@Naperville203.org,215
+05,T30022,2,American Government,Mohn,Donna,dmohn@naperville203.org,215
+05,T360A2,4,AP US Govt & Politics,Smith,Randall,rsmith@naperville203.org,223
+05,T380A2,1,AP Comparative Gov/Politics,Bochenski,Michael,mbochenski@naperville203.org,217
+05,T40011,5,US History,Wilson,Michael,mtwilson@naperville203.org,221
+05,T40012,5,US History,Wilder,Rochelle,RWilder@Naperville203.org,213
+05,T400N1,1,Blended US History,Zieman,Matthew,mzieman@naperville203.org,228
+05,T400N2,1,Blended US History,Zieman,Matthew,mzieman@naperville203.org,228
+05,T770A1,2,AP Psychology,Tilt,Cindy,ctilt@naperville203.org,220
+05,T770A2,2,AP Psychology,Zwickert,Letitia,lzwickert@naperville203.org,220
+05,T985N2,1,Blended Humanities CapstoneIGS,Brady,Seth,sbrady@naperville203.org,224
+05,T985N2,2,Blended Humanities CapstoneIGS,Brady,Seth,sbrady@naperville203.org,224
+05,W23011,1,Chinese-Mandarin 3,Kralovic,Michael,mkralovic@naperville203.org,103
+05,W23012,1,Chinese-Mandarin 3,Kralovic,Michael,mkralovic@naperville203.org,103
+05,W33011,2,French 3,Vock,Angela,avock@naperville203.org,108
+05,W33012,2,French 3,Vock,Angela,avock@naperville203.org,108
+05,W340G1,1,Blended French 4,Whitt,Jeremy,jwhitt@naperville203.org,109
+05,W340G2,1,Blended French 4,Whitt,Jeremy,jwhitt@naperville203.org,109
+05,W81011,4,Spanish 1,Watson,Barbara,bwatson@naperville203.org,B17
+05,W81012,4,Spanish 1,Watson,Barbara,bwatson@naperville203.org,B17
+05,W82011,8,Spanish 2,Gasser,Kathleen,kgasser@naperville203.org,104
+05,W82011,9,Spanish 2,Warren,Mary,mwarren@naperville203.org,105
+05,W82012,8,Spanish 2,Gasser,Kathleen,kgasser@naperville203.org,104
+05,W82012,9,Spanish 2,Warren,Mary,mwarren@naperville203.org,105
+05,W83011,5,Spanish 3,Kaisling,Eric,ekaisling@naperville203.org,B15
+05,W83012,5,Spanish 3,Kaisling,Eric,ekaisling@naperville203.org,B15
+06,910011,6,Lunch,McFadden,Carrie,cmcfadden@naperville203.org,Cafe
+06,910012,6,Lunch,McFadden,Carrie,cmcfadden@naperville203.org,Cafe
+06,928211,1,AP Biology Lunch,Hastings,Amy,ahastings@naperville203.org,317
+06,928212,1,AP Biology Lunch,Hastings,Amy,ahastings@naperville203.org,317
+06,930811,1,AP Chemistry Lunch,Barker,Jacquelyn,jbarker@naperville203.org,319
+06,930812,1,AP Chemistry Lunch,Barker,Jacquelyn,jbarker@naperville203.org,319
+06,935011,6,Redhawk Recovery,Weiss,Nicole,nweiss@naperville203.org,103
+06,935012,6,Redhawk Recovery,Weiss,Nicole,nweiss@naperville203.org,103
+06,936011,60,Study Hall,Page,Lindsey,Lpage@naperville203.org,66
+06,936011,61,Study Hall,Tilt,Cindy,ctilt@naperville203.org,220
+06,936011,62,Study Hall,Watson,Barbara,bwatson@naperville203.org,104
+06,936012,60,Study Hall,Adams,Kyle,kadams@naperville203.org,B16
+06,936012,61,Study Hall,Tuggle,Kelyn,ktuggle@naperville203.org,236
+06,936012,62,Study Hall,Konrad,Michelle,mkonrad@naperville203.org,202
+06,937011,6,English Support,Blaskovitz,Jennifer,jblaskovitz@naperville203.org,201
+06,937012,6,English Support,Blaskovitz,Jennifer,jblaskovitz@naperville203.org,201
+06,939011,6,Math Support,Gebbie,Thomas,tgebbie@naperville203.org,343
+06,939012,6,Math Support,Gebbie,Thomas,tgebbie@naperville203.org,343
+06,941011,6,Science Support,Brotan,Megan,mbrotan@naperville203.org,325
+06,941012,6,Science Support,Mateus,Tanner,TMateus@Naperville203.org,325
+06,943011,6,Social Studies Support,Stack,Steven,sstack@naperville203.org,213
+06,943012,6,Social Studies Support,Gillespie,Samantha,sgillespie@naperville203.org,237
+06,962041,11,Literacy Workshop,Monteleone,Jessica,jmonteleone@naperville203.org,32
+06,962041,12,Literacy Workshop,Newcomb,Sara,snewcomb@naperville203.org,212 C
+06,962041,13,Literacy Workshop,Stanley,Samantha,sstanley@naperville203.org,212 G
+06,962042,11,Literacy Workshop,Monteleone,Jessica,jmonteleone@naperville203.org,33
+06,962042,12,Literacy Workshop,Newcomb,Sara,snewcomb@naperville203.org,212 C
+06,962042,13,Literacy Workshop,Stanley,Samantha,sstanley@naperville203.org,212 G
+06,967211,64,Teacher Assistant,Keller,Melissa,mkeller@naperville203.org,88
+06,967211,66,Teacher Assistant,Schaefer,Jennifer,JSchaefer@Naperville203.org,59
+06,967212,66,Teacher Assistant,Schaefer,Jennifer,JSchaefer@Naperville203.org,59
+06,A38011,2,Ceramics 2,Figueroa,Danielle,dfigueroa@naperville203.org,77
+06,A38012,2,Ceramics 2,Figueroa,Danielle,dfigueroa@naperville203.org,77
+06,A57011,2,Digital Art 1,Murphy,Amy,amurphy@naperville203.org,75A
+06,A59011,1,Digital Art 3,Murphy,Amy,amurphy@naperville203.org,75A
+06,A930A1,1,AP Studio Art 2D,Cirone,Daniela,dcirone@naperville203.org,75
+06,A930A2,1,AP Studio Art 2D,Cirone,Daniela,dcirone@naperville203.org,75
+06,B10012,3,Introduction to Business,Bell,Christine,clbell@naperville203.org,39
+06,B300N1,1,Blended Marketing,Bell,Christine,clbell@naperville203.org,39
+06,B38012,1,Business Law,Neubauer,Bradley,bneubauer@naperville203.org,245
+06,B44012,2,Computer Programming 1,Epstein,Nikole,nepstein@naperville203.org,40
+06,B580W1,1,Software Engineering 1,Miller,Derek,djmiller@naperville203.org,52
+06,B590W2,1,Software Engineering 2,Miller,Derek,djmiller@naperville203.org,52
+06,B70011,2,Consumer Economics,Hicks,Aislinn,ahicks@naperville203.org,48
+06,B700N2,2,Blended Consumer Economics,Hicks,Aislinn,ahicks@naperville203.org,48
+06,C12021,4,English 1,Hindi,Mthal,MHindi@Naperville203.org,238
+06,C12022,4,English 1,Hindi,Mthal,MHindi@Naperville203.org,238
+06,C120H1,7,Honors English 1,Figi,Nicole,nfigi@naperville203.org,208
+06,C120H2,7,Honors English 1,Figi,Nicole,nfigi@naperville203.org,208
+06,C17021,5,English 2,Simon,Jennifer,jsimon@naperville203.org,207
+06,C17022,5,English 2,Simon,Jennifer,jsimon@naperville203.org,207
+06,C170H1,5,Honors English 2,Johnson,Susan,sajohnson@naperville203.org,241
+06,C170H2,5,Honors English 2,Johnson,Susan,sajohnson@naperville203.org,241
+06,C20012,2,Speech Communication,Baldwin,Barry,bbaldwin@naperville203.org,203
+06,C25011,6,English 3,McGrath,Thomas,tmcgrath@naperville203.org,204
+06,C25012,6,English 3,McGrath,Thomas,tmcgrath@naperville203.org,204
+06,C25021,4,English 3,Roth,Luke,lwroth@naperville203.org,206
+06,C25022,4,English 3,Roth,Luke,lwroth@naperville203.org,206
+06,C37011,3,Senior Rhetoric,Baldwin,Barry,bbaldwin@naperville203.org,203
+06,C480T1,3,Blended AP Literature & Compos,Heatherly,Taylor,theatherly@naperville203.org,240
+06,C480T2,3,Blended AP Literature & Compos,Heatherly,Taylor,theatherly@naperville203.org,240
+06,C57012,2,Film as Literature,Freese,Marissa,mfreese@naperville203.org,225
+06,D10011,6,Driver Ed,Leaf,Anthony,aleaf@naperville203.org,B16
+06,F22012,5,Culinary Arts & Nutrition 1,Page,Lindsey,Lpage@naperville203.org,89E
+06,F300N1,1,Blended Senior Foods,Rorer,Terri,trorer@naperville203.org,89A
+06,F300N2,2,Blended Senior Foods,Haiser,Amanda,ahaiser@naperville203.org,89A
+06,F460B1,4,Early Childhood Education 1,Keller,Melissa,mkeller@naperville203.org,88
+06,F94071,1,Community,Schaefer,Jennifer,JSchaefer@Naperville203.org,59
+06,F94071,2,Community,Nikkel,Breanne,bnikkel@naperville203.org,71
+06,F94072,1,Community,Schaefer,Jennifer,JSchaefer@Naperville203.org,59
+06,F94072,2,Community,Nikkel,Breanne,bnikkel@naperville203.org,71
+06,H10011,5,Health,Nudera,Jeffrey,jnudera@naperville203.org,30
+06,H10012,7,Health,Fitzenreider,Noah,nfitzenreider@naperville203.org,30
+06,J13011,2,Food Science: Cult. to Inn.,Rauen,Sean,srauen@naperville203.org,89E
+06,J64011,1,Research & Design,King,Wright,wking@naperville203.org,46
+06,J64012,1,Research & Design,King,Wright,wking@naperville203.org,46
+06,J70011,2,Automotive 1 Eng and Maint,Feid,Christopher,cfeid@naperville203.org,50
+06,J70012,2,Automotive 1 Eng and Maint,Feid,Christopher,cfeid@naperville203.org,50
+06,M19021,4,Algebra 1,Lynch,Megan,mmlynch@naperville203.org,340
+06,M19022,4,Algebra 1,Lynch,Megan,mmlynch@naperville203.org,340
+06,M22051,1,Algebra 1 Applications,Gafrick,Fred,fgafrick@naperville203.org,33
+06,M22052,1,Algebra 1 Applications,Gafrick,Fred,fgafrick@naperville203.org,32
+06,M34021,4,Geometry,Becker,Alyssa,abecker@naperville203.org,335
+06,M34022,4,Geometry,Becker,Alyssa,abecker@naperville203.org,335
+06,M340N1,1,Blended Geometry,O'Leary,Kari,koleary@naperville203.org,339
+06,M340N2,1,Blended Geometry,O'Leary,Kari,koleary@naperville203.org,339
+06,M43011,9,Algebra 2,Danbom,Deborah,ddanbom@naperville203.org,305
+06,M43012,9,Algebra 2,Danbom,Deborah,ddanbom@naperville203.org,305
+06,M43021,2,Algebra 2,Vinton,Stephanie,svinton@naperville203.org,306
+06,M43022,2,Algebra 2,Vinton,Stephanie,svinton@naperville203.org,306
+06,M430H1,5,Honors Algebra 2,Winiecki,Adam,awiniecki@naperville203.org,302
+06,M430H2,5,Honors Algebra 2,Winiecki,Adam,awiniecki@naperville203.org,302
+06,M45011,3,Quantitative Lit/Stats (TM002),Nussbaum,Andrew,ajnussbaum@naperville203.org,301
+06,M45012,3,Quantitative Lit/Stats (TM002),Nussbaum,Andrew,ajnussbaum@naperville203.org,301
+06,M53011,7,Precalculus,Danbom,Jeff,jdanbom@naperville203.org,304
+06,M53012,7,Precalculus,Danbom,Jeff,jdanbom@naperville203.org,304
+06,M530N1,1,Blended Precalculus,Dohm,Tina,tdohm@naperville203.org,300
+06,M530N2,1,Blended Precalculus,Dohm,Tina,tdohm@naperville203.org,300
+06,M680A1,4,AP Statistics,Free,Leslie,lfree@naperville203.org,308
+06,M680A2,4,AP Statistics,Free,Leslie,lfree@naperville203.org,308
+06,P10011,61,PE 1,Adams,Kyle,kadams@naperville203.org,Main Gym
+06,P10011,62,PE 1,Florence,Mark,mflorence@naperville203.org,Main Gym
+06,P10012,61,PE 1,Cauley,Sarah,scauley@naperville203.org,Main Gym
+06,P10012,62,PE 1,Florence,Mark,mflorence@naperville203.org,Main Gym
+06,P20011,6,PE 2,Yanke,Jeffrey,jyanke@naperville203.org,Main Gym
+06,P20012,6,PE 2,Hilgert,Alexis,AHilgert@Naperville203.org,Main Gym
+06,P24011,6,PE 2 - Leadership,Klimczak,Caila,cklimczak@naperville203.org,Aux Gym
+06,P24012,6,PE 2 - Leadership,Klimczak,Caila,cklimczak@naperville203.org,Aux Gym
+06,P40112,5,Competitive Team Sports,Kramer,Peter,pkramer@naperville203.org,Main Gym
+06,P40411,6,Lifetime Activities & Fitness,Salentine,William,wsalentine@naperville203.org,Main Gym
+06,P44011,6,Strength & Performance,Fitzenreider,Noah,nfitzenreider@naperville203.org,Weight Rm
+06,P62011,64,PE Leader,Adams,Kyle,kadams@naperville203.org,Main Gym
+06,P62011,68,PE Leader,Klimczak,Caila,cklimczak@naperville203.org,Main Gym
+06,P62011,69,PE Leader,Yanke,Jeffrey,jyanke@naperville203.org,Main Gym
+06,P75012,6,Lifeguard Training,Salentine,William,wsalentine@naperville203.org,Pool
+06,P86041,6,Adapted PE,Lago,Nick,nlago@naperville203.org,Aux Gym
+06,P86042,6,Adapted PE,Lago,Nick,nlago@naperville203.org,Aux Gym
+06,P87011,6,Adapted PE  Leaders,Lago,Nick,nlago@naperville203.org,Aux Gym
+06,P87012,6,Adapted PE  Leaders,Lago,Nick,nlago@naperville203.org,Aux Gym
+06,P89011,6,Wellness Study Hall,Watson,Barbara,bwatson@naperville203.org,104
+06,P89012,6,Wellness Study Hall,Konrad,Michelle,mkonrad@naperville203.org,202
+06,S12011,2,Food Science: Cult. to Inn.,Rauen,Sean,srauen@naperville203.org,89E
+06,S15021,2,Earth Science,Jarvis,Michael,mjarvis@naperville203.org,330
+06,S15022,2,Earth Science,Jarvis,Michael,mjarvis@naperville203.org,330
+06,S31011,5,Biology,Gresk,Matthew,mgresk@naperville203.org,322
+06,S31011,6,Biology,Smith,Kimberly,KSmith2@Naperville203.org,315
+06,S31012,5,Biology,Gresk,Matthew,mgresk@naperville203.org,318
+06,S31012,6,Biology,Smith,Kimberly,KSmith2@Naperville203.org,315
+06,S31021,6,Biology,Kedziora,Kimberly,kkedziora@naperville203.org,324
+06,S31022,6,Biology,Kedziora,Kimberly,kkedziora@naperville203.org,324
+06,S370H1,7,Honors Biology,Griffith,Crystal,cgriffith@naperville203.org,313
+06,S370H2,7,Honors Biology,Griffith,Crystal,cgriffith@naperville203.org,313
+06,S50011,11,Chemistry,Forde,Michael,mforde@naperville203.org,331
+06,S50011,12,Chemistry,Nunez,Yazmin,YNunez@Naperville203.org,323
+06,S50012,11,Chemistry,Forde,Michael,mforde@naperville203.org,322
+06,S50012,12,Chemistry,Nunez,Yazmin,YNunez@Naperville203.org,323
+06,S500H1,6,Honors Chemistry,Bentley,Jeromy,jbentley@naperville203.org,320
+06,S500H2,6,Honors Chemistry,Bentley,Jeromy,jbentley@naperville203.org,320
+06,S59011,8,Physics,Norgaard,Jennifer,jnorgaard@naperville203.org,333
+06,S59012,8,Physics,Norgaard,Jennifer,jnorgaard@naperville203.org,333
+06,S600A1,6,AP Physics 1,Damianides,Andreas,ADamianides@Naperville203.org,328
+06,S600A2,6,AP Physics 1,Damianides,Andreas,ADamianides@Naperville203.org,328
+06,S65011,1,Research & Design,Collier,Flint,fcollier@naperville203.org,46
+06,S65012,1,Research & Design,Williams,Michael,MJWilliams1@Naperville203.org,46
+06,S680A1,3,AP Physics C,Dille,Nathanael,ndille@naperville203.org,326
+06,S680A2,3,AP Physics C,Dille,Nathanael,ndille@naperville203.org,326
+06,S94062,6,Earth Science,Tuggle,Kelyn,ktuggle@naperville203.org,202
+06,T10011,4,World Cultures,Holmberg,Todd,tholmberg@naperville203.org,229
+06,T10012,4,World Cultures,Hanley,Lynne,lhanley@naperville203.org,234
+06,T10021,4,World Cultures,Gabrielli,Georganne,ggabrielli@naperville203.org,235
+06,T10022,4,World Cultures,Gabrielli,Georganne,ggabrielli@naperville203.org,235
+06,T150A1,4,AP Human Geography,Smith,Randall,rsmith@naperville203.org,223
+06,T150A2,4,AP Human Geography,Smith,Randall,rsmith@naperville203.org,223
+06,T23011,5,World History,Albiniak,Michael,malbiniak@naperville203.org,219
+06,T23012,5,World History,Connell,Maria,MConnell@Naperville203.org,220
+06,T26012,6,20th Century History,Albiniak,Michael,malbiniak@naperville203.org,219
+06,T30021,3,American Government,Mohn,Donna,dmohn@naperville203.org,215
+06,T30022,3,American Government,Mohn,Donna,dmohn@naperville203.org,215
+06,T40011,6,US History,Zwickert,Letitia,lzwickert@naperville203.org,231
+06,T40012,6,US History,Stack,Steven,sstack@naperville203.org,213
+06,T40021,4,US History,Lugiai,Robert,rlugiai@naperville203.org,222
+06,T40022,4,US History,Braun,Sarah,sbraun@naperville203.org,231
+06,T40061,1,US History,Ondrus,Steven,sondrus@naperville203.org,126
+06,T40062,1,US History,Ondrus,Steven,sondrus@naperville203.org,126
+06,T400N1,2,Blended US History,Zieman,Matthew,mzieman@naperville203.org,228
+06,T400N2,2,Blended US History,Zieman,Matthew,mzieman@naperville203.org,228
+06,T48011,1,American Studies,Ulreich,Michael,mulreich@naperville203.org,227
+06,T48012,1,American Studies,Ulreich,Michael,mulreich@naperville203.org,227
+06,W12011,2,American Sign Language 2,Sargent,Sara,SSargent@Naperville203.org,100
+06,W12012,2,American Sign Language 2,Sargent,Sara,SSargent@Naperville203.org,100
+06,W42011,1,German 2,Schultz,Andrew,ajschultz@naperville203.org,110
+06,W42012,1,German 2,Schultz,Andrew,ajschultz@naperville203.org,110
+06,W82011,10,Spanish 2,Diaz,Ana Rosa,ardiaz@naperville203.org,108
+06,W82012,10,Spanish 2,Diaz,Ana Rosa,ardiaz@naperville203.org,108
+06,W83011,6,Spanish 3,Franta,Jennie,jfranta@naperville203.org,102
+06,W83012,6,Spanish 3,Franta,Jennie,jfranta@naperville203.org,102
+06,W840W1,4,Spanish 4,Warren,Mary,mwarren@naperville203.org,105
+06,W840W2,4,Spanish 4,Warren,Mary,mwarren@naperville203.org,105
+06,W85511,1,Spanish Lang & Culture,Ortiz,Michael,mortiz@naperville203.org,B19
+06,W85512,1,Spanish Lang & Culture,Ortiz,Michael,mortiz@naperville203.org,B19
+07,936011,70,Study Hall,Azzolin,Kelly,KAzzolin@Naperville203.org,305
+07,936011,71,Study Hall,Franta,Jennie,jfranta@naperville203.org,102
+07,936011,72,Study Hall,Lugiai,Robert,rlugiai@naperville203.org,223
+07,936011,73,Study Hall,Haiser,Amanda,ahaiser@naperville203.org,66
+07,936012,70,Study Hall,Johnson,Susan,sajohnson@naperville203.org,241
+07,936012,71,Study Hall,Figi,Nicole,nfigi@naperville203.org,208
+07,936012,72,Study Hall,Jarvis,Michael,mjarvis@naperville203.org,334
+07,936012,73,Study Hall,Banas,Timothy,tbanas@naperville203.org,305
+07,936012,74,Study Hall,Hemmens,Daniel,dhemmens@naperville203.org,110
+07,936012,75,Study Hall,Sprovieri,Alyssa,asprovieri@naperville203.org,128
+07,946411,7,Supported Study Hall,Danbom,Jeff,jdanbom@naperville203.org,304
+07,946411,8,Supported Study Hall,Wilson,Michael,mtwilson@naperville203.org,221
+07,946412,7,Supported Study Hall,Griffith,Crystal,cgriffith@naperville203.org,313
+07,946412,8,Supported Study Hall,Wilson,Michael,mtwilson@naperville203.org,221
+07,962041,14,Literacy Workshop,Contois,Amy,acontois@naperville203.org,212 C
+07,962041,15,Literacy Workshop,Minhas,Elyse,eminhas@naperville203.org,212 H
+07,962041,16,Literacy Workshop,Moriarty,Brandon,bmoriarty@naperville203.org,212 B
+07,962042,14,Literacy Workshop,Contois,Amy,acontois@naperville203.org,212 C
+07,962042,15,Literacy Workshop,Minhas,Elyse,eminhas@naperville203.org,212 H
+07,962042,16,Literacy Workshop,Moriarty,Brandon,bmoriarty@naperville203.org,212 B
+07,962051,1,Literacy Workshop,Gafrick,Fred,fgafrick@naperville203.org,33
+07,962051,2,Literacy Workshop,Privett,Jake,JPrivett@Naperville203.org,35
+07,962052,1,Literacy Workshop,Gafrick,Fred,fgafrick@naperville203.org,33
+07,962052,2,Literacy Workshop,Rivera,Kelly,krivera@naperville203.org,35
+07,967211,72,Teacher Assistant,Figueroa,Danielle,dfigueroa@naperville203.org,77
+07,967212,72,Teacher Assistant,Figueroa,Danielle,dfigueroa@naperville203.org,77
+07,967212,77,Teacher Assistant,Rauen,Sean,srauen@naperville203.org,65
+07,A19011,1,Drawing 2,Cirone,Daniela,dcirone@naperville203.org,75
+07,A20011,1,Drawing 3,Cirone,Daniela,dcirone@naperville203.org,75
+07,A22012,1,Painting 1,Cirone,Daniela,dcirone@naperville203.org,75
+07,A23012,1,Painting 2,Cirone,Daniela,dcirone@naperville203.org,75
+07,A27012,1,Painting 3,Cirone,Daniela,dcirone@naperville203.org,75
+07,A28012,1,Painting 4,Cirone,Daniela,dcirone@naperville203.org,75
+07,A37011,5,Ceramics 1,Figueroa,Danielle,dfigueroa@naperville203.org,77
+07,A37012,4,Ceramics 1,Figueroa,Danielle,dfigueroa@naperville203.org,77
+07,A43011,3,Jewelry Metals 1,Hodge,Christopher,chodge@naperville203.org,78
+07,A58012,1,Digital Art 2,Murphy,Amy,amurphy@naperville203.org,75A
+07,A59012,1,Digital Art 3,Murphy,Amy,amurphy@naperville203.org,75A
+07,A60012,1,Digital Art 4,Murphy,Amy,amurphy@naperville203.org,75A
+07,B10011,4,Introduction to Business,Bell,Christine,clbell@naperville203.org,39
+07,B10012,4,Introduction to Business,Bell,Christine,clbell@naperville203.org,39
+07,B240B1,3,Accounting 1,Epstein,Nikole,nepstein@naperville203.org,40
+07,B240B2,3,Accounting 1,Epstein,Nikole,nepstein@naperville203.org,40
+07,B30011,4,Marketing,Barry,Kathleen,kbarry@naperville203.org,48
+07,B38011,1,Business Law,Neubauer,Bradley,bneubauer@naperville203.org,245
+07,B40012,1,International Business,Barry,Kathleen,kbarry@naperville203.org,48
+07,B580W1,2,Software Engineering 1,Miller,Derek,djmiller@naperville203.org,52
+07,B590W2,2,Software Engineering 2,Miller,Derek,djmiller@naperville203.org,52
+07,B70011,3,Consumer Economics,Dunn,Brian,bdunn@naperville203.org,244
+07,B70012,2,Consumer Economics,Dunn,Brian,bdunn@naperville203.org,244
+07,B700N1,2,Blended Consumer Economics,Page,Lindsey,Lpage@naperville203.org,87
+07,B870N1,1,Blended Career Internship,Thompson,Brett,bthompson@naperville203.org,86
+07,B870N2,1,Blended Career Internship,Thompson,Brett,bthompson@naperville203.org,86
+07,B870N2,2,Blended Career Internship,Thompson,Brett,bthompson@naperville203.org,86
+07,C12011,6,English 1,Tuggle,Kelyn,ktuggle@naperville203.org,236
+07,C12011,7,English 1,Wilkerson,Mary,mwilkerson@naperville203.org,209
+07,C12012,6,English 1,Tuggle,Kelyn,ktuggle@naperville203.org,236
+07,C12012,7,English 1,Wilkerson,Mary,mwilkerson@naperville203.org,209
+07,C12021,5,English 1,Hindi,Mthal,MHindi@Naperville203.org,238
+07,C12022,5,English 1,Hindi,Mthal,MHindi@Naperville203.org,238
+07,C120H1,8,Honors English 1,Blaskovitz,Jennifer,jblaskovitz@naperville203.org,201
+07,C120H2,8,Honors English 1,Blaskovitz,Jennifer,jblaskovitz@naperville203.org,201
+07,C17021,6,English 2,Simon,Jennifer,jsimon@naperville203.org,207
+07,C17022,6,English 2,Simon,Jennifer,jsimon@naperville203.org,207
+07,C170H1,6,Honors English 2,Konrad,Michelle,mkonrad@naperville203.org,239
+07,C170H2,6,Honors English 2,Konrad,Michelle,mkonrad@naperville203.org,239
+07,C20012,3,Speech Communication,Baldwin,Barry,bbaldwin@naperville203.org,203
+07,C25011,7,English 3,Granatelli,Maxyne,mgranatelli@naperville203.org,214
+07,C25011,8,English 3,Kandl,Sarah,skandl@naperville203.org,205
+07,C25012,7,English 3,Granatelli,Maxyne,mgranatelli@naperville203.org,214
+07,C25012,8,English 3,Kandl,Sarah,skandl@naperville203.org,205
+07,C25021,5,English 3,Freed,Adam,afreed@naperville203.org,225
+07,C25022,5,English 3,Freed,Adam,afreed@naperville203.org,225
+07,C250H1,3,Honors English 3,Polykandriotis,Taryen,tpolykandriotis@naperville203.org,202
+07,C250H2,3,Honors English 3,Polykandriotis,Taryen,tpolykandriotis@naperville203.org,202
+07,C27011,1,American Studies,Reilly,Marybeth,mreilly@naperville203.org,226
+07,C27012,1,American Studies,Reilly,Marybeth,mreilly@naperville203.org,226
+07,C37011,4,Senior Rhetoric,Baldwin,Barry,bbaldwin@naperville203.org,203
+07,C370G1,3,Blended Honors Senior Rhetoric,Heatherly,Taylor,theatherly@naperville203.org,240
+07,C370N1,4,Blended Senior Rhetoric,Winebrenner,Meghan,MWinebrenner@Naperville203.org,241
+07,C390N1,2,Blended Creative Writing,Carlson,Keith,kcarlson@naperville203.org,218
+07,C390N2,4,Blended Creative Writing,Carlson,Keith,kcarlson@naperville203.org,218
+07,C40012,2,20th Century Literature,Albiniak,Sarah,salbiniak@naperville203.org,200
+07,C44012,1,Special Topics in Literature,Heatherly,Taylor,theatherly@naperville203.org,240
+07,C460N1,1,Blended Literary Themes,Albiniak,Sarah,salbiniak@naperville203.org,200
+07,C480A1,2,AP Literature & Composition,McGrath,Thomas,tmcgrath@naperville203.org,204
+07,C480A2,2,AP Literature & Composition,McGrath,Thomas,tmcgrath@naperville203.org,204
+07,C71071,2,Language Arts,Nikkel,Breanne,bnikkel@naperville203.org,71
+07,C71072,2,Language Arts,Nikkel,Breanne,bnikkel@naperville203.org,71
+07,C76051,1,Communication Arts,Prousa,Nicole,NProusa@Naperville203.org,34
+07,C76052,1,Communication Arts,Prousa,Nicole,NProusa@Naperville203.org,34
+07,D10011,7,Driver Ed,Leaf,Anthony,aleaf@naperville203.org,B16
+07,D10012,7,Driver Ed,Leaf,Anthony,aleaf@naperville203.org,B16
+07,F22011,3,Culinary Arts & Nutrition 1,Cosgrove,Megan,mcosgrove@naperville203.org,89E
+07,F22012,6,Culinary Arts & Nutrition 1,Page,Lindsey,Lpage@naperville203.org,89E
+07,F300N1,2,Blended Senior Foods,Rorer,Terri,trorer@naperville203.org,89A
+07,F300N2,3,Blended Senior Foods,Haiser,Amanda,ahaiser@naperville203.org,89A
+07,F42012,1,Human Growth & Development,Keller,Melissa,mkeller@naperville203.org,87
+07,F460B1,5,Early Childhood Education 1,Keller,Melissa,mkeller@naperville203.org,88
+07,H10011,6,Health,Bice,Megan,mbice@naperville203.org,31
+07,H10011,7,Health,Nudera,Jeffrey,jnudera@naperville203.org,30
+07,H10012,8,Health,Pilapil,Christian,cpilapil@naperville203.org,30
+07,H100N2,2,Blended Health,Bice,Megan,mbice@naperville203.org,31
+07,J22012,2,Companion Animal Science 2,Rauen,Sean,srauen@naperville203.org,65
+07,J450D1,2,Information Technology Sys 1,Kischuk,Daniel,dkischuk@naperville203.org,51
+07,J59012,1,Engineering Design Studio,Kischuk,Daniel,dkischuk@naperville203.org,41
+07,J64011,2,Research & Design,King,Wright,wking@naperville203.org,46
+07,J64012,2,Research & Design,King,Wright,wking@naperville203.org,46
+07,J985N1,3,Blended STEM Capstone,Brady,Seth,sbrady@naperville203.org,224
+07,M19021,5,Algebra 1,Lynch,Megan,mmlynch@naperville203.org,340
+07,M19022,5,Algebra 1,Lynch,Megan,mmlynch@naperville203.org,340
+07,M34011,5,Geometry,Sladkey,David,dsladkey@naperville203.org,307
+07,M34012,5,Geometry,Sladkey,David,dsladkey@naperville203.org,307
+07,M34021,5,Geometry,Becker,Alyssa,abecker@naperville203.org,339
+07,M34022,5,Geometry,Becker,Alyssa,abecker@naperville203.org,339
+07,M34061,7,Geometry,Sprovieri,Alyssa,asprovieri@naperville203.org,128
+07,M340H1,5,Honors Geometry,Twietmeyer,Grace,gtwietmeyer@naperville203.org,306
+07,M340H2,5,Honors Geometry,Twietmeyer,Grace,gtwietmeyer@naperville203.org,306
+07,M42021,2,Algebra 2 Model/Problem Solve,Tolcher,Kelly,ktolcher@naperville203.org,309
+07,M42022,2,Algebra 2 Model/Problem Solve,Tolcher,Kelly,ktolcher@naperville203.org,309
+07,M43011,10,Algebra 2,Yang,Sharon,SJYang@Naperville203.org,302
+07,M43012,10,Algebra 2,Yang,Sharon,SJYang@Naperville203.org,302
+07,M43061,7,Algebra 2,Sprovieri,Alyssa,asprovieri@naperville203.org,128
+07,M43062,7,Algebra 2,Sprovieri,Alyssa,asprovieri@naperville203.org,128
+07,M430H1,6,Honors Algebra 2,Gebbie,Lisa,lgebbie@naperville203.org,303
+07,M430H2,6,Honors Algebra 2,Gebbie,Lisa,lgebbie@naperville203.org,303
+07,M45011,4,Quantitative Lit/Stats (TM002),Nussbaum,Andrew,ajnussbaum@naperville203.org,301
+07,M45012,4,Quantitative Lit/Stats (TM002),Nussbaum,Andrew,ajnussbaum@naperville203.org,301
+07,M53011,8,Precalculus,Dohm,Tina,tdohm@naperville203.org,300
+07,M53012,8,Precalculus,Dohm,Tina,tdohm@naperville203.org,300
+07,M530H1,4,Honors Precalculus,Rakes,Marissa,mrakes@naperville203.org,341
+07,M530H2,4,Honors Precalculus,Rakes,Marissa,mrakes@naperville203.org,341
+07,M600A1,3,AP Calculus AB,Carlson,Timothy,trcarlson@naperville203.org,342
+07,M600A2,3,AP Calculus AB,Carlson,Timothy,trcarlson@naperville203.org,342
+07,M610A1,3,AP Calculus BC,Gebbie,Thomas,tgebbie@naperville203.org,343
+07,M610A2,3,AP Calculus BC,Gebbie,Thomas,tgebbie@naperville203.org,343
+07,M640E1,2,Multivariable Calculus,Straka,Nicholas,nstraka@naperville203.org,335
+07,M640E2,2,Multivariable Calculus,Straka,Nicholas,nstraka@naperville203.org,335
+07,M680A1,5,AP Statistics,Free,Leslie,lfree@naperville203.org,308
+07,M680A2,5,AP Statistics,Free,Leslie,lfree@naperville203.org,308
+07,M90071,1,Math,Schaefer,Jennifer,JSchaefer@Naperville203.org,59
+07,M90072,1,Math,Schaefer,Jennifer,JSchaefer@Naperville203.org,59
+07,N15011,1,Intermediate/Advanced Band,Estes,Brandon,bestes@naperville203.org,83
+07,N15012,1,Intermediate/Advanced Band,Estes,Brandon,bestes@naperville203.org,83
+07,N62011,1,Advanced Mixed Choir,Mielcarz,Kelly,kmielcarz@naperville203.org,84
+07,N62012,1,Advanced Mixed Choir,Mielcarz,Kelly,kmielcarz@naperville203.org,84
+07,N66012,1,Music Theory 1,Gross,Jesse,jgross@naperville203.org,80
+07,P10011,71,PE 1,Florence,Mark,mflorence@naperville203.org,Main Gym
+07,P10011,72,PE 1,Lafferty,Crystal,clafferty@naperville203.org,Main Gym
+07,P10011,73,PE 1,Pilapil,Christian,cpilapil@naperville203.org,Main Gym
+07,P10012,71,PE 1,Lafferty,Crystal,clafferty@naperville203.org,Main Gym
+07,P10012,72,PE 1,Lago,Nick,nlago@naperville203.org,Main Gym
+07,P20011,7,PE 2,Yanke,Jeffrey,jyanke@naperville203.org,Main Gym
+07,P20012,7,PE 2,Klimczak,Caila,cklimczak@naperville203.org,Main Gym
+07,P40111,7,Competitive Team Sports,Kramer,Peter,pkramer@naperville203.org,Main Gym
+07,P40112,7,Competitive Team Sports,Kramer,Peter,pkramer@naperville203.org,Main Gym
+07,P40311,7,Self Defense,Anderson,Kristen,kcanderson@naperville203.org,Main Gym
+07,P40312,7,Self Defense,Anderson,Kristen,kcanderson@naperville203.org,Main Gym
+07,P42011,7,Adventure 1,Adams,Kyle,kadams@naperville203.org,Main Gym
+07,P42012,7,Adventure 1,Salentine,William,wsalentine@naperville203.org,Main Gym
+07,P44011,7,Strength & Performance,Fitzenreider,Noah,nfitzenreider@naperville203.org,Weight Rm
+07,P44012,7,Strength & Performance,Bradley,Charles,chbradley@naperville203.org,Weight Rm
+07,P62011,75,PE Leader,Pilapil,Christian,cpilapil@naperville203.org,Main Gym
+07,P62011,79,PE Leader,Yanke,Jeffrey,jyanke@naperville203.org,Main Gym
+07,P86041,7,Adapted PE,Hagenbaumer,Kristina,khagenbaumer@naperville203.org,Aux Gym
+07,P86042,7,Adapted PE,Hagenbaumer,Kristina,khagenbaumer@naperville203.org,Aux Gym
+07,P87011,7,Adapted PE  Leaders,Hagenbaumer,Kristina,khagenbaumer@naperville203.org,Aux Gym
+07,P87012,7,Adapted PE  Leaders,Hagenbaumer,Kristina,khagenbaumer@naperville203.org,Aux Gym
+07,P89011,7,Wellness Study Hall,Haiser,Amanda,ahaiser@naperville203.org,66
+07,P89012,7,Wellness Study Hall,Hemmens,Daniel,dhemmens@naperville203.org,110
+07,S31011,7,Biology,Smith,Kimberly,KSmith2@Naperville203.org,315
+07,S31012,7,Biology,Smith,Kimberly,KSmith2@Naperville203.org,315
+07,S31021,7,Biology,Kedziora,Kimberly,kkedziora@naperville203.org,324
+07,S31022,7,Biology,Kedziora,Kimberly,kkedziora@naperville203.org,324
+07,S34061,7,Biology,Sprovieri,Alyssa,asprovieri@naperville203.org,128
+07,S34062,7,Biology,Sprovieri,Alyssa,asprovieri@naperville203.org,128
+07,S370H1,8,Honors Biology,Lundquist,Paige,plundquist@naperville203.org,314
+07,S370H2,8,Honors Biology,Lundquist,Paige,plundquist@naperville203.org,314
+07,S400A1,2,AP Biology,Hastings,Amy,ahastings@naperville203.org,317
+07,S400A2,2,AP Biology,Hastings,Amy,ahastings@naperville203.org,317
+07,S440W1,5,Anatomy & Physiology,Summy,Chelsea,csummy@naperville203.org,322
+07,S440W2,5,Anatomy & Physiology,Summy,Chelsea,csummy@naperville203.org,318
+07,S50011,13,Chemistry,Forde,Michael,mforde@naperville203.org,331
+07,S50011,14,Chemistry,Frye,Lindsey,LFrye@naperville203.org,323
+07,S50012,13,Chemistry,Forde,Michael,mforde@naperville203.org,322
+07,S50012,14,Chemistry,Frye,Lindsey,LFrye@naperville203.org,323
+07,S50021,4,Chemistry,Brotan,Megan,mbrotan@naperville203.org,325
+07,S50022,4,Chemistry,Mateus,Tanner,TMateus@Naperville203.org,325
+07,S500H1,7,Honors Chemistry,Bentley,Jeromy,jbentley@naperville203.org,320
+07,S500H2,7,Honors Chemistry,Bentley,Jeromy,jbentley@naperville203.org,320
+07,S560A1,2,AP Chemistry,Barker,Jacquelyn,jbarker@naperville203.org,319
+07,S560A2,2,AP Chemistry,Barker,Jacquelyn,jbarker@naperville203.org,319
+07,S59011,9,Physics,Norgaard,Jennifer,jnorgaard@naperville203.org,333
+07,S59012,9,Physics,Norgaard,Jennifer,jnorgaard@naperville203.org,333
+07,S600A1,7,AP Physics 1,Damianides,Andreas,ADamianides@Naperville203.org,328
+07,S600A2,7,AP Physics 1,Damianides,Andreas,ADamianides@Naperville203.org,328
+07,S65011,2,Research & Design,Collier,Flint,fcollier@naperville203.org,46
+07,S65012,2,Research & Design,Williams,Michael,MJWilliams1@Naperville203.org,46
+07,S94061,7,Earth Science,Sprovieri,Alyssa,asprovieri@naperville203.org,128
+07,S94062,7,Earth Science,Sprovieri,Alyssa,asprovieri@naperville203.org,128
+07,T10021,5,World Cultures,Braun,Sarah,sbraun@naperville203.org,235
+07,T10022,5,World Cultures,Brady,Seth,sbrady@naperville203.org,224
+07,T150A1,5,AP Human Geography,Connell,Maria,MConnell@Naperville203.org,228
+07,T150A2,5,AP Human Geography,Connell,Maria,MConnell@Naperville203.org,228
+07,T23011,6,World History,Bochenski,Michael,mbochenski@naperville203.org,217
+07,T23012,6,World History,Wilder,Rochelle,RWilder@Naperville203.org,215
+07,T26012,7,20th Century History,Lugiai,Robert,rlugiai@naperville203.org,222
+07,T290A1,1,AP European History,Gillespie,Samantha,sgillespie@naperville203.org,237
+07,T290A2,1,AP European History,Gillespie,Samantha,sgillespie@naperville203.org,237
+07,T30011,6,American Government,Borge,Michael,MBorge@Naperville203.org,215
+07,T360A2,5,AP US Govt & Politics,Smith,Randall,rsmith@naperville203.org,223
+07,T380A2,2,AP Comparative Gov/Politics,Bochenski,Michael,mbochenski@naperville203.org,217
+07,T40011,7,US History,Zwickert,Letitia,lzwickert@naperville203.org,231
+07,T40012,7,US History,Borge,Michael,MBorge@Naperville203.org,213
+07,T510W2,3,Military History,Albiniak,Michael,malbiniak@naperville203.org,219
+07,T520W1,3,Chicago History,Albiniak,Michael,malbiniak@naperville203.org,219
+07,T530W1,1,Modern American Social History,Hanley,Lynne,lhanley@naperville203.org,234
+07,T74011,2,Sociology,Stack,Steven,sstack@naperville203.org,213
+07,T76011,2,Intro to Psychology,Tilt,Cindy,ctilt@naperville203.org,220
+07,T76012,2,Intro to Psychology,Zwickert,Letitia,lzwickert@naperville203.org,220
+07,T81012,2,Cultural Anthropology,Holmberg,Todd,tholmberg@naperville203.org,229
+07,T985N1,3,Blended Humanities CapstoneIGS,Brady,Seth,sbrady@naperville203.org,224
+07,W21011,1,Chinese-Mandarin 1,Kralovic,Michael,mkralovic@naperville203.org,103
+07,W21012,1,Chinese-Mandarin 1,Kralovic,Michael,mkralovic@naperville203.org,103
+07,W32011,3,French 2,Whitt,Jeremy,jwhitt@naperville203.org,109
+07,W32012,3,French 2,Whitt,Jeremy,jwhitt@naperville203.org,109
+07,W630W1,1,Honors Latin 3/4,Cunningham,Stacy,scunningham@naperville203.org,100
+07,W630W2,1,Honors Latin 3/4,Cunningham,Stacy,scunningham@naperville203.org,100
+07,W81011,5,Spanish 1,Watson,Barbara,bwatson@naperville203.org,B17
+07,W81012,5,Spanish 1,Watson,Barbara,bwatson@naperville203.org,B17
+07,W82011,11,Spanish 2,Davis,David,ddavis@naperville203.org,101
+07,W82011,12,Spanish 2,Diaz,Ana Rosa,ardiaz@naperville203.org,108
+07,W82012,11,Spanish 2,Davis,David,ddavis@naperville203.org,101
+07,W82012,12,Spanish 2,Diaz,Ana Rosa,ardiaz@naperville203.org,108
+07,W830N1,1,Blended Spanish 3,Kaisling,Eric,ekaisling@naperville203.org,B15
+07,W830N2,1,Blended Spanish 3,Kaisling,Eric,ekaisling@naperville203.org,B15
+07,W840G1,2,Blended Spanish 4,Ortiz,Michael,mortiz@naperville203.org,B19
+07,W840G2,2,Blended Spanish 4,Ortiz,Michael,mortiz@naperville203.org,B19
+07,W850E1,2,Spanish 5,Gasser,Kathleen,kgasser@naperville203.org,104
+07,W850E2,2,Spanish 5,Gasser,Kathleen,kgasser@naperville203.org,104
+08,936011,80,Study Hall,Mielcarz,Kelly,kmielcarz@naperville203.org,84
+08,936011,81,Study Hall,Gebbie,Thomas,tgebbie@naperville203.org,343
+08,936011,82,Study Hall,Simon,Jennifer,jsimon@naperville203.org,207
+08,936011,83,Study Hall,Miller,Derek,djmiller@naperville203.org,39
+08,936012,80,Study Hall,Mielcarz,Kelly,kmielcarz@naperville203.org,84
+08,936012,81,Study Hall,Lynch,Megan,mmlynch@naperville203.org,343
+08,936012,82,Study Hall,Steger,Michael,msteger@naperville203.org,109
+08,946411,9,Supported Study Hall,Kralovic,Michael,mkralovic@naperville203.org,103
+08,946411,10,Supported Study Hall,Gresk,Matthew,mgresk@naperville203.org,318
+08,946412,9,Supported Study Hall,Kralovic,Michael,mkralovic@naperville203.org,103
+08,946412,10,Supported Study Hall,Gresk,Matthew,mgresk@naperville203.org,317
+08,962041,17,Literacy Workshop,Hughes,David,DCHughes@Naperville203.org,212 B
+08,962041,18,Literacy Workshop,Wasserman,Ashley,AWasserman@Naperville203.org,212 G
+08,962041,19,Literacy Workshop,Newcomb,Sara,snewcomb@naperville203.org,212 C
+08,962042,17,Literacy Workshop,Hughes,David,DCHughes@Naperville203.org,212 B
+08,962042,18,Literacy Workshop,Wasserman,Ashley,AWasserman@Naperville203.org,212 G
+08,962042,19,Literacy Workshop,Newcomb,Sara,snewcomb@naperville203.org,212 C
+08,962051,3,Literacy Workshop,Ghiotto,Christina,cghiotto@naperville203.org,33
+08,962051,4,Literacy Workshop,Prousa,Nicole,NProusa@Naperville203.org,34
+08,962052,3,Literacy Workshop,Ghiotto,Christina,cghiotto@naperville203.org,33
+08,962052,4,Literacy Workshop,Prousa,Nicole,NProusa@Naperville203.org,34
+08,962061,1,Literacy Workshop,Ondrus,Steven,sondrus@naperville203.org,126
+08,962061,2,Literacy Workshop,Sprovieri,Alyssa,asprovieri@naperville203.org,128
+08,962062,1,Literacy Workshop,Ondrus,Steven,sondrus@naperville203.org,126
+08,962062,2,Literacy Workshop,Sprovieri,Alyssa,asprovieri@naperville203.org,128
+08,967212,81,Teacher Assistant,Wilson,Michael,mtwilson@naperville203.org,221
+08,967212,85,Teacher Assistant,Rorer,Terri,trorer@naperville203.org,86
+08,967212,88,Teacher Assistant,Connell,Maria,MConnell@Naperville203.org,228
+08,969811,84,Office Assistant,Gottlieb,Catherine,cgottlieb@naperville203.org,15 - LC
+08,A16011,4,Drawing 1,Murphy,Amy,amurphy@naperville203.org,75
+08,A16012,4,Drawing 1,Cirone,Daniela,dcirone@naperville203.org,75
+08,A37011,6,Ceramics 1,Padgett,Gregory,gspadgett@naperville203.org,77
+08,A37012,5,Ceramics 1,Padgett,Gregory,gspadgett@naperville203.org,77
+08,A43011,4,Jewelry Metals 1,Hodge,Christopher,chodge@naperville203.org,78
+08,A43012,3,Jewelry Metals 1,Hodge,Christopher,chodge@naperville203.org,78
+08,A57012,1,Digital Art 1,Murphy,Amy,amurphy@naperville203.org,75A
+08,B240B1,4,Accounting 1,Epstein,Nikole,nepstein@naperville203.org,40
+08,B240B2,4,Accounting 1,Epstein,Nikole,nepstein@naperville203.org,40
+08,B30011,5,Marketing,Barry,Kathleen,kbarry@naperville203.org,48
+08,B40012,2,International Business,Barry,Kathleen,kbarry@naperville203.org,48
+08,B44011,4,Computer Programming 1,Hayes,Kevin,khayes@naperville203.org,52
+08,B46012,3,Computer Programming 2,Hayes,Kevin,khayes@naperville203.org,52
+08,B700N1,3,Blended Consumer Economics,Page,Lindsey,Lpage@naperville203.org,87
+08,B700N2,3,Blended Consumer Economics,Hicks,Aislinn,ahicks@naperville203.org,48
+08,C12011,8,English 1,Tuggle,Kelyn,ktuggle@naperville203.org,236
+08,C12011,9,English 1,Wilkerson,Mary,mwilkerson@naperville203.org,209
+08,C12012,8,English 1,Tuggle,Kelyn,ktuggle@naperville203.org,236
+08,C12012,9,English 1,Wilkerson,Mary,mwilkerson@naperville203.org,209
+08,C12021,6,English 1,Rigik,Emily,erigik@naperville203.org,238
+08,C12022,6,English 1,Rigik,Emily,erigik@naperville203.org,238
+08,C120H1,9,Honors English 1,Blaskovitz,Jennifer,jblaskovitz@naperville203.org,201
+08,C120H1,10,Honors English 1,Figi,Nicole,nfigi@naperville203.org,208
+08,C120H2,9,Honors English 1,Blaskovitz,Jennifer,jblaskovitz@naperville203.org,201
+08,C120H2,10,Honors English 1,Figi,Nicole,nfigi@naperville203.org,208
+08,C17011,5,English 2,Winebrenner,Meghan,MWinebrenner@Naperville203.org,241
+08,C17011,6,English 2,Roth,Luke,lwroth@naperville203.org,206
+08,C17012,5,English 2,Freese,Marissa,mfreese@naperville203.org,206
+08,C17012,6,English 2,Roth,Luke,lwroth@naperville203.org,204
+08,C17021,7,English 2,Kandl,Sarah,skandl@naperville203.org,205
+08,C17022,7,English 2,Kandl,Sarah,skandl@naperville203.org,205
+08,C170H1,7,Honors English 2,Konrad,Michelle,mkonrad@naperville203.org,239
+08,C170H2,7,Honors English 2,Konrad,Michelle,mkonrad@naperville203.org,239
+08,C19011,2,English 2 : Journalism,Weiss,Nicole,nweiss@naperville203.org,216
+08,C19012,2,English 2 : Journalism,Weiss,Nicole,nweiss@naperville203.org,216
+08,C190H1,3,Honors English 2 : Journalism,Carlson,Keith,kcarlson@naperville203.org,218
+08,C190H2,3,Honors English 2 : Journalism,Carlson,Keith,kcarlson@naperville203.org,218
+08,C25011,9,English 3,Reilly,Marybeth,mreilly@naperville203.org,226
+08,C25012,9,English 3,Reilly,Marybeth,mreilly@naperville203.org,226
+08,C250H1,4,Honors English 3,Polykandriotis,Taryen,tpolykandriotis@naperville203.org,202
+08,C250H2,4,Honors English 3,Polykandriotis,Taryen,tpolykandriotis@naperville203.org,202
+08,C280A1,4,AP Language & Composition,Albiniak,Sarah,salbiniak@naperville203.org,200
+08,C280A2,4,AP Language & Composition,Albiniak,Sarah,salbiniak@naperville203.org,200
+08,C370N1,5,Blended Senior Rhetoric,Freed,Adam,afreed@naperville203.org,225
+08,C57012,3,Film as Literature,Freed,Adam,afreed@naperville203.org,225
+08,D10011,8,Driver Ed,Leaf,Anthony,aleaf@naperville203.org,B16
+08,D10012,8,Driver Ed,Leaf,Anthony,aleaf@naperville203.org,B16
+08,E10011,1,Acting,Johnson,Susan,sajohnson@naperville203.org,85 - BBT
+08,E10012,1,Acting,Johnson,Susan,sajohnson@naperville203.org,85 - BBT
+08,E13011,1,Advanced Acting,Johnson,Susan,sajohnson@naperville203.org,85 - BBT
+08,E13012,1,Advanced Acting,Johnson,Susan,sajohnson@naperville203.org,85 - BBT
+08,F14012,1,Fashion Design,Rorer,Terri,trorer@naperville203.org,86
+08,F22011,4,Culinary Arts & Nutrition 1,Cosgrove,Megan,mcosgrove@naperville203.org,89E
+08,F27012,1,Culinary Arts & Nutrition 3,Cosgrove,Megan,mcosgrove@naperville203.org,89E
+08,F300N1,3,Blended Senior Foods,Rorer,Terri,trorer@naperville203.org,89A
+08,F300N2,4,Blended Senior Foods,Haiser,Amanda,ahaiser@naperville203.org,89A
+08,F42012,2,Human Growth & Development,Keller,Melissa,mkeller@naperville203.org,87
+08,H10011,8,Health,Pilapil,Christian,cpilapil@naperville203.org,30
+08,H10012,9,Health,Pilapil,Christian,cpilapil@naperville203.org,30
+08,H100N1,3,Blended Health,Bice,Megan,mbice@naperville203.org,31
+08,H100N2,3,Blended Health,Bice,Megan,mbice@naperville203.org,31
+08,J20011,3,Companion Animal Science 1,Rauen,Sean,srauen@naperville203.org,65
+08,J22012,3,Companion Animal Science 2,Rauen,Sean,srauen@naperville203.org,65
+08,J57012,1,Drafting Studio 1,Kischuk,Daniel,dkischuk@naperville203.org,41
+08,J59011,1,Engineering Design Studio,Kischuk,Daniel,dkischuk@naperville203.org,41
+08,J70011,3,Automotive 1 Eng and Maint,Feid,Christopher,cfeid@naperville203.org,50
+08,J70012,3,Automotive 1 Eng and Maint,Feid,Christopher,cfeid@naperville203.org,50
+08,J985N1,4,Blended STEM Capstone,Brady,Seth,sbrady@naperville203.org,224
+08,M19011,5,Algebra 1,Tolcher,Kelly,ktolcher@naperville203.org,309
+08,M19012,5,Algebra 1,Tolcher,Kelly,ktolcher@naperville203.org,309
+08,M190N1,1,Blended Algebra 1,Sladkey,David,dsladkey@naperville203.org,307
+08,M190N2,1,Blended Algebra 1,Sladkey,David,dsladkey@naperville203.org,307
+08,M28011,5,Algebra 1 w/Geometry,Carlson,Timothy,trcarlson@naperville203.org,342
+08,M28012,5,Algebra 1 w/Geometry,Carlson,Timothy,trcarlson@naperville203.org,342
+08,M34021,6,Geometry,Becker,Alyssa,abecker@naperville203.org,339
+08,M34022,6,Geometry,Becker,Alyssa,abecker@naperville203.org,339
+08,M340H1,6,Honors Geometry,Twietmeyer,Grace,gtwietmeyer@naperville203.org,308
+08,M340H2,6,Honors Geometry,Twietmeyer,Grace,gtwietmeyer@naperville203.org,308
+08,M43011,11,Algebra 2,Yang,Sharon,SJYang@Naperville203.org,340
+08,M43012,11,Algebra 2,Yang,Sharon,SJYang@Naperville203.org,340
+08,M43021,3,Algebra 2,Vinton,Stephanie,svinton@naperville203.org,306
+08,M43022,3,Algebra 2,Vinton,Stephanie,svinton@naperville203.org,306
+08,M430H1,7,Honors Algebra 2,Straka,Nicholas,nstraka@naperville203.org,335
+08,M430H2,7,Honors Algebra 2,Straka,Nicholas,nstraka@naperville203.org,335
+08,M430N1,2,Blended Algebra 2,Danbom,Deborah,ddanbom@naperville203.org,305
+08,M430N2,2,Blended Algebra 2,Danbom,Deborah,ddanbom@naperville203.org,305
+08,M52011,2,Business Precalculus,Azzolin,Kelly,KAzzolin@Naperville203.org,301
+08,M52012,2,Business Precalculus,Azzolin,Kelly,KAzzolin@Naperville203.org,301
+08,M53011,9,Precalculus,Dohm,Tina,tdohm@naperville203.org,300
+08,M53012,9,Precalculus,Dohm,Tina,tdohm@naperville203.org,300
+08,M530H1,5,Honors Precalculus,Winiecki,Adam,awiniecki@naperville203.org,302
+08,M530H2,5,Honors Precalculus,Winiecki,Adam,awiniecki@naperville203.org,302
+08,M600A1,4,AP Calculus AB,Danbom,Jeff,jdanbom@naperville203.org,304
+08,M600A2,4,AP Calculus AB,Danbom,Jeff,jdanbom@naperville203.org,304
+08,M610A1,4,AP Calculus BC,Rakes,Marissa,mrakes@naperville203.org,341
+08,M610A2,4,AP Calculus BC,Rakes,Marissa,mrakes@naperville203.org,341
+08,M680A1,6,AP Statistics,Gebbie,Lisa,lgebbie@naperville203.org,303
+08,M680A2,6,AP Statistics,Gebbie,Lisa,lgebbie@naperville203.org,303
+08,N17011,1,Advanced Band,Alstadt,David,dalstadt@naperville203.org,83
+08,N17012,1,Advanced  Band,Alstadt,David,dalstadt@naperville203.org,83
+08,N34011,1,Advanced Orchestra,Gross,Jesse,jgross@naperville203.org,82
+08,N34012,1,Advanced Orchestra,Gross,Jesse,jgross@naperville203.org,82
+08,N980W1,2,Fine Arts Capstone,Gross,Jesse,jgross@naperville203.org,82
+08,P10011,81,PE 1,Hagenbaumer,Kristina,khagenbaumer@naperville203.org,Main Gym
+08,P10011,82,PE 1,Lafferty,Crystal,clafferty@naperville203.org,Main Gym
+08,P10011,83,PE 1,Lago,Nick,nlago@naperville203.org,Main Gym
+08,P10012,81,PE 1,Cauley,Sarah,scauley@naperville203.org,Main Gym
+08,P10012,82,PE 1,Hagenbaumer,Kristina,khagenbaumer@naperville203.org,Main Gym
+08,P10012,83,PE 1,Lafferty,Crystal,clafferty@naperville203.org,Main Gym
+08,P20011,8,PE 2,Klimczak,Caila,cklimczak@naperville203.org,Main Gym
+08,P20012,8,PE 2,Hilgert,Alexis,AHilgert@Naperville203.org,Main Gym
+08,P40111,8,Competitive Team Sports,Kramer,Peter,pkramer@naperville203.org,Main Gym
+08,P40112,8,Competitive Team Sports,Kramer,Peter,pkramer@naperville203.org,Main Gym
+08,P40311,8,Self Defense,Anderson,Kristen,kcanderson@naperville203.org,Main Gym
+08,P40312,8,Self Defense,Anderson,Kristen,kcanderson@naperville203.org,Main Gym
+08,P44011,8,Strength & Performance,Bradley,Charles,chbradley@naperville203.org,Weight Rm
+08,P44012,8,Strength & Performance,Bradley,Charles,chbradley@naperville203.org,Weight Rm
+08,P61011,8,PE Leader Training,Adams,Kyle,kadams@naperville203.org,Main Gym
+08,P61012,8,PE Leader Training,Adams,Kyle,kadams@naperville203.org,Main Gym
+08,P62011,81,PE Leader,Hagenbaumer,Kristina,khagenbaumer@naperville203.org,Main Gym
+08,P62011,82,PE Leader,Lafferty,Crystal,clafferty@naperville203.org,Main Gym
+08,P62011,83,PE Leader,Lago,Nick,nlago@naperville203.org,Main Gym
+08,P62011,88,PE Leader,Klimczak,Caila,cklimczak@naperville203.org,Main Gym
+08,P89011,8,Wellness Study Hall,Miller,Derek,djmiller@naperville203.org,39
+08,P89012,8,Wellness Study Hall,Steger,Michael,msteger@naperville203.org,109
+08,S15021,3,Earth Science,Jarvis,Michael,mjarvis@naperville203.org,330
+08,S15022,3,Earth Science,Jarvis,Michael,mjarvis@naperville203.org,330
+08,S31011,8,Biology,Bennett,Linda,lbennett@naperville203.org,334
+08,S31011,9,Biology,Kedziora,Kimberly,kkedziora@naperville203.org,324
+08,S31012,8,Biology,Bennett,Linda,lbennett@naperville203.org,314
+08,S31012,9,Biology,Kedziora,Kimberly,kkedziora@naperville203.org,324
+08,S31021,8,Biology,Smith,Kimberly,KSmith2@Naperville203.org,315
+08,S31022,8,Biology,Smith,Kimberly,KSmith2@Naperville203.org,315
+08,S370H1,9,Honors Biology,Griffith,Crystal,cgriffith@naperville203.org,313
+08,S370H2,9,Honors Biology,Griffith,Crystal,cgriffith@naperville203.org,313
+08,S440W1,6,Anatomy & Physiology,Summy,Chelsea,csummy@naperville203.org,322
+08,S440W2,6,Anatomy & Physiology,Summy,Chelsea,csummy@naperville203.org,318
+08,S50011,15,Chemistry,Sanoshy,Thomas,tsanoshy@naperville203.org,319
+08,S50011,16,Chemistry,Nunez,Yazmin,YNunez@Naperville203.org,323
+08,S50012,15,Chemistry,Sanoshy,Thomas,tsanoshy@naperville203.org,322
+08,S50012,16,Chemistry,Nunez,Yazmin,YNunez@Naperville203.org,323
+08,S50021,5,Chemistry,Brotan,Megan,mbrotan@naperville203.org,325
+08,S50022,5,Chemistry,Mateus,Tanner,TMateus@Naperville203.org,325
+08,S530G1,1,Blended Advanced Chemistry,Bentley,Jeromy,jbentley@naperville203.org,320
+08,S530G2,1,Blended Advanced Chemistry,Bentley,Jeromy,jbentley@naperville203.org,320
+08,S59011,10,Physics,Norgaard,Jennifer,jnorgaard@naperville203.org,333
+08,S59011,11,Physics,Banas,Timothy,tbanas@naperville203.org,331
+08,S59012,10,Physics,Norgaard,Jennifer,jnorgaard@naperville203.org,333
+08,S59012,11,Physics,Banas,Timothy,tbanas@naperville203.org,331
+08,S600A1,8,AP Physics 1,Damianides,Andreas,ADamianides@Naperville203.org,328
+08,S600A1,9,AP Physics 1,Dille,Nathanael,ndille@naperville203.org,326
+08,S600A2,8,AP Physics 1,Damianides,Andreas,ADamianides@Naperville203.org,328
+08,S600A2,9,AP Physics 1,Dille,Nathanael,ndille@naperville203.org,326
+08,S90051,1,Intro Science 1,Prousa,Nicole,NProusa@Naperville203.org,34
+08,S94061,8,Earth Science,Tuggle,Kelyn,ktuggle@naperville203.org,38 - CRC
+08,T10011,5,World Cultures,Holmberg,Todd,tholmberg@naperville203.org,229
+08,T10012,5,World Cultures,Hanley,Lynne,lhanley@naperville203.org,234
+08,T150A1,6,AP Human Geography,Connell,Maria,MConnell@Naperville203.org,228
+08,T150A2,6,AP Human Geography,Connell,Maria,MConnell@Naperville203.org,228
+08,T23011,7,World History,Bochenski,Michael,mbochenski@naperville203.org,217
+08,T23012,7,World History,Wilder,Rochelle,RWilder@Naperville203.org,217
+08,T30011,7,American Government,Mohn,Donna,dmohn@naperville203.org,215
+08,T360A1,4,AP US Govt & Politics,Smith,Randall,rsmith@naperville203.org,223
+08,T40011,8,US History,Zwickert,Letitia,lzwickert@naperville203.org,231
+08,T40012,8,US History,Stack,Steven,sstack@naperville203.org,213
+08,T42051,1,US History Fundamentals,Privett,Jake,JPrivett@Naperville203.org,35
+08,T42052,1,US History Fundamentals,Rivera,Kelly,krivera@naperville203.org,35
+08,T460A1,4,AP US History,Lugiai,Robert,rlugiai@naperville203.org,227
+08,T460A2,4,AP US History,Lugiai,Robert,rlugiai@naperville203.org,227
+08,T510W2,4,Military History,Albiniak,Michael,malbiniak@naperville203.org,219
+08,T520W1,4,Chicago History,Albiniak,Michael,malbiniak@naperville203.org,219
+08,T530W1,2,Modern American Social History,Hanley,Lynne,lhanley@naperville203.org,234
+08,T620T2,1,Blended AP Macro Economics,Borge,Michael,MBorge@Naperville203.org,229
+08,T630T1,1,Blended AP Micro Economics,Borge,Michael,MBorge@Naperville203.org,213
+08,T65012,1,Legal Issues in Amer Society,Mohn,Donna,dmohn@naperville203.org,215
+08,T74011,3,Sociology,Braun,Sarah,sbraun@naperville203.org,235
+08,T74012,3,Sociology,Braun,Sarah,sbraun@naperville203.org,231
+08,T770A1,3,AP Psychology,Tilt,Cindy,ctilt@naperville203.org,220
+08,T770A2,3,AP Psychology,Zwickert,Letitia,lzwickert@naperville203.org,220
+08,T79011,2,Comparative Religions,Wilson,Michael,mtwilson@naperville203.org,221
+08,T79012,2,Comparative Religions,Wilson,Michael,mtwilson@naperville203.org,221
+08,T830W1,3,Humanities 1,Gillespie,Samantha,sgillespie@naperville203.org,237
+08,T840W2,2,Humanities 2,Gillespie,Samantha,sgillespie@naperville203.org,217
+08,T96071,1,Social Topics,Schaefer,Jennifer,JSchaefer@Naperville203.org,59
+08,T96071,2,Social Topics,Nikkel,Breanne,bnikkel@naperville203.org,71
+08,T96072,1,Social Topics,Schaefer,Jennifer,JSchaefer@Naperville203.org,59
+08,T96072,2,Social Topics,Nikkel,Breanne,bnikkel@naperville203.org,71
+08,T985N1,4,Blended Humanities CapstoneIGS,Brady,Seth,sbrady@naperville203.org,224
+08,W11011,3,American Sign Language 1,Sargent,Sara,SSargent@Naperville203.org,100
+08,W11012,3,American Sign Language 1,Sargent,Sara,SSargent@Naperville203.org,100
+08,W41011,2,German 1,Schultz,Andrew,ajschultz@naperville203.org,110
+08,W41012,2,German 1,Schultz,Andrew,ajschultz@naperville203.org,110
+08,W82011,13,Spanish 2,Diaz,Ana Rosa,ardiaz@naperville203.org,108
+08,W82011,14,Spanish 2,Davis,David,ddavis@naperville203.org,101
+08,W82011,15,Spanish 2,Gasser,Kathleen,kgasser@naperville203.org,104
+08,W82012,13,Spanish 2,Diaz,Ana Rosa,ardiaz@naperville203.org,108
+08,W82012,14,Spanish 2,Davis,David,ddavis@naperville203.org,101
+08,W82012,15,Spanish 2,Gasser,Kathleen,kgasser@naperville203.org,104
+08,W83011,7,Spanish 3,Franta,Jennie,jfranta@naperville203.org,102
+08,W83011,8,Spanish 3,Watson,Barbara,bwatson@naperville203.org,B17
+08,W83012,7,Spanish 3,Franta,Jennie,jfranta@naperville203.org,102
+08,W83012,8,Spanish 3,Watson,Barbara,bwatson@naperville203.org,B17
+08,W840W1,5,Spanish 4,Warren,Mary,mwarren@naperville203.org,105
+08,W840W2,5,Spanish 4,Warren,Mary,mwarren@naperville203.org,105
+ACT,MUSBT1,4,Band Technique,Alstadt,David,dalstadt@naperville203.org,83
+ACT,MUSBT1,5,Band Technique,Estes,Brandon,bestes@naperville203.org,83
+ACT,MUSBT1,6,Band Technique,Alstadt,David,dalstadt@naperville203.org,83
+ACT,MUSBT2,4,Band Technique,Alstadt,David,dalstadt@naperville203.org,83
+ACT,MUSBT2,5,Band Technique,Estes,Brandon,bestes@naperville203.org,83
+ACT,MUSBT2,6,Band Technique,Alstadt,David,dalstadt@naperville203.org,83
+ACT,MUSCT1,4,Choir Technique,Mielcarz,Kelly,kmielcarz@naperville203.org,84
+ACT,MUSCT1,5,Choir Technique,Berryhill,Lauren,LBerryhill@Naperville203.org,84
+ACT,MUSCT1,6,Choir Technique,Berryhill,Lauren,LBerryhill@Naperville203.org,84
+ACT,MUSCT2,4,Choir Technique,Mielcarz,Kelly,kmielcarz@naperville203.org,84
+ACT,MUSCT2,5,Choir Technique,Berryhill,Lauren,LBerryhill@Naperville203.org,84
+ACT,MUSCT2,6,Choir Technique,Berryhill,Lauren,LBerryhill@Naperville203.org,84
+ACT,MUSOT1,4,Orchestra Technique,Sturgeon,Jeffrey,jmsturgeon@naperville203.org,82
+ACT,MUSOT1,5,Orchestra Technique,Gross,Jesse,jgross@naperville203.org,82
+ACT,MUSOT1,6,Orchestra Technique,Gross,Jesse,jgross@naperville203.org,82
+ACT,MUSOT2,4,Orchestra Technique,Sturgeon,Jeffrey,jmsturgeon@naperville203.org,82
+ACT,MUSOT2,5,Orchestra Technique,Gross,Jesse,jgross@naperville203.org,82
+ACT,MUSOT2,6,Orchestra Technique,Gross,Jesse,jgross@naperville203.org,82
+SOAR,933111,1,Homeroom,Johnson,Leah,lrjohnson@naperville203.org,333
+SOAR,933111,2,Homeroom,Epstein,Nikole,nepstein@naperville203.org,40
+SOAR,933111,3,Homeroom,Barry,Kathleen,kbarry@naperville203.org,244
+SOAR,933111,4,Homeroom,Winebrenner,Meghan,MWinebrenner@Naperville203.org,206
+SOAR,933111,5,Homeroom,Padgett,Gregory,gspadgett@naperville203.org,54
+SOAR,933111,6,Homeroom,Gasser,Kathleen,kgasser@naperville203.org,104
+SOAR,933111,7,Homeroom,Albiniak,Sarah,salbiniak@naperville203.org,200
+SOAR,933111,8,Homeroom,Mohn,Donna,dmohn@naperville203.org,215
+SOAR,933111,9,Homeroom,Smith,Randall,rsmith@naperville203.org,223
+SOAR,933111,10,Homeroom,Adams,Kyle,kadams@naperville203.org,66
+SOAR,933111,11,Homeroom,Mielcarz,Kelly,kmielcarz@naperville203.org,84
+SOAR,933111,12,Homeroom,Tuggle,Kelyn,ktuggle@naperville203.org,236
+SOAR,933111,13,Homeroom,Konrad,Michelle,mkonrad@naperville203.org,239
+SOAR,933111,14,Homeroom,Vinton,Stephanie,svinton@naperville203.org,306
+SOAR,933111,15,Homeroom,Rauen,Sean,srauen@naperville203.org,65
+SOAR,933111,16,Homeroom,Ulreich,Katherine,kulreich@naperville203.org,335
+SOAR,933111,17,Homeroom,Haiser,Amanda,ahaiser@naperville203.org,87
+SOAR,933111,18,Homeroom,Stack,Steven,sstack@naperville203.org,213
+SOAR,933111,19,Homeroom,Hastings,Amy,ahastings@naperville203.org,12 - TC
+SOAR,933111,20,Homeroom,Frye,Lindsey,LFrye@naperville203.org,323
+SOAR,933111,21,Homeroom,Norgaard,Jennifer,jnorgaard@naperville203.org,334
+SOAR,933111,22,Homeroom,Damianides,Andreas,ADamianides@Naperville203.org,328
+SOAR,933111,23,Homeroom,Whitt,Jeremy,jwhitt@naperville203.org,109
+SOAR,933111,24,Homeroom,Simon,Jennifer,jsimon@naperville203.org,207
+SOAR,933111,25,Homeroom,Baldwin,Barry,bbaldwin@naperville203.org,203
+SOAR,933111,26,Homeroom,McGrath,Thomas,tmcgrath@naperville203.org,204
+SOAR,933112,1,Homeroom,Williams,Michael,MJWilliams1@Naperville203.org,333
+SOAR,933112,2,Homeroom,Epstein,Nikole,nepstein@naperville203.org,40
+SOAR,933112,3,Homeroom,Barry,Kathleen,kbarry@naperville203.org,244
+SOAR,933112,4,Homeroom,Freese,Marissa,mfreese@naperville203.org,206
+SOAR,933112,5,Homeroom,Padgett,Gregory,gspadgett@naperville203.org,54
+SOAR,933112,6,Homeroom,Gasser,Kathleen,kgasser@naperville203.org,104
+SOAR,933112,7,Homeroom,Albiniak,Sarah,salbiniak@naperville203.org,200
+SOAR,933112,8,Homeroom,Mohn,Donna,dmohn@naperville203.org,215
+SOAR,933112,9,Homeroom,Smith,Randall,rsmith@naperville203.org,223
+SOAR,933112,10,Homeroom,Adams,Kyle,kadams@naperville203.org,66
+SOAR,933112,11,Homeroom,Mielcarz,Kelly,kmielcarz@naperville203.org,84
+SOAR,933112,12,Homeroom,Tuggle,Kelyn,ktuggle@naperville203.org,236
+SOAR,933112,13,Homeroom,Konrad,Michelle,mkonrad@naperville203.org,239
+SOAR,933112,14,Homeroom,Vinton,Stephanie,svinton@naperville203.org,306
+SOAR,933112,15,Homeroom,Rauen,Sean,srauen@naperville203.org,65
+SOAR,933112,16,Homeroom,Ulreich,Katherine,kulreich@naperville203.org,335
+SOAR,933112,17,Homeroom,Haiser,Amanda,ahaiser@naperville203.org,87
+SOAR,933112,18,Homeroom,Stack,Steven,sstack@naperville203.org,213
+SOAR,933112,19,Homeroom,Hastings,Amy,ahastings@naperville203.org,317
+SOAR,933112,20,Homeroom,Frye,Lindsey,LFrye@naperville203.org,323
+SOAR,933112,21,Homeroom,Norgaard,Jennifer,jnorgaard@naperville203.org,334
+SOAR,933112,22,Homeroom,Damianides,Andreas,ADamianides@Naperville203.org,328
+SOAR,933112,23,Homeroom,Whitt,Jeremy,jwhitt@naperville203.org,109
+SOAR,933112,24,Homeroom,Simon,Jennifer,jsimon@naperville203.org,207
+SOAR,933112,25,Homeroom,Baldwin,Barry,bbaldwin@naperville203.org,203
+SOAR,933112,26,Homeroom,McGrath,Thomas,tmcgrath@naperville203.org,204
+SOAR,933211,1,Homeroom,Lugiai,Robert,rlugiai@naperville203.org,227
+SOAR,933211,2,Homeroom,Reilly,Marybeth,mreilly@naperville203.org,226
+SOAR,933211,3,Homeroom,Tilt,Cindy,ctilt@naperville203.org,220
+SOAR,933211,4,Homeroom,King,Wright,wking@naperville203.org,45
+SOAR,933211,5,Homeroom,Szopinski,Samantha,sszopinski@naperville203.org,89A
+SOAR,933211,6,Homeroom,Sladkey,David,dsladkey@naperville203.org,307
+SOAR,933211,7,Homeroom,Warren,Mary,mwarren@naperville203.org,105
+SOAR,933211,8,Homeroom,Kandl,Sarah,skandl@naperville203.org,205
+SOAR,933211,9,Homeroom,Wilkerson,Mary,mwilkerson@naperville203.org,209
+SOAR,933211,10,Homeroom,Dohm,Tina,tdohm@naperville203.org,300
+SOAR,933211,11,Homeroom,Zwickert,Letitia,lzwickert@naperville203.org,231
+SOAR,933211,12,Homeroom,Zieman,Matthew,mzieman@naperville203.org,228
+SOAR,933211,13,Homeroom,Heatherly,Taylor,theatherly@naperville203.org,240
+SOAR,933211,14,Homeroom,Danbom,Deborah,ddanbom@naperville203.org,305
+SOAR,933211,15,Homeroom,Blaskovitz,Jennifer,jblaskovitz@naperville203.org,201
+SOAR,933211,16,Homeroom,Polykandriotis,Taryen,tpolykandriotis@naperville203.org,202
+SOAR,933211,17,Homeroom,Summy,Chelsea,csummy@naperville203.org,St Service
+SOAR,933211,18,Homeroom,Gresk,Matthew,mgresk@naperville203.org,322
+SOAR,933211,19,Homeroom,Bice,Megan,mbice@naperville203.org,31
+SOAR,933211,20,Homeroom,Brotan,Megan,mbrotan@naperville203.org,325
+SOAR,933211,21,Homeroom,Kedziora,Kimberly,kkedziora@naperville203.org,324
+SOAR,933211,22,Homeroom,Freed,Adam,afreed@naperville203.org,225
+SOAR,933211,23,Homeroom,Gebbie,Thomas,tgebbie@naperville203.org,343
+SOAR,933211,24,Homeroom,Watson,Barbara,bwatson@naperville203.org,B17
+SOAR,933211,25,Homeroom,Wilson,Michael,mtwilson@naperville203.org,221
+SOAR,933211,26,Homeroom,Ortiz,Michael,mortiz@naperville203.org,B19
+SOAR,933212,1,Homeroom,Lugiai,Robert,rlugiai@naperville203.org,227
+SOAR,933212,2,Homeroom,Reilly,Marybeth,mreilly@naperville203.org,226
+SOAR,933212,3,Homeroom,Wilder,Rochelle,RWilder@Naperville203.org,231
+SOAR,933212,4,Homeroom,King,Wright,wking@naperville203.org,45
+SOAR,933212,5,Homeroom,Szopinski,Samantha,sszopinski@naperville203.org,89A
+SOAR,933212,6,Homeroom,Sladkey,David,dsladkey@naperville203.org,307
+SOAR,933212,7,Homeroom,Warren,Mary,mwarren@naperville203.org,105
+SOAR,933212,8,Homeroom,Kandl,Sarah,skandl@naperville203.org,205
+SOAR,933212,9,Homeroom,Wilkerson,Mary,mwilkerson@naperville203.org,209
+SOAR,933212,10,Homeroom,Dohm,Tina,tdohm@naperville203.org,300
+SOAR,933212,11,Homeroom,Zwickert,Letitia,lzwickert@naperville203.org,220
+SOAR,933212,12,Homeroom,Zieman,Matthew,mzieman@naperville203.org,228
+SOAR,933212,13,Homeroom,Heatherly,Taylor,theatherly@naperville203.org,240
+SOAR,933212,14,Homeroom,Danbom,Deborah,ddanbom@naperville203.org,305
+SOAR,933212,15,Homeroom,Blaskovitz,Jennifer,jblaskovitz@naperville203.org,201
+SOAR,933212,16,Homeroom,Polykandriotis,Taryen,tpolykandriotis@naperville203.org,202
+SOAR,933212,17,Homeroom,Summy,Chelsea,csummy@naperville203.org,318
+SOAR,933212,18,Homeroom,Gresk,Matthew,mgresk@naperville203.org,322
+SOAR,933212,19,Homeroom,Bice,Megan,mbice@naperville203.org,31
+SOAR,933212,20,Homeroom,Brotan,Megan,mbrotan@naperville203.org,325
+SOAR,933212,21,Homeroom,Kedziora,Kimberly,kkedziora@naperville203.org,324
+SOAR,933212,22,Homeroom,Freed,Adam,afreed@naperville203.org,225
+SOAR,933212,23,Homeroom,Gebbie,Thomas,tgebbie@naperville203.org,343
+SOAR,933212,24,Homeroom,Watson,Barbara,bwatson@naperville203.org,B17
+SOAR,933212,25,Homeroom,Wilson,Michael,mtwilson@naperville203.org,221
+SOAR,933212,26,Homeroom,Ortiz,Michael,mortiz@naperville203.org,B19
+SOAR,933311,1,Homeroom,Bochenski,Michael,mbochenski@naperville203.org,217
+SOAR,933311,2,Homeroom,Bell,Christine,clbell@naperville203.org,39
+SOAR,933311,3,Homeroom,Johnson,Susan,sajohnson@naperville203.org,241
+SOAR,933311,4,Homeroom,Corder,Madalyn,mcorder@naperville203.org,C&CC - 17
+SOAR,933311,5,Homeroom,Cunningham,Stacy,scunningham@naperville203.org,100
+SOAR,933311,6,Homeroom,Hindi,Mthal,MHindi@Naperville203.org,237
+SOAR,933311,7,Homeroom,Hanley,Lynne,lhanley@naperville203.org,234
+SOAR,933311,8,Homeroom,Brady,Seth,sbrady@naperville203.org,224
+SOAR,933311,9,Homeroom,Carlson,Keith,kcarlson@naperville203.org,218
+SOAR,933311,10,Homeroom,Gebbie,Lisa,lgebbie@naperville203.org,303
+SOAR,933311,11,Homeroom,Griffith,Crystal,cgriffith@naperville203.org,313
+SOAR,933311,12,Homeroom,Davis,David,ddavis@naperville203.org,101
+SOAR,933311,13,Homeroom,Franta,Jennie,jfranta@naperville203.org,102
+SOAR,933311,14,Homeroom,Schultz,Andrew,ajschultz@naperville203.org,110
+SOAR,933311,15,Homeroom,Hayes,Kevin,khayes@naperville203.org,52
+SOAR,933311,16,Homeroom,Kralovic,Michael,mkralovic@naperville203.org,103
+SOAR,933311,17,Homeroom,Kaisling,Eric,ekaisling@naperville203.org,B15
+SOAR,933311,18,Homeroom,Hicks,Aislinn,ahicks@naperville203.org,48
+SOAR,933311,19,Homeroom,Figi,Nicole,nfigi@naperville203.org,208
+SOAR,933311,20,Homeroom,Neubauer,Bradley,bneubauer@naperville203.org,245
+SOAR,933311,21,Homeroom,Lundquist,Paige,plundquist@naperville203.org,314
+SOAR,933311,22,Homeroom,Dille,Nathanael,ndille@naperville203.org,340
+SOAR,933311,23,Homeroom,Mancuso,Rebecca,rmancuso@naperville203.org,77
+SOAR,933311,24,Homeroom,Barker,Jacquelyn,jbarker@naperville203.org,319
+SOAR,933311,25,Homeroom,Bentley,Jeromy,jbentley@naperville203.org,320
+SOAR,933311,26,Homeroom,Jarvis,Michael,mjarvis@naperville203.org,330
+SOAR,933312,1,Homeroom,Bochenski,Michael,mbochenski@naperville203.org,217
+SOAR,933312,2,Homeroom,Bell,Christine,clbell@naperville203.org,39
+SOAR,933312,3,Homeroom,Johnson,Susan,sajohnson@naperville203.org,241
+SOAR,933312,4,Homeroom,Corder,Madalyn,mcorder@naperville203.org,C&CC - 17
+SOAR,933312,5,Homeroom,Cunningham,Stacy,scunningham@naperville203.org,100
+SOAR,933312,6,Homeroom,Porter,Robert,rporter@naperville203.org,237
+SOAR,933312,7,Homeroom,Hanley,Lynne,lhanley@naperville203.org,234
+SOAR,933312,8,Homeroom,Brady,Seth,sbrady@naperville203.org,224
+SOAR,933312,9,Homeroom,Carlson,Keith,kcarlson@naperville203.org,218
+SOAR,933312,10,Homeroom,Gebbie,Lisa,lgebbie@naperville203.org,303
+SOAR,933312,11,Homeroom,Griffith,Crystal,cgriffith@naperville203.org,313
+SOAR,933312,12,Homeroom,Davis,David,ddavis@naperville203.org,101
+SOAR,933312,13,Homeroom,Franta,Jennie,jfranta@naperville203.org,102
+SOAR,933312,14,Homeroom,Schultz,Andrew,ajschultz@naperville203.org,110
+SOAR,933312,15,Homeroom,Hayes,Kevin,khayes@naperville203.org,52
+SOAR,933312,16,Homeroom,Kralovic,Michael,mkralovic@naperville203.org,103
+SOAR,933312,17,Homeroom,Kaisling,Eric,ekaisling@naperville203.org,B15
+SOAR,933312,18,Homeroom,Hicks,Aislinn,ahicks@naperville203.org,48
+SOAR,933312,19,Homeroom,Figi,Nicole,nfigi@naperville203.org,208
+SOAR,933312,20,Homeroom,Neubauer,Bradley,bneubauer@naperville203.org,245
+SOAR,933312,21,Homeroom,Williams,Michael,MJWilliams1@Naperville203.org,314
+SOAR,933312,22,Homeroom,Dille,Nathanael,ndille@naperville203.org,340
+SOAR,933312,23,Homeroom,Mancuso,Rebecca,rmancuso@naperville203.org,77
+SOAR,933312,24,Homeroom,Barker,Jacquelyn,jbarker@naperville203.org,319
+SOAR,933312,25,Homeroom,Bentley,Jeromy,jbentley@naperville203.org,320
+SOAR,933312,26,Homeroom,Jarvis,Michael,mjarvis@naperville203.org,330
+SOAR,933411,1,Homeroom,Bennett,Linda,lbennett@naperville203.org,315
+SOAR,933411,2,Homeroom,Holmberg,Todd,tholmberg@naperville203.org,229
+SOAR,933411,3,Homeroom,Nudera,Jeffrey,jnudera@naperville203.org,30
+SOAR,933411,4,Homeroom,Woosley,Eric,EWoosley@Naperville203.org,331
+SOAR,933411,5,Homeroom,Azzolin,Kelly,KAzzolin@Naperville203.org,339
+SOAR,933411,6,Homeroom,Danbom,Jeff,jdanbom@naperville203.org,304
+SOAR,933411,7,Homeroom,Vock,Angela,avock@naperville203.org,108
+SOAR,933411,8,Homeroom,Albiniak,Michael,malbiniak@naperville203.org,219
+SOAR,933411,9,Homeroom,Rorer,Terri,trorer@naperville203.org,86
+SOAR,933411,10,Homeroom,Rigik,Emily,erigik@naperville203.org,238
+SOAR,933411,11,Homeroom,Ulreich,Michael,mulreich@naperville203.org,222
+SOAR,933411,12,Homeroom,Leaf,Anthony,aleaf@naperville203.org,B16
+SOAR,933411,13,Homeroom,Granatelli,Maxyne,mgranatelli@naperville203.org,214
+SOAR,933411,14,Homeroom,Free,Leslie,lfree@naperville203.org,308
+SOAR,933411,15,Homeroom,Rakes,Marissa,mrakes@naperville203.org,341
+SOAR,933411,16,Homeroom,Marshall,William,WMarshall@Naperville203.org,326
+SOAR,933411,17,Homeroom,Stanley,Samantha,sstanley@naperville203.org,342
+SOAR,933411,18,Homeroom,Nussbaum,Andrew,ajnussbaum@naperville203.org,301
+SOAR,933411,19,Homeroom,Weiss,Nicole,nweiss@naperville203.org,216
+SOAR,933411,20,Homeroom,Sturgeon,Jeffrey,jmsturgeon@naperville203.org,42
+SOAR,933411,21,Homeroom,Tolcher,Kelly,ktolcher@naperville203.org,309
+SOAR,933411,22,Homeroom,Winiecki,Adam,awiniecki@naperville203.org,302
+SOAR,933411,23,Homeroom,Gabrielli,Georganne,ggabrielli@naperville203.org,235
+SOAR,933411,24,Homeroom,Cirone,Daniela,dcirone@naperville203.org,75
+SOAR,933411,25,Homeroom,Cosgrove,Megan,mcosgrove@naperville203.org,89A
+SOAR,933411,26,Homeroom,Page,Lindsey,Lpage@naperville203.org,51
+SOAR,933412,1,Homeroom,Bennett,Linda,lbennett@naperville203.org,315
+SOAR,933412,2,Homeroom,Holmberg,Todd,tholmberg@naperville203.org,229
+SOAR,933412,3,Homeroom,Nudera,Jeffrey,jnudera@naperville203.org,30
+SOAR,933412,4,Homeroom,Woosley,Eric,EWoosley@Naperville203.org,331
+SOAR,933412,5,Homeroom,Azzolin,Kelly,KAzzolin@Naperville203.org,339
+SOAR,933412,6,Homeroom,Danbom,Jeff,jdanbom@naperville203.org,304
+SOAR,933412,7,Homeroom,Vock,Angela,avock@naperville203.org,108
+SOAR,933412,8,Homeroom,Albiniak,Michael,malbiniak@naperville203.org,219
+SOAR,933412,9,Homeroom,Rorer,Terri,trorer@naperville203.org,86
+SOAR,933412,10,Homeroom,Rigik,Emily,erigik@naperville203.org,238
+SOAR,933412,11,Homeroom,Ulreich,Michael,mulreich@naperville203.org,222
+SOAR,933412,12,Homeroom,Leaf,Anthony,aleaf@naperville203.org,B16
+SOAR,933412,13,Homeroom,Granatelli,Maxyne,mgranatelli@naperville203.org,214
+SOAR,933412,14,Homeroom,Free,Leslie,lfree@naperville203.org,308
+SOAR,933412,15,Homeroom,Rakes,Marissa,mrakes@naperville203.org,341
+SOAR,933412,16,Homeroom,Marshall,William,WMarshall@Naperville203.org,326
+SOAR,933412,17,Homeroom,Stanley,Samantha,sstanley@naperville203.org,342
+SOAR,933412,18,Homeroom,Nussbaum,Andrew,ajnussbaum@naperville203.org,301
+SOAR,933412,19,Homeroom,Weiss,Nicole,nweiss@naperville203.org,216
+SOAR,933412,20,Homeroom,Sturgeon,Jeffrey,jmsturgeon@naperville203.org,42
+SOAR,933412,21,Homeroom,Tolcher,Kelly,ktolcher@naperville203.org,309
+SOAR,933412,22,Homeroom,Winiecki,Adam,awiniecki@naperville203.org,302
+SOAR,933412,23,Homeroom,Gabrielli,Georganne,ggabrielli@naperville203.org,235
+SOAR,933412,24,Homeroom,Cirone,Daniela,dcirone@naperville203.org,75
+SOAR,933412,25,Homeroom,Cosgrove,Megan,mcosgrove@naperville203.org,89A
+SOAR,933412,26,Homeroom,Page,Lindsey,Lpage@naperville203.org,51

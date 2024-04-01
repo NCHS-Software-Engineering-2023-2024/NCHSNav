@@ -2,7 +2,7 @@ import { PrismaClient } from '@prisma/client'
 import { join } from '@prisma/client/runtime/library';
 const prisma = new PrismaClient()
 async function main() {
-    const accountSeedFile = join(process.cwd(), './prisma/seeds/accounts.csv');
+    const accountSeedFile = join(process.cwd(), './prisma/seeds/data.csv');
     const accountSeedPromise = prisma.$executeRaw`
     COPY "accounts"(id, name, bank)
     FROM ${accountSeedFile}
