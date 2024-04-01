@@ -12,6 +12,7 @@
     "@auth/prisma-adapter": "^1.4.0",
     "@prisma/client": "^5.10.2",
     "@types/mapbox-gl": "^2.7.20",
+    "csvtojson": "^2.0.10",
     "mapbox-gl": "^3.1.2",
     "next": "14.1.0",
     "next-auth": "^4.24.6",
@@ -33,6 +34,6 @@
     "typescript": "^5"
   },
   "prisma": {
-    "seed": "ts-node ./prisma/seed.ts"
+    "seed": "npx ts-node ./prisma/seed.mjs"
   }
 }
