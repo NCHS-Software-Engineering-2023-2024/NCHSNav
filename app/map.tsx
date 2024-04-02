@@ -7,6 +7,9 @@ import 'mapbox-gl/dist/mapbox-gl.css';
 import Map, {Source, Layer, GeolocateControl, ScaleControl, NavigationControl, ViewStateChangeEvent } from "react-map-gl"
 import { useState } from 'react';
 import Link from 'next/link';
+// we can't use prisma in a client function
+//import { PrismaClient } from '@prisma/client'
+
 
 const floorplan: any = {
   id: "floor_plan",
@@ -35,6 +38,7 @@ const mapAttr: any = {
 }
 
 export default function SchoolMap( { data } : { data: any[] } ) {
+  //const prisma = new PrismaClient();
   const [zoom, setZoom] = useState(mapAttr.initialViewState.zoom);
   const [layerSrc, setLayerSrc] = useState(2);
   const [selectedButton, setSelectedButton] = useState(2); // Initially selected button is 1
@@ -53,12 +57,20 @@ export default function SchoolMap( { data } : { data: any[] } ) {
   };
 
 
-  const handleInputChange= (event:React.ChangeEvent<HTMLInputElement>)=>{
+  const handleInputChange= async (event:React.ChangeEvent<HTMLInputElement>)=>{
     setClassroom(event.target.value);
+    console.log("Searching for classrom:",event.target.value);
+    /*
+    const getCourse: Course | null = await prisma.courses.findMany({
+      where: {
+        className: event.target.value,
+      }
+    })
+    console.log(getCourse);
+    */
   }
 
-  const handleSearch = () => {
-    console.log("Searching for classrom:",classroom);
+  const handleSearch = async () => {
   }
   
   const handleLayerChange = (layerNumber: number) => {

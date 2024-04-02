@@ -9,7 +9,7 @@ async function main() {
 
   // Import data into Prisma database
   for (const data of jsonArray) {
-    //console.log(data)
+    console.log(data)
     await prisma.courses.create({
       data: {
         period: data.period,
