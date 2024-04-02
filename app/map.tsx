@@ -9,6 +9,8 @@ import { useState } from 'react';
 import Link from 'next/link';
 // we can't use prisma in a client function
 //import { PrismaClient } from '@prisma/client'
+import { useRouter } from "next/navigation";
+
 
 
 const floorplan: any = {
@@ -39,6 +41,28 @@ const mapAttr: any = {
 
 export default function SchoolMap( { data } : { data: any[] } ) {
   //const prisma = new PrismaClient();
+  const router = useRouter();
+  const create = async (e: React.SyntheticEvent) => {
+    e.preventDefault();
+    await fetch(`/api/todo`, {
+      method: "POST",
+      credentials: "include",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        title: newItem,
+      }),
+    });
+
+
+    // figure out the next router:
+    // https://docs.hanko.io/tutorials/nextjs-todo
+
+    router.refresh();
+    setNewItem("");
+
+
   const [zoom, setZoom] = useState(mapAttr.initialViewState.zoom);
   const [layerSrc, setLayerSrc] = useState(2);
   const [selectedButton, setSelectedButton] = useState(2); // Initially selected button is 1
@@ -63,15 +87,15 @@ export default function SchoolMap( { data } : { data: any[] } ) {
     /*
     const getCourse: Course | null = await prisma.courses.findMany({
       where: {
-        className: event.target.value,
+        className: {
+          contains: event.target.value,
+        }
       }
     })
     console.log(getCourse);
     */
   }
 
-  const handleSearch = async () => {
-  }
   
   const handleLayerChange = (layerNumber: number) => {
     console.log("changing layer to",layerNumber);
