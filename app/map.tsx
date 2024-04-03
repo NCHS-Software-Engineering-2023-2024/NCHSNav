@@ -41,26 +41,12 @@ const mapAttr: any = {
 
 export default function SchoolMap( { data } : { data: any[] } ) {
   //const prisma = new PrismaClient();
-  const router = useRouter();
-  const create = async (e: React.SyntheticEvent) => {
-    e.preventDefault();
-    await fetch(`/api/todo`, {
-      method: "POST",
-      credentials: "include",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        title: newItem,
-      }),
-    });
+
 
 
     // figure out the next router:
     // https://docs.hanko.io/tutorials/nextjs-todo
 
-    router.refresh();
-    setNewItem("");
 
 
   const [zoom, setZoom] = useState(mapAttr.initialViewState.zoom);
@@ -84,16 +70,8 @@ export default function SchoolMap( { data } : { data: any[] } ) {
   const handleInputChange= async (event:React.ChangeEvent<HTMLInputElement>)=>{
     setClassroom(event.target.value);
     console.log("Searching for classrom:",event.target.value);
-    /*
-    const getCourse: Course | null = await prisma.courses.findMany({
-      where: {
-        className: {
-          contains: event.target.value,
-        }
-      }
-    })
-    console.log(getCourse);
-    */
+    const response = await fetch(`/api/getCourse?classParameter=${event.target.value}`);
+    console.log(response)
   }
 
   
