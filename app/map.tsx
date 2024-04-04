@@ -70,7 +70,7 @@ export default function SchoolMap( { data } : { data: any[] } ) {
   const handleInputChange= async (event:React.ChangeEvent<HTMLInputElement>)=>{
     setClassroom(event.target.value);
     console.log("Searching for classrom:",event.target.value);
-    const response = await fetch(`/api/getCourse?classParameter=${event.target.value}`);
+    const response = await fetch(`/api/${encodeURIComponent(event.target.value)}`);
     console.log(response)
   }
 
