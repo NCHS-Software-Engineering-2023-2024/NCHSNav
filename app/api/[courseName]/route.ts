@@ -10,10 +10,6 @@ import { PrismaClient } from '@prisma/client'
     const courseName = params.courseName
 
     try {
-      if (!courseName || !Array.isArray(courseName)) {
-        throw new Error('Invalid course name');
-      }
-  
       const courses = await prisma.courses.findMany({
         where: {
           className: {
