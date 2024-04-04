@@ -4,19 +4,12 @@ import { PrismaClient } from '@prisma/client'
 
   export async function GET(
   request: NextRequest,
-  { params }: { params: { courseName: string } } )
+  )
     {
     const prisma = new PrismaClient();
-    const courseName = params.courseName
 
     try {
-      const courses = await prisma.courses.findMany({
-        where: {
-          className: {
-            contains: courseName,
-          }
-        }
-      });
+      const courses = await prisma.courses.findMany();
   
       return NextResponse.json(courses, { status: 200 });
     } catch (error) {

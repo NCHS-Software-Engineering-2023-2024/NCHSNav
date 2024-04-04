@@ -40,14 +40,7 @@ const mapAttr: any = {
 }
 
 export default function SchoolMap( { data } : { data: any[] } ) {
-  //const prisma = new PrismaClient();
-
-
-
-    // figure out the next router:
-    // https://docs.hanko.io/tutorials/nextjs-todo
-
-
+  const courseDB = fetch(`/api/db`);
 
   const [zoom, setZoom] = useState(mapAttr.initialViewState.zoom);
   const [layerSrc, setLayerSrc] = useState(2);
@@ -70,8 +63,6 @@ export default function SchoolMap( { data } : { data: any[] } ) {
   const handleInputChange= async (event:React.ChangeEvent<HTMLInputElement>)=>{
     setClassroom(event.target.value);
     console.log("Searching for classrom:",event.target.value);
-    const response = await fetch(`/api/${encodeURIComponent(event.target.value)}`);
-    console.log(response)
   }
 
   
