@@ -2,6 +2,8 @@
 // react server function. you can not do anything in the client interactively 
 // here.
 
+import { PrismaClient } from '@prisma/client'
+
 // filesystem support
 import fs from 'fs';
 
