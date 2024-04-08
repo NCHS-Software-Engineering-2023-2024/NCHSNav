@@ -49,7 +49,9 @@ export default function Home() {
       <SchoolMap
         data={geojsonArray}
       />
-      <Search/>
+      <div className="absolute z-10 flex justify-center items-center top-0 left-0 w-full">
+        <Search />
+      </div>
 
     </main>
   );

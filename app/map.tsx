@@ -40,10 +40,12 @@ const mapAttr: any = {
 }
 
 export default function SchoolMap( { data } : { data: any[] } ) {
+  
 
   const [zoom, setZoom] = useState(mapAttr.initialViewState.zoom);
   const [layerSrc, setLayerSrc] = useState(2);
   const [selectedButton, setSelectedButton] = useState(2); // Initially selected button is 1
+  const [classroom, setClassroom] = useState("");
   const handleButtonClick = (buttonNumber: number) => {
     setSelectedButton(buttonNumber);
     console.log(buttonNumber)
@@ -56,10 +58,6 @@ export default function SchoolMap( { data } : { data: any[] } ) {
     console.log(event.viewState.zoom)
     handleLayerChange(zoom > 17.5 ? selectedButton : 1 + selectedButton )
   };
-
-
-  
-
   
   const handleLayerChange = (layerNumber: number) => {
     console.log("changing layer to",layerNumber);
@@ -67,19 +65,7 @@ export default function SchoolMap( { data } : { data: any[] } ) {
   }
 
   return (
-<div>
-  <div style={{ position: 'absolute', top: '20px', left: '50%', transform: 'translateX(-50%)', zIndex: 1 }}>
-  <Link href="/api/auth/signin" className="p-2 rounded-lg border border-gray-300 focus:outline-none">Sign in </Link>
-
-
-<div className="absolute bottom-4 right-4 flex space-x-2">
-      <button className="w-10 h-10 bg-blue-500 text-white rounded-full flex items-center justify-center" onClick={() => handleButtonClick(0)}>B</button>
-      <button className="w-10 h-10 bg-blue-500 text-white rounded-full flex items-center justify-center" onClick={() => handleButtonClick(2)}>1</button>
-      <button className="w-10 h-10 bg-blue-500 text-white rounded-full flex items-center justify-center" onClick={() => handleButtonClick(4)}>2</button>
-      <button className="w-10 h-10 bg-blue-500 text-white rounded-full flex items-center justify-center" onClick={() => handleButtonClick(6)}>3</button>
-    </div>
-    ;
-  
+  <div>
   <Map {...mapAttr} onZoomEnd={handleZoomChange}>
     <GeolocateControl />
     <ScaleControl />
@@ -88,7 +74,13 @@ export default function SchoolMap( { data } : { data: any[] } ) {
       <Layer {...floorplan} />
     </Source>
   </Map>
-  
+  <div className="absolute bottom-4 right-4 flex space-x-2">
+    <button className="w-10 h-10 bg-blue-500 text-white rounded-full flex items-center justify-center" onClick={() => handleButtonClick(0)}>B</button>
+    <button className="w-10 h-10 bg-blue-500 text-white rounded-full flex items-center justify-center" onClick={() => handleButtonClick(2)}>1</button>
+    <button className="w-10 h-10 bg-blue-500 text-white rounded-full flex items-center justify-center" onClick={() => handleButtonClick(4)}>2</button>
+    <button className="w-10 h-10 bg-blue-500 text-white rounded-full flex items-center justify-center" onClick={() => handleButtonClick(6)}>3</button>
   </div>
   </div>
-  )}
+  );
+}
+
