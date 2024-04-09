@@ -4,7 +4,7 @@
 
 // react mapbox gl library
 import 'mapbox-gl/dist/mapbox-gl.css';
-import Map, {Source, Layer, GeolocateControl, ScaleControl, NavigationControl, ViewStateChangeEvent } from "react-map-gl"
+import Map, { Source, Layer, GeolocateControl, ScaleControl, NavigationControl, ViewStateChangeEvent } from "react-map-gl"
 import { useState } from 'react';
 import Link from 'next/link';
 // we can't use prisma in a client function
@@ -25,22 +25,22 @@ const floorplan: any = {
 const mapAttr: any = {
   mapboxAccessToken: process.env.NEXT_PUBLIC_MAPBOX_ACCESS_TOKEN,
   initialViewState: {
-      longitude: -88.1559,
-      latitude: 41.7674,
-      zoom: 17
-    },
-    mapStyle: "mapbox://styles/ejscamehorn/cls6whfn702cy01p1gmy2geqo",
-    width: "100%",
-    height: "100%", 
-    style: {
-      position: 'absolute',
-      top: 0,
-      left: 0
-    }
+    longitude: -88.1559,
+    latitude: 41.7674,
+    zoom: 17
+  },
+  mapStyle: "mapbox://styles/ejscamehorn/cls6whfn702cy01p1gmy2geqo",
+  width: "100%",
+  height: "100%",
+  style: {
+    position: 'absolute',
+    top: 0,
+    left: 0
+  }
 }
 
-export default function SchoolMap( { data } : { data: any[] } ) {
-  
+export default function SchoolMap({ data }: { data: any[] }) {
+
 
   const [zoom, setZoom] = useState(mapAttr.initialViewState.zoom);
   const [layerSrc, setLayerSrc] = useState(2);
@@ -49,38 +49,38 @@ export default function SchoolMap( { data } : { data: any[] } ) {
   const handleButtonClick = (buttonNumber: number) => {
     setSelectedButton(buttonNumber);
     console.log(buttonNumber)
-    handleLayerChange(zoom > 17.5 ? buttonNumber : 1 + buttonNumber )
+    handleLayerChange(zoom > 17.5 ? buttonNumber : 1 + buttonNumber)
   };
 
 
   const handleZoomChange = (event: ViewStateChangeEvent) => {
     setZoom(event.viewState.zoom)
     console.log(event.viewState.zoom)
-    handleLayerChange(zoom > 17.5 ? selectedButton : 1 + selectedButton )
+    handleLayerChange(zoom > 17.5 ? selectedButton : 1 + selectedButton)
   };
-  
+
   const handleLayerChange = (layerNumber: number) => {
-    console.log("changing layer to",layerNumber);
+    console.log("changing layer to", layerNumber);
     setLayerSrc(layerNumber)
   }
 
   return (
-  <div>
-  <Map {...mapAttr} onZoomEnd={handleZoomChange}>
-    <GeolocateControl />
-    <ScaleControl />
-    <NavigationControl />
-    <Source type="geojson" data={data[layerSrc]}>
-      <Layer {...floorplan} />
-    </Source>
-  </Map>
-  <div className="absolute bottom-4 right-4 flex space-x-2">
-    <button className="w-10 h-10 bg-blue-500 text-white rounded-full flex items-center justify-center" onClick={() => handleButtonClick(0)}>B</button>
-    <button className="w-10 h-10 bg-blue-500 text-white rounded-full flex items-center justify-center" onClick={() => handleButtonClick(2)}>1</button>
-    <button className="w-10 h-10 bg-blue-500 text-white rounded-full flex items-center justify-center" onClick={() => handleButtonClick(4)}>2</button>
-    <button className="w-10 h-10 bg-blue-500 text-white rounded-full flex items-center justify-center" onClick={() => handleButtonClick(6)}>3</button>
-  </div>
-  </div>
+    <div>
+      <Map {...mapAttr} onZoomEnd={handleZoomChange}>
+        <GeolocateControl />
+        <ScaleControl />
+        <NavigationControl />
+        <Source type="geojson" data={data[layerSrc]}>
+          <Layer {...floorplan} />
+        </Source>
+      </Map>
+      <div className="absolute bottom-4 right-4 flex space-x-2">
+        <button className="w-10 h-10 bg-blue-500 text-white rounded-full flex items-center justify-center" onClick={() => handleButtonClick(0)}>B</button>
+        <button className="w-10 h-10 bg-blue-500 text-white rounded-full flex items-center justify-center" onClick={() => handleButtonClick(2)}>1</button>
+        <button className="w-10 h-10 bg-blue-500 text-white rounded-full flex items-center justify-center" onClick={() => handleButtonClick(4)}>2</button>
+        <button className="w-10 h-10 bg-blue-500 text-white rounded-full flex items-center justify-center" onClick={() => handleButtonClick(6)}>3</button>
+      </div>
+    </div>
   );
 }
 
