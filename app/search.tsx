@@ -29,8 +29,18 @@ export default function Search() {
     setClassroom(query);
     console.log("Searching for classroom:", query);
     if (data) {
-      const filteredResults = data.filter((result: { className: any; }) => result.className === query);
+      // const filteredResults = data.filter((result: { className: any; }) => result.className === query);
+      const filteredResults = []
+      for (const result of data)
+      {
+        console.log(result["className"])
+        if (result["className"].toLowerCause().includes(query.toLowerCase()))
+        {
+          filteredResults.push(result);
+        }
+      }
       setSearchResults(filteredResults);
+      console.log(filteredResults)
     }
 
   }
