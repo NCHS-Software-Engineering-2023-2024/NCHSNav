@@ -33,8 +33,9 @@ export default function Search() {
       const filteredResults = []
       for (const result of data)
       {
-        console.log(result["className"])
-        if (result["className"].toLowerCause().includes(query.toLowerCase()))
+        console.log()
+        const className = result["className"]
+          if (className.toLowerCase().includes(query.toLowerCase()))
         {
           filteredResults.push(result);
         }
