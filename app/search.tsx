@@ -48,13 +48,18 @@ export default function Search() {
   
   return (
     <div>
-      <input
-        type="text"
-        placeholder="Search Classroom"
-        value={classroom}
-        onChange={handleInputChange}
-        className="p-2 rounded-lg border border-gray-300 focus:outline-none"
-      />
+      <div className="p-2 rounded-lg border border-gray-300 focus:outline-none bg-white">
+        <input
+          type="text"
+          placeholder="Search Classroom"
+          value={classroom}
+          onChange={handleInputChange}
+        />
+        <Link href="/api/auth/signin" className="border border-gray-300 rounded-lg p-2">
+          Sign in
+        </Link>
+      </div>
+
       <div 
         className="p-2 rounded-lg border border-gray-300 focus:outline-none bg-white max-h-96 overflow-y-scroll "
       >
@@ -66,9 +71,6 @@ export default function Search() {
           </div>
         ))}
       </div>
-      <Link href="/api/auth/signin" className="p-2 rounded-lg border border-gray-300 focus:outline-none">
-        Sign in
-      </Link>
     </div>
   );
 }
