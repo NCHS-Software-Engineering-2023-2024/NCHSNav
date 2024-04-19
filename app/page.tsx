@@ -9,6 +9,7 @@ import fs from 'fs';
 
 // client function for the map
 import SchoolMap from './map';
+import Schedule from './schedule';
 
 // server gets geojson of nchs floorplan from file
 const prefix: string = "mapping-src/geojson/";
@@ -47,6 +48,7 @@ export default function Home() {
       <SchoolMap
         data={geojsonArray}
       />
+      <Schedule />
     </main>
   );
 }
