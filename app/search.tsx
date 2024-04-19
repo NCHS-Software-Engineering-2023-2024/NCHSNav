@@ -31,13 +31,13 @@ export default function Search() {
     if (data) {
       // const filteredResults = data.filter((result: { className: any; }) => result.className === query);
       const filteredResults = []
-      for (const result of data)
-      {
-        console.log()
-        const className = result["className"]
-          if (className.toLowerCase().includes(query.toLowerCase()))
-        {
-          filteredResults.push(result);
+      if (query.length > 0) {
+        for (const result of data) {
+          console.log()
+          const className = result["className"]
+          if (className.toLowerCase().includes(query.toLowerCase())) {
+            filteredResults.push(result);
+          }
         }
       }
       setSearchResults(filteredResults);
@@ -55,18 +55,14 @@ export default function Search() {
         onChange={handleInputChange}
         className="p-2 rounded-lg border border-gray-300 focus:outline-none"
       />
-      <div>
+      <div 
+        className="p-2 rounded-lg border border-gray-300 focus:outline-none bg-white max-h-96 overflow-y-scroll "
+      >
         {searchResults.map((result, index) => (
           <div key={index}>
-            {/* Display search results here */}
-            <p>Period: {result.period}</p>
-            <p>Course ID: {result.courseID}</p>
-            <p>Section: {result.section}</p>
-            <p>Class Name: {result.className}</p>
-            <p>Last Name: {result.lastName}</p>
-            <p>First Name: {result.firstName}</p>
-            <p>Email: {result.email}</p>
-            <p>Room: {result.room}</p>
+            <p>{result.className}</p>
+            <p>{result.firstName} {result.lastName}</p>
+            <br></br>
           </div>
         ))}
       </div>
