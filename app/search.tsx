@@ -1,10 +1,12 @@
 "use client"
 import Link from "next/link";
+import Classroom from './classroom-info';
 import { useState, useEffect } from "react";
 
 export default function Search() {
   const [searchResults, setSearchResults] = useState([]);
-  const [classroom, setClassroom] = useState("");
+  const [searchQuery, setSearchQuery] = useState("");
+  const [classroom, setClassroom] = useState([]);
   const [data, setData] = useState(null);
   
   const fetchData = async () => {
@@ -25,7 +27,7 @@ export default function Search() {
 
   const handleInputChange = async (event: { target: { value: any; }; }) => {
     const query = event.target.value;
-    setClassroom(query);
+    setSearchQuery(query);
     console.log("Searching for classroom:", query);
     if (data) {
       // const filteredResults = data.filter((result: { className: any; }) => result.className === query);
@@ -38,9 +40,13 @@ export default function Search() {
           }
         }
       }
+      else {
+        setClassroom(null);
+      }
       setSearchResults(filteredResults);
     }
   }
+
   
   return (
     <div>
@@ -48,7 +54,7 @@ export default function Search() {
         <input
           type="text"
           placeholder="Search Classroom"
-          value={classroom}
+          value={searchQuery}
           onChange={handleInputChange}
         />
         <Link href="/api/auth/signin" className="border border-gray-300 rounded-lg p-2">
@@ -61,12 +67,20 @@ export default function Search() {
           className="p-2 rounded-lg border border-gray-300 focus:outline-none bg-white max-h-96 overflow-y-scroll "
         >
           {searchResults.map((result, index) => (
-            <div key={index}>
+            <div key={index} onClick={(e) => {
+              console.log("clicked on ", result)
+              setClassroom(result) }
+            } >
               <p>{result.className}</p>
               <p>{result.firstName} {result.lastName}</p>
               <br></br>
             </div>
           ))}
+        </div>
+      }
+      {classroom && 
+        <div>
+          <Classroom data={classroom} />
         </div>
       }
     </div>
