@@ -28,7 +28,6 @@ export default function Search() {
   const handleInputChange = async (event: { target: { value: any; }; }) => {
     const query = event.target.value;
     setSearchQuery(query);
-    console.log("Searching for classroom:", query);
     if (data) {
       // const filteredResults = data.filter((result: { className: any; }) => result.className === query);
       const filteredResults = []
@@ -67,9 +66,8 @@ export default function Search() {
           className="p-2 rounded-lg border border-gray-300 focus:outline-none bg-white max-h-96 overflow-y-scroll "
         >
           {searchResults.map((result, index) => (
-            <div key={index} onClick={(e) => {
-              console.log("clicked on ", result)
-              setClassroom(result) }
+            <div key={index} onClick={(e) => 
+              setClassroom(result) 
             } >
               <p>{result.className}</p>
               <p>{result.firstName} {result.lastName}</p>
