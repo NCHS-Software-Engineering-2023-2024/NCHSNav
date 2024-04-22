@@ -19,7 +19,6 @@ export default function Search() {
     const fetchDataFromApi = async () => {
       const fetchedData = await fetchData();
       setData(fetchedData);
-      console.log("data fetched.")
     }
     fetchDataFromApi();
   }, []);
@@ -33,7 +32,6 @@ export default function Search() {
       const filteredResults = []
       if (query.length > 0) {
         for (const result of data) {
-          console.log()
           const className = result["className"]
           if (className.toLowerCase().includes(query.toLowerCase())) {
             filteredResults.push(result);
@@ -41,7 +39,6 @@ export default function Search() {
         }
       }
       setSearchResults(filteredResults);
-      console.log(filteredResults)
     }
   }
   

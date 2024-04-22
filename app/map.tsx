@@ -48,19 +48,16 @@ export default function SchoolMap({ data }: { data: any[] }) {
   const [classroom, setClassroom] = useState("");
   const handleButtonClick = (buttonNumber: number) => {
     setSelectedButton(buttonNumber);
-    console.log(buttonNumber)
     handleLayerChange(zoom > 17.5 ? buttonNumber : 1 + buttonNumber)
   };
 
 
   const handleZoomChange = (event: ViewStateChangeEvent) => {
     setZoom(event.viewState.zoom)
-    console.log(event.viewState.zoom)
     handleLayerChange(zoom > 17.5 ? selectedButton : 1 + selectedButton)
   };
 
   const handleLayerChange = (layerNumber: number) => {
-    console.log("changing layer to", layerNumber);
     setLayerSrc(layerNumber)
   }
 
