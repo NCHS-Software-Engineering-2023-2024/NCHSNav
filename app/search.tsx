@@ -43,7 +43,6 @@ export default function Search() {
       setSearchResults(filteredResults);
       console.log(filteredResults)
     }
-
   }
   
   return (
@@ -60,17 +59,19 @@ export default function Search() {
         </Link>
       </div>
 
-      <div 
-        className="p-2 rounded-lg border border-gray-300 focus:outline-none bg-white max-h-96 overflow-y-scroll "
-      >
-        {searchResults.map((result, index) => (
-          <div key={index}>
-            <p>{result.className}</p>
-            <p>{result.firstName} {result.lastName}</p>
-            <br></br>
-          </div>
-        ))}
-      </div>
+      {searchResults.length > 0 &&
+        <div
+          className="p-2 rounded-lg border border-gray-300 focus:outline-none bg-white max-h-96 overflow-y-scroll "
+        >
+          {searchResults.map((result, index) => (
+            <div key={index}>
+              <p>{result.className}</p>
+              <p>{result.firstName} {result.lastName}</p>
+              <br></br>
+            </div>
+          ))}
+        </div>
+      }
     </div>
   );
 }
