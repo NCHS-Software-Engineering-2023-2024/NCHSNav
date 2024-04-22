@@ -6,7 +6,7 @@ import { useState, useEffect } from "react";
 export default function Search() {
   const [searchResults, setSearchResults] = useState([]);
   const [searchQuery, setSearchQuery] = useState("");
-  const [classroom, setClassroom] = useState([]);
+  const [classroom, setClassroom] = useState(null);
   const [data, setData] = useState(null);
   
   const fetchData = async () => {
