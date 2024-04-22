@@ -50,7 +50,7 @@ export default function Search() {
   
   return (
     <div>
-      <div className="p-2 rounded-lg border border-gray-300 focus:outline-none bg-white">
+      <div className="p-2 pr-0 rounded-lg border border-gray-300 focus:outline-none bg-white">
         <input
           type="text"
           placeholder="Search Classroom"
