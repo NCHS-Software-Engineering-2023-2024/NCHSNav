@@ -1,13 +1,25 @@
 "use client"
 import Link from "next/link";
 import Classroom from './classroom-info';
-import { useState, useEffect, button } from "react";
+import { useState, useEffect} from "react";
 
 export default function Search() {
   const [searchResults, setSearchResults] = useState([]);
   const [searchQuery, setSearchQuery] = useState("");
   const [classroom, setClassroom] = useState(null);
   const [data, setData] = useState(null);
+
+  interface Class {
+    id: number;
+    period: string;
+    courseID: string
+    section: string;
+    className: string;
+    lastName: string;
+    firstName: string;
+    email: string;
+    room: string;
+  }
   
   const fetchData = async () => {
     const response = await fetch('/api/db');
