@@ -63,21 +63,26 @@ export default function Search() {
 
       {searchResults.length > 0 &&
         <div
-          className="p-2 rounded-lg border border-gray-300 focus:outline-none bg-white max-h-96 overflow-y-scroll "
+          className=" p-2 rounded-lg border border-gray-300 focus:outline-none bg-white max-h-96 overflow-y-scroll "
         >
+          <div className="divide-y divide-gray-300 ">
           {searchResults.map((result, index) => (
-            <div key={index} onClick={(e) => 
+            <div className="hover:bg-gray-200 ">
+            <Link key={index} href="#" onClick={(e) => 
               setClassroom(result) 
-            } >
-              <p>{result.className}</p>
-              <p>{result.firstName} {result.lastName}</p>
-              <br></br>
+              }
+              
+            >
+              <p className="text-gray-800">{result.className}</p>
+              <p className="text-gray-400">{result.firstName} {result.lastName}</p>
+            </Link>
             </div>
           ))}
+          </div>
         </div>
       }
       {classroom && 
-        <div>
+        <div className="p-2 rounded-lg border border-gray-300 bg-white">
           <Classroom data={classroom} />
         </div>
       }
