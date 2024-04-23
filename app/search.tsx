@@ -1,7 +1,7 @@
 "use client"
 import Link from "next/link";
 import Classroom from './classroom-info';
-import { useState, useEffect } from "react";
+import { useState, useEffect, button } from "react";
 
 export default function Search() {
   const [searchResults, setSearchResults] = useState([]);
@@ -66,23 +66,20 @@ export default function Search() {
           className=" p-2 rounded-lg border border-gray-300 focus:outline-none bg-white max-h-96 overflow-y-scroll "
         >
           <div className="divide-y divide-gray-300 ">
-          {searchResults.map((result, index) => (
-            <div className="hover:bg-gray-200 ">
-            <Link key={index} href="#" onClick={(e) => 
-              setClassroom(result) 
-              }
-              
-            >
-              <p className="text-gray-800">{result.className}</p>
-              <p className="text-gray-400">{result.firstName} {result.lastName}</p>
-            </Link>
-            </div>
-          ))}
+            {searchResults.map((result, index) => (
+              <div className="hover:bg-gray-200 ">
+                <Link key={index} href="#" onClick={(e) => setClassroom(result)} >
+                  <p className="text-gray-800">{result.className}</p>
+                  <p className="text-gray-400">{result.firstName} {result.lastName}</p>
+                </Link>
+              </div>
+            ))}
           </div>
         </div>
       }
-      {classroom && 
-        <div className="p-2 rounded-lg border border-gray-300 bg-white">
+      {classroom &&
+        <div className="p-2 rounded-lg border border-gray-300 bg-white relative">
+          <button className="absolute border border-gray-300 rounded-full p-2 right-2" onClick={(e) => setClassroom(null)}>❌</button>
           <Classroom data={classroom} />
         </div>
       }
