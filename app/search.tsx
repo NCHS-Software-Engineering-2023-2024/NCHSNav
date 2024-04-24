@@ -3,13 +3,7 @@ import Link from "next/link";
 import Classroom from './classroom-info';
 import { useState, useEffect} from "react";
 
-export default function Search() {
-  const [searchResults, setSearchResults] = useState([]);
-  const [searchQuery, setSearchQuery] = useState("");
-  const [classroom, setClassroom] = useState(null);
-  const [data, setData] = useState(null);
-
-  interface Class {
+export interface Class {
     id: number;
     period: string;
     courseID: string
@@ -20,6 +14,13 @@ export default function Search() {
     email: string;
     room: string;
   }
+
+export default function Search() {
+  const [searchResults, setSearchResults] = useState([]);
+  const [searchQuery, setSearchQuery] = useState("");
+  const [classroom, setClassroom] = useState<Class | null>(null);
+  const [data, setData] = useState(null);
+
   
   const fetchData = async () => {
     const response = await fetch('/api/db');
@@ -78,7 +79,7 @@ export default function Search() {
           className=" p-2 rounded-lg border border-gray-300 focus:outline-none bg-white max-h-96 overflow-y-scroll "
         >
           <div className="divide-y divide-gray-300 ">
-            {searchResults.map((result, index) => (
+            {searchResults.map((result: Class, index) => (
               <div className="hover:bg-gray-200 ">
                 <Link key={index} href="#" onClick={(e) => setClassroom(result)} >
                   <p className="text-gray-800">{result.className}</p>

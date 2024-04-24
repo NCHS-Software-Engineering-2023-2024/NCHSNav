@@ -1,6 +1,7 @@
 "use client"
+import { Class } from "./search";
 
-export default function Classroom({ data }: { data: any[] }) {
+export default function Classroom({ data }: { data: Class }) {
     return (
         <div className="bg-white">
             <p>Period: {data.period}</p>
