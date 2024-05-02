@@ -2,7 +2,7 @@
 // react server function. you can not do anything in the client interactively 
 // here.
 
-import { PrismaClient } from '@prisma/client'
+
 
 // filesystem support
 import fs from 'fs';
@@ -42,13 +42,5 @@ filePaths.forEach((filePath: string) => {
 
 
 export default function Home() {
-  return (
-    <main>
-      {/* render mapbox with the geojson on top */}
-      <SchoolMap
-        data={geojsonArray}
-      />
-      <Schedule />
-    </main>
-  );
+ return <SchoolMap />
 }
