@@ -3,7 +3,7 @@
 "use client";
 import { TGetVenueOptions } from "@mappedin/mappedin-js";
 import "@mappedin/mappedin-js/lib/mappedin.css";
-import { useMemo } from "react";
+import { useMemo, useRef } from "react";
 
 import useMapView from "./useMapView";
 import useVenue from "./useVenue";
@@ -20,8 +20,8 @@ export default function SchoolMap() {
   );
 
   const venue = useVenue(options);
-  const { elementRef, mapView } = useMapView(elementRef.current, venue);
+  const { elementRef, mapView } = useMapView(venue);
 
-  return <div id="app" ref={elementRef} />;
+  return <div id="map" ref={elementRef} />;
 }
 
