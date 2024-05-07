@@ -46,13 +46,9 @@ export default function Home() {
   return (
     <main>
       {/* render mapbox with the geojson on top */}
-      <SchoolMap
-        data={geojsonArray}
-      />
-      <div className="absolute z-10 flex justify-center items-center top-0 left-0 w-full">
-        <Search />
-      </div>
-
+      <iframe href="https://www.mappedin.com/" title="Mappedin Map" name="Mappedin Map" 
+       width="100%" height="800px" 
+      src="https://app.mappedin.com/map/65f0a5e0789fb8fd13e8c800?embedded=true"></iframe>
     </main>
   );
 }
