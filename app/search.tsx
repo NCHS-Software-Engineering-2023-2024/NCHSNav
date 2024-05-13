@@ -42,7 +42,6 @@ export default function Search() {
     const query = event.target.value;
     setSearchQuery(query);
     if (data) {
-      // const filteredResults = data.filter((result: { className: any; }) => result.className === query);
       const filteredResults = []
       if (query.length > 0) {
         for (const result of data) {
