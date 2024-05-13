@@ -4,6 +4,11 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "NCHSNav",
   description: "Find your way around Central",
+  openGraph : {
+    title: "NCHSNav",
+    description: "Find your way around Central",
+    siteName: "NCHS Nav"
+  }
 };
 
 export default function RootLayout({
