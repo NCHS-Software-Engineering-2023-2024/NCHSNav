@@ -46,10 +46,10 @@ export default function Home() {
   return (
     <main>
       {/* render mapbox with the geojson on top */}
-      <iframe href="https://www.mappedin.com/" title="Mappedin Map" name="Mappedin Map"
+      <iframe title="Mappedin Map" name="Mappedin Map"
         className="w-full h-full absolute top-0 left-0"
         src="https://app.mappedin.com/map/65f0a5e0789fb8fd13e8c800?embedded=true" />
-      <div className="absolute z-10 flex justify-center items-center top-0 left-0 w-full">
+      <div className="absolute z-10 top-3 left-1/2 -translate-x-1/2">
         <Search />
       </div>
     </main>
