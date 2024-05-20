@@ -2,8 +2,6 @@
 
 A progressive web app to help you find your way around school.  
 
-
-
 ## iframe branch  
 Our current working demo is only an iframe to Mappedin map of NCHS we created.  
 All other development on this project is located on the main branch. 
@@ -41,14 +39,29 @@ We are using [typescript](https://www.typescriptlang.org/) for type saftey and [
 
 To georeference the pdfs we used [QGIS](https://qgis.org/en/site/about/index.html). Look in mapping-src/ to find source files and georeferenced files.  
 
+## What does this project do?
+This project aims to act as an alternative to Google Maps, usable in Naperville Central
+It lets you search for classrooms, and route to them using our navigation software.
+You can switch between the four floors in the school, and route between them using stairs.
 
 ## Future work to be completed
-This project is no where near completed to the state that we would like it to be. The following is a breif list of functionality that we would like to implement eventualy:   
+This project is no where near completed to the state that we would like it to be. The following is a brief list of functionality that we would like to implement eventualy:   
 Google authentication  
 Navigaion (Routing)  
 Clickable classrooms  
 Student schedule / Infinite Campus import  
 
 In the future, for when we want to figure out a routing engine, we are looking at either using Indrz or replicating their stack for routing in the backend. 
+
+## User story backlog
+As a user I want to be able to click on a classroom on the map and get information about that classroom, including an option to begin navigation there - 30 Points
+As a user, I should be able to begin navigation to my classroom where I can reference the app to view directons based off of my current gps location, valuable to guide the user to the next class - 50 Points
+As a user, when my destination is set, I should be able to view a route to my classroom destination, valuable because the user can visualize the amt of time it takes and how to get there - 25 points
+As a user I want to be able to search for classrooms by class name or teacher name or room number, view search results, and be able to see information for the classes if I click on a search result element. I should be able to see information for classes and also the location with a pin on the map. 30 points
+As a user I want to be able to differentiate functionality based on whether I'm signed into google or not, to provide security. - 25 points
+As a user I want to be able to import my Infinite Campus schedule so that I can easily pick classrooms to navigate between. - 50 points
+
+## Known issues
+There aren't many issues left with this project, however there may be bugs. Please feel free to reach out if anything is found.
 
 ### [Google Slides Prototype](https://docs.google.com/presentation/d/e/2PACX-1vQ8j8_AKURo8ozA3W5ryQ42I0sR6HpW06JJ_zPJnL5D-XpF8xS6MB6skeSBxa_V2IYZHmngVdcpd5Uy/pub?start=false&loop=false&delayms=60000)
