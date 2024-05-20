@@ -41,7 +41,9 @@ To georeference the pdfs we used [QGIS](https://qgis.org/en/site/about/index.htm
 
 ## What does this project do?
 This project aims to act as an alternative to Google Maps, usable in Naperville Central
+
 It lets you search for classrooms, and route to them using our navigation software.
+
 You can switch between the four floors in the school, and route between them using stairs.
 
 ## Future work to be completed
@@ -55,10 +57,15 @@ In the future, for when we want to figure out a routing engine, we are looking a
 
 ## User story backlog
 As a user I want to be able to click on a classroom on the map and get information about that classroom, including an option to begin navigation there - 30 Points 
+
 As a user, I should be able to begin navigation to my classroom where I can reference the app to view directons based off of my current gps location, valuable to guide the user to the next class - 50 Points 
+
 As a user, when my destination is set, I should be able to view a route to my classroom destination, valuable because the user can visualize the amt of time it takes and how to get there - 25 points 
+
 As a user I want to be able to search for classrooms by class name or teacher name or room number, view search results, and be able to see information for the classes if I click on a search result element. I should be able to see information for classes and also the location with a pin on the map. 30 points 
+
 As a user I want to be able to differentiate functionality based on whether I'm signed into google or not, to provide security. - 25 points 
+
 As a user I want to be able to import my Infinite Campus schedule so that I can easily pick classrooms to navigate between. - 50 points 
 
 ## Known issues
